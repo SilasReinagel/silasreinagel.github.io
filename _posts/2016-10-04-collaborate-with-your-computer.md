@@ -20,14 +20,15 @@ Your metaphor defines the way you relate to the computer. There are an infinite 
 
 If you perceive the computer as an inanimate tool, a stupid object who deals only in ones and zeroes, then your designs will reflect that. You will be a craftsman who must know how and how not to use your tool. You will be a micromanager who tells the computer precisely what to do, how to do it, and when to do it. You will micromanage the computer, watch its internal state and outputs closely, and debug problems when it doesn't do things quite right. The entire responsibility for making the computer accomplish tasks rests upon the programmers who write the task instructions. You need to be rather clever and know various tricks and techniques, since the computer doesn't help you with anything. This will result in programmers writing code like this:
 
-<pre><code>public void writeToFile(String filePath, String[] lines) throws IOException 
+{% highlight java lineanchors %}
+public void writeToFile(String filePath, String[] lines) throws IOException 
 {
     File file = new File(filePath);
     FileOutputStream outStream = new FileOutputStream(file); 
     BufferedWriter writer = new BufferedWriter(
         new OutputStreamWriter(outStream));
 
-    for (int i = 0; i &lt; lines.length; i++) 
+    for (int i = 0; i < lines.length; i++) 
     {
         writer.write(lines[i]);
         writer.newLine();
@@ -35,7 +36,7 @@ If you perceive the computer as an inanimate tool, a stupid object who deals onl
 
     writer.close();
 }
-</code></pre>
+{% endhighlight %}
 
 In the above example, the programmer is telling the computer what to do when someone tells it to write lines to a file. The code is not bad, but it is certainly very detail oriented. This procedure knows about many kinds of classes, it knows about IOExceptions, it knows about iterating through arrays, it knows about needed to close a writer after writing some lines. Furthermore, this solution is very specific. If another programmer needs to write something else to a file (bytes, images...etc.) then he will have to create a new procedure, since BufferedWriter only works with characters and strings.
 
