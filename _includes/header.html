@@ -1,11 +1,13 @@
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
-      <div class="clearfix"></div>
-      {% if site.show_social_icons %}
-        {% include social_links.html %}
-      {% endif %}
-    </div>
+<header class="site-header px-responsive">
+  <div class="measure container">
+    <a class="site-logo" href="{{ site.url }}">
+      <img class="site-header-img" src="/images/logo.png"/>
+    </a>
+    <img class="site-title-img" src="/images/title.png"/>
+    <img class="site-face-img" src="/images/face.jpg"/> 
   </div>
+      
+  {% if site.show_social_icons %}
+    {% include social_links.html %}
+  {% endif %}
 </header>

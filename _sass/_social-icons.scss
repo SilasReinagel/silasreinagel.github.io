@@ -1,18 +1,28 @@
-.social-icons-left, .social-icons-right {
-  text-align: center;
-  float: none;
+.social-icons-left {
+  float: left;
+}
+.social-icons-right {
+  float: right;
+}
+
+.social-icons-center {
+  display: flex;
+  justify-content: center;
 }
 
 .social-icons {
   font-size: 1.25rem;
   padding: 0.5em 0 0 0;
   width: 100%;
+  margin-top: 1em;
 }
 
 .social-icons a.fa {
   cursor: pointer;
   opacity: 0.8;
-  padding: 0.2em;
+  padding: 0 0.4em;
+  margin: 0 0.25em;
+  font-size: 1.25rem;
 }
 
 .social-icons a.fa:hover {
