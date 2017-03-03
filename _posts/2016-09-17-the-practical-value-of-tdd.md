@@ -22,9 +22,10 @@ The first law of TDD is: You may not write any production code until you have a 
 
 Your first lines of test code define the API and usage syntax:
 
-<pre><code>GzipCompressor compressor = new GzipCompressor();
+{% highlight java %}
+GzipCompressor compressor = new GzipCompressor();
 byte[] sBytes = compressor.compress("SampleLine".getBytes());
-</code></pre>
+{% endhighlight %}
 
 <strong>This is extremely valuable since it forces you, as a developer, to think about the problem you are solving, and not about how a computer works.</strong>
 

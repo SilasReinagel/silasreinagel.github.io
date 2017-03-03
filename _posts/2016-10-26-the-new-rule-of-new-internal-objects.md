@@ -79,7 +79,7 @@ The Old Rule of New solves most of the same issues. I quote from Yegor Bugayenko
 
 <hr />
 
-<i>I suggest a simple rule that will ensure good design on all your objects: don't use "new" anywhere except in secondary constructors.... If you entirely prohibit yourself from using "new" anywhere else, your objects will be fully decoupled from each other, and their testability and maintainability will be much higher.</i>
+<blockquote>I suggest a simple rule that will ensure good design on all your objects: don't use "new" anywhere except in secondary constructors.... If you entirely prohibit yourself from using "new" anywhere else, your objects will be fully decoupled from each other, and their testability and maintainability will be much higher.</blockquote>
 
 <hr />
 

@@ -5,7 +5,7 @@
 
 .posts .post {
   margin-bottom: 0.75em;
-  border-bottom: thin solid #f3f3f3;
+  border-bottom: thin solid $divider-color;
 }
 
 .posts .post:last-child {
@@ -16,7 +16,7 @@
 
 .post-link .post-title {
   margin-top: 0;
-  font-weight: 600;
+  font-weight: $bold-font-weight;
   color: $site-color;
 }
 
@@ -44,5 +44,10 @@
 }
 
 .related-post-title {
+  margin-top: 3rem;
   border-bottom: thin solid #f3f3f3;
+}
+
+.related-post-title .post-link .post-title {  
+  font-weight: $light-font-weight;
 }

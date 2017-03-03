@@ -1,7 +1,8 @@
 pre,
 pre code {
-  background-color: transparent;
+  background-color: $pre-background-color;
   border-radius: $pre-border-radius;
+  font-size: $codeblock-font-size;
 }
 
 pre,
@@ -10,8 +11,11 @@ code {
 }
 
 code {
-  color: #7a7a7a;
-  font-size: 0.7rem;
+  background-color: $code-background-color;
+  color: $code-color;
+  font-size: $code-font-size;
+  padding: 0.15rem;
+  margin: 0 0.15rem;
 }
 
 pre {
@@ -19,11 +23,6 @@ pre {
   line-height: 1.0;
   overflow-x: scroll;
   margin-bottom: 0.88em;
-  background-color: $pre-background-color;
-}
-
-.highlight .p {
-  line-height: 1.0;
 }
 
 pre {

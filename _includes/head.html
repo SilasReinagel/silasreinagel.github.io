@@ -25,7 +25,10 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
 
-    <!-- Fonts -->
+    <!-- Fonts -->    
+    <link href='http://fonts.googleapis.com/css?family=Rubik:300,300italic,500,500italic,400,400italic,600,600italic,700,700italic&amp;lang=en%22' rel='stylesheet' type='text/css'/>
+    <link href='http://fonts.googleapis.com/css?family=Nunito:300,300italic,400,400italic,600,600italic700,700italic&amp;lang=en%22' rel='stylesheet' type='text/css'/>
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic&amp;lang=en%22' rel='stylesheet' type='text/css'/>
     {% if site.extended_fonts %}
     <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Lato:900,300&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
@@ -36,6 +39,15 @@
     {% if site.show_social_icons or site.show_sharing_icons %}
       <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     {% endif %}
+
+    <!--Add Highlight.js https://highlightjs.org/download/ -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.0.0/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.0.0/highlight.min.js"></script>
+
+    <!-- Using Highight.js https://highlightjs.org/usage/-->
+    <script>
+      hljs.initHighlightingOnLoad();
+    </script>
 
     <!-- Verifications -->
     {% if site.google_verification %}
@@ -64,20 +76,20 @@
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 
     <!-- Icons -->
-    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
-    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/icon/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/icon/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/icon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/icon/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/icon/favicon-32x32.png" sizes="32x32">
 
     {% if site.google_analytics %}
     <script type="text/javascript">

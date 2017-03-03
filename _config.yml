@@ -21,7 +21,6 @@ animated:             false
 show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    true
-ajaxify_contact_form: true
 enable_mathjax: false
 extended_fonts: false
 enable_anchorjs: false
@@ -66,8 +65,8 @@ share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: true
-share_stumbleupon: false
-share_hackernews: false
+share_stumbleupon: true
+share_hackernews: true
 
 text:
   pagination:
@@ -103,11 +102,10 @@ text:
   og_locale: 'en_US'
 
 # Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+markdown:   kramdown
+highlighter:  rouge
 permalink:    pretty
-paginate:     4
+paginate:     5
 sass:
   style: compressed
 gems:

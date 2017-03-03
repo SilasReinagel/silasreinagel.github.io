@@ -59,11 +59,11 @@
 .hljs-id,
 .scss .hljs-preprocessor {
   color: $hljs-title;
-  font-weight: bold;
+  font-weight: $pre-bold-font-weight;
 }
 
 .highlight .k {
-  font-weight: normal;
+  font-weight: $pre-font-weight;
 }
 
 .highlight .nc,
@@ -73,7 +73,7 @@
 
 .highlight .o {
   color: $hljs-tag;
-  font-weight: normal;
+  font-weight: $pre-font-weight;
 }
 
 .highlight .nb {
@@ -88,6 +88,10 @@
   color: $hljs-symbol;
 }
 
+.highlight .p {
+  line-height: 1.0;
+}
+
 .hljs-built_in {
   color: $hljs-built-in;
 }
@@ -99,7 +103,7 @@
 .hljs-shebang,
 .hljs-cdata {
   color: $hljs-preprocessor;
-  font-weight: bold;
+  font-weight: $pre-bold-font-weight;
 }
 
 .hljs-deletion {

@@ -23,7 +23,7 @@ Dev: Great. Thank you.</blockquote>
 
 <h4>Same conversation in Java</h4>
 
-<code>Basket&lt;EasterEgg&gt; basket = new Basket&lt;&gt;();</code>
+<code class="java">Basket&lt;EasterEgg&gt; basket = new Basket&lt;&gt;();</code>
 <blockquote>Dev: Hey Java, how many eggs are in the basket?
 Java: Do you mean items?
 Dev: Sure, How many items are in the basket?

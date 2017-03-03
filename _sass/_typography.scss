@@ -17,6 +17,11 @@ small,
   font-size: 0.707rem;
 }
 
+strong,
+ .strong {
+   font-weight: $bold-font-weight;
+}
+
 sup {
   position: relative;
   vertical-align: middle;
