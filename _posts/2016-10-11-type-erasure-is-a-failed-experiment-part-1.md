@@ -14,33 +14,33 @@ Before we get into some code, here is an imaginary conversation I have with two 
 
 <h4>Imaginary C# conversation</h4>
 
-<code>var basket = new Basket&lt;EasterEgg&gt;();</code>
-<blockquote>Dev: Hey C#, how many eggs are in the basket?
-C#: 5
-Dev: What kind of items are in this basket?
-C#: EasterEggs
+`var basket = new Basket<EasterEgg>();`
+<blockquote>Dev: Hey C#, how many eggs are in the basket?<br>
+C#: 5<br>
+Dev: What kind of items are in this basket?<br>
+C#: EasterEggs<br>
 Dev: Great. Thank you.</blockquote>
 
 <h4>Same conversation in Java</h4>
 
-<code class="java">Basket&lt;EasterEgg&gt; basket = new Basket&lt;&gt;();</code>
-<blockquote>Dev: Hey Java, how many eggs are in the basket?
-Java: Do you mean items?
-Dev: Sure, How many items are in the basket?
-Java: 5
-Dev: Java, what kind of items are in the basket?
-Java: I don't know.
-Dev: What do you mean you don't know?
-Java: I forgot
-Dev: Java, that's a basket of eggs, ok?
-Java: Ok
-Dev: What kind of items are in the basket?
-Java: I don't know.
-Dev: What do you mean you don't know? I just told you.
-Java: I forgot.
-Dev: Hey Java, can you get me a Flower out of the basket?
-Java: Sure. Here's a Flower
-Dev: What on earth! This is an Easter Egg! Why did you tell me it was a Flower?
+`Basket<EasterEgg> basket = new Basket<>();`
+<blockquote>Dev: Hey Java, how many eggs are in the basket?<br>
+Java: Do you mean items?<br>
+Dev: Sure, How many items are in the basket?<br>
+Java: 5<br>
+Dev: Java, what kind of items are in the basket?<br>
+Java: I don't know.<br>
+Dev: What do you mean you don't know?<br>
+Java: I forgot<br>
+Dev: Java, that's a basket of eggs, ok?<br>
+Java: Ok<br>
+Dev: What kind of items are in the basket?<br>
+Java: I don't know.<br>
+Dev: What do you mean you don't know? I just told you.<br>
+Java: I forgot.<br>
+Dev: Hey Java, can you get me a Flower out of the basket?<br>
+Java: Sure. Here's a Flower<br>
+Dev: What on earth! This is an Easter Egg! Why did you tell me it was a Flower?<br>
 Java: You asked for a Flower. That's your problem.</blockquote>
 
 <hr />
@@ -51,9 +51,10 @@ Java: You asked for a Flower. That's your problem.</blockquote>
 
 Consider the following. Suppose we are creating an application that reports on the contents of Easter Egg Hunt findings.
 
-<pre><code>public class EasterCollectionReport
+{% highlight java %}
+public class EasterCollectionReport
 {
-    private List&lt;String&gt; reportLines = new ArrayList&lt;&gt;();
+    private List<String> reportLines = new ArrayList<>();
 
     public void add(EasterEgg egg)
     {
@@ -64,16 +65,17 @@ Consider the following. Suppose we are creating an application that reports on t
     {
         reportLines.add("Candy: " + candy.toString());
     }
-}
-</code></pre>
+}    
+{% endhighlight %}
 
 This compiles just fine. No problems. Now, let us suppose we want to interface segregate this Report, such that Candy does not know that this report may contain information about EasterEggs and vice versa. The clients say that sometimes they want to format the Candy report and the EasterEgg report differently, but other times they want a single simple report. So, we create a simple generic interface:
 
-<pre><code>public interface Report&lt;T&gt;
+``` java
+public interface Report<T>
 {
     void add(T obj);
 }
-</code></pre>
+```
 
 Now, the EasterCollectionReport should implement this interface twice, since we can presently add Candy or Easter Eggs to this report.
 

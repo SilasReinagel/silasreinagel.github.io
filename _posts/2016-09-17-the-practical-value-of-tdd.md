@@ -12,11 +12,11 @@ Test-Driven Development (TDD) is still a controversial practice. For many develo
 
 TDD offers two primary practical values.
 
-<hr />
+----
 
-<h3>1. TDD focuses on the Problem Space</h3>
+### 1. TDD focuses on the Problem Space
 
-<hr />
+----
 
 The first law of TDD is: You may not write any production code until you have a failing unit test. What this means is that you first must write some code that calls the new functionality, before you can begin coding it. This forces you to decide how you will interact with your program.
 
@@ -33,11 +33,11 @@ This paradigm is not natural to most programmers. Since programmers spend most o
 
 TDD offers a new mental frame. It teaches programmers to think about problems top-down. Since strict adherence to the laws of TDD means that you cannot begin thinking about specific code implementations until you have tests, you focus on what behavior the software will provide. This leads to much more clear, intuitive, and expressive code. It preempts the possibility of optimizing early or mindlessly applying certain design patterns.
 
-<hr />
+----
 
-<h3>2. TDD yields a Comprehensive Automated Test Suite</h3>
+### 2. TDD yields a Comprehensive Automated Test Suite
 
-<hr />
+----
 
 The other big benefit is the ability to ensure the behavior of your software. This offers the most value when you are working with a team or building anything larger than a small program. They are also extremely useful in a small program which is changed or improved frequently.
 
@@ -45,18 +45,16 @@ Following the laws of TDD will always result in a suite of tests that covers vir
 
 Whenever you want to know for certain if your code handles all of the designed use cases, you can simply run your test suite and get rapid feedback.
 
-<ul>
-<li>Add new functionality and want to ensure that you didn't break something elsewhere in the program? Run your tests.</li>
-<li>Merge with another commit and need to validate that you merged correctly? Run your tests.</li>
-<li>Experimenting with a better plugin or new library? Run your tests.</li>
-<li>Ready to release a new version? Run your tests and ship it. </li>
-</ul>
+* Add new functionality and want to ensure that you didn't break something elsewhere in the program? Run your tests.
+* Merge with another commit and need to validate that you merged correctly? Run your tests.
+* Experimenting with a better plugin or new library? Run your tests.
+* Ready to release a new version? Run your tests and ship it.
 
 Creating a test suite that you can trust isn't easy. It takes disciplines, dedication and hard work. But the result is that you and your team can ensure the quality of software with minimal effort.
 
 To gain all of the benefits of Continuous Integration, you absolutely must have a comprehensive suite of automated tests. I know of no better practical way to end up with a trustworthy and comprehensive suite of tests than the discipline of TDD.
 
-<hr />
+----
 
 I'm a practical programmer. You probably are, too. The only useful programming practices and disciplines are the ones that offer practical value.
 

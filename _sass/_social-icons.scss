@@ -38,6 +38,10 @@
   margin-top: $space-3;
 }
 
-.share-links a.fa {
+.share-links a {
   text-decoration: none;
+}
+
+.share-links a:hover {
+  opacity: 1
 }

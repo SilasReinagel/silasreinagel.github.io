@@ -37,8 +37,8 @@ $viewport-large: 64em;
 $site-color: #fff;
 $site-color-shadow: #a1a1a1;
 $inner-color: $site-color;
-$site-bg-color: #1e1e1e;
-$inner-bg-color: #303030;
+$site-bg-color: #1f1f1f;
+$inner-bg-color: #333333;
 
 // Colors
 $blue: #0076df !default;
@@ -102,24 +102,24 @@ $form-field-padding-x: .5rem;
 
 // Code
 $pre-border-radius: 10;
-$pre-background-color: $site-bg-color;
+$pre-background-color: $inner-bg-color;
 $pre-font-weight: 300;
 $pre-bold-font-weight: 600;
 $code-font-size: 1.0rem;
-$code-color: #43c2d4;
+$code-color: #fff;
 $code-background-color: $inner-bg-color;
 $codeblock-font-size: 0.75rem;
 $hljs-comment: $green;
-$hljs-keyword: $dark-blue;
-$hljs-name: $purple;
+$hljs-keyword: #43c2d4;
+$hljs-name: #fff;
 $hljs-number: $dark-green;
-$hljs-string: $red;
-$hljs-title: $red;
-$hljs-type: $dark-blue;
-$hljs-tag: $dark-blue;
+$hljs-string: $orange;
+$hljs-title: $purple;
+$hljs-type: #b8d7a3;
+$hljs-tag: $purple;
 $hljs-attribute: $dark-green;
 $hljs-regexp: $dark-green;
-$hljs-symbol: $purple;
+$hljs-symbol: #fff;
 $hljs-built-in: $dark-blue;
 $hljs-preprocessor: $inner-bg-color;
 $hljs-deletion: $light-pink;

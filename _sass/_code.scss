@@ -14,23 +14,19 @@ code {
   background-color: $code-background-color;
   color: $code-color;
   font-size: $code-font-size;
-  padding: 0.15rem;
-  margin: 0 0.15rem;
 }
 
 pre {
-  padding: 1.125em;
-  line-height: 1.0;
+  padding: 1.0em;
+  line-height: 1.5;
   overflow-x: scroll;
   margin-bottom: 0.88em;
-}
-
-pre {
-    counter-reset: line-numbering;
-    white-space: pre;
-    overflow-x: auto;
-    word-break: inherit;
-    word-wrap: inherit;
+  margin-top: 1.0em;
+  counter-reset: line-numbering;
+  white-space: pre;
+  overflow-x: auto;
+  word-break: inherit;
+  word-wrap: inherit;
 }
 
 pre a {

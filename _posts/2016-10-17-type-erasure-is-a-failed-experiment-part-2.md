@@ -10,27 +10,29 @@ In <a href="http://silasreinagel.com/2016/10/11/type-erasure-is-a-failed-experim
 
 As someone who loves generics, I like to be able to abstractly solve general problems. It's nice to work with a language which empowers that paradigm. C# does it very well. Java, because of the peculiar experiment with Type Erasure, forgets too much. It doesn't fail fast, and it doesn't keep your data types pure in various scenarios. There are ways to get around some of these big problems, but Java forces its developers to consider and deal with the complexity, rather than encapsulating all those concerns and offering clean syntax and a reliable implementation for generics.
 
-<hr />
+----
 
 <h3>Types, Casting, and Collection Content Integrity</h3>
 
-<hr />
+----
 
 Consider the following Java code:
 
-<pre><code>List&lt;String&gt; names = new ArrayList&lt;&gt;();
+``` java
+List<String> names = new ArrayList<>();
 names.add("Bob");
-String bob = names.get(0); 
-</code></pre>
+String bob = names.get(0);         
+```
 
 The above example looks clean. You create a List of Strings, and then add and retrieve the string "Bob". It works great. The syntax is very reasonable.
 
 However, it's a big lie! The apparent functionality that the code above describes is very different than what it compiles to. Indeed, most of it is syntactic compile-time sugar provided by Java. Here's the equivalent compiled code:
 
-<pre><code>List names = new ArrayList();
+``` java
+List names = new ArrayList();
 names.add("Bob");
 String bob = (String)names.get(0);
-</code></pre>
+```
 
 Ummm... what? Why is there casting? Why does List not have a type of contents? You can thank Java's Type Erasure. At compile time, Java will restrict methods based on generic types, but at runtime, there is no such protection. Every time you instantiate a List, (or any other generic object), Java immediately forgets about any types you have specified. It is only capable of using typed objects by casting them when they are retrieved.
 
@@ -50,11 +52,11 @@ Conceptually, it would be much nicer if a List of String was actually a List of 
 
 For single-computer applications that have no external data sources and follow proper coding practices, this isn't a big problem. Just follow the compiler rules and everything will work great.
 
-<hr />
+----
 
 <h3>Serialization</h3>
 
-<hr />
+----
 
 It gets more complicated if you have external data sources, differing versions of external libraries, or service calls with serialization (especially binary serialization).
 
@@ -88,7 +90,7 @@ var permissionBytes = ToBytes(permissions);
 var permissionLongs = FromBytes&lt;List&lt;long&gt;&gt;(permissionBytes);
 </code></pre>
 
-As expected, when the client attempts to get the List<long>, the following exception is thrown: <code>System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List'1[System.String]' to type 'System.Collections.Generic.List'1[System.Int64]'.</code>
+As expected, when the client attempts to get the List<long>, the following exception is thrown: `System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List'1[System.String]' to type 'System.Collections.Generic.List'1[System.Int64]'.`
 
 <h3>Java Server/Client Mismatch</h3>
 
@@ -103,16 +105,17 @@ List&lt;Long&gt; permissionLongs = fromBytes(permissionBytes);
 
 The above code will execute without an exception. The object will be deserialized. The client application will not realize there is anything wrong until a bit later. Once the client application tries to access a Permission element, the application will blow up.
 
-<pre><code>long firstPermission = permissionLongs.get(0);
-</code></pre>
+``` java
+long firstPermission = permissionLongs.get(0);
+```
 
-The following error will be logged: <code>java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Long</code>. Why didn't it fail when we received the invalid object, rather than waiting until we went to use it? Because of Type Erasure. So much for the fail-fast philosophy.
+The following error will be logged: `java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Long`. Why didn't it fail when we received the invalid object, rather than waiting until we went to use it? Because of Type Erasure. So much for the fail-fast philosophy.
 
-<hr />
+----
 
-<h3>Summary</h3>
+### Summary
 
-<hr />
+----
 
 The primary benefit of statically-typed languages is that one can use pure logic to reason about Types. Type Erasure works at cross-purposes to that goal, by forgetting about things that we need to reason about. It's nice to know for certain that a List<Sandwich> will contain only Sandwiches and objects that are subtypes of Sandwiches. In Java, most of the time you can still safely assume it, but you never know for certain that a List<Sandwich> doesn't have a MonkeyWrench in it -- you just don't know for sure.
 
