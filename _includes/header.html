@@ -1,7 +1,7 @@
 <header class="site-header px-responsive">
   <div class="measure container">
     <a class="site-logo" href="{{ site.url }}">
-      <img class="site-header-img" src="/images/logo.png"/>
+      <img class="site-logo-img" src="/images/logo.png"/>
     </a>
     <img class="site-title-img" src="/images/title.png"/>
     <img class="site-face-img" src="/images/face.jpg"/> 
@@ -10,4 +10,8 @@
   {% if site.show_social_icons %}
     {% include social_links.html %}
   {% endif %}
+
+  <div class="measure site-header-bar nav" role="navigation">
+    <a class="" href="/all.html">All Posts</a>
+  </div>
 </header>

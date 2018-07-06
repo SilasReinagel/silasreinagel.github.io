@@ -4,7 +4,7 @@ title: The Practical Value of TDD
 date: 2016-09-17 22:32
 author: silas.reinagel@gmail.com
 comments: true
-categories: [Software Engineering, tdd]
+categories: [blog]
 ---
 Programming is a practical discipline. There are no silver bullets. The effectiveness of different techniques varies in usefulness, depending on the tools, the team, and the development environment.
 

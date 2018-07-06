@@ -4,7 +4,7 @@ email:       silas.reinagel@gmail.com
 author:      Silas Reinagel
 description: "Extreme Software Engineering Blog"
 baseurl:     ""
-url:         "http://www.silasreinagel.com"
+url:         "http://silasreinagel.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -32,7 +32,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: silasreinagel
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -65,7 +65,7 @@ share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: true
-share_stumbleupon: true
+share_stumbleupon: false
 share_hackernews: true
 
 text:
@@ -107,7 +107,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 permalink:    pretty
-paginate:     5
+paginate:     1
 sass:
   style: compressed
 gems:

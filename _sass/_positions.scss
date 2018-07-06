@@ -5,3 +5,8 @@
 .right {
   float: right;
 }
+
+.center-horizontally {
+  display: flex;
+  justify-content: center;
+}

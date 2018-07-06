@@ -4,7 +4,7 @@ title: The New Rule of New - Internal Objects
 date: 2016-10-26 17:00
 author: silas.reinagel@gmail.com
 comments: true
-categories: [Object Oriented Design, Object Thinking, Software Engineering]
+categories: [blog]
 ---
 One of the challenges in Object-Oriented Design is figuring out exactly when and where objects should be instantiated. Where is the best place to create a new instance of an object? Where is it critically important not to create new object instances? When should you return a new copy of an object, rather than an existing instance? What are the competing code attributes that must be balanced against each other?
 

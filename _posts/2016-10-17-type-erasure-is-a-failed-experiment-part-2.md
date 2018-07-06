@@ -4,7 +4,7 @@ title: Type Erasure is a Failed Experiment - Type Integrity
 date: 2016-10-17 14:00
 author: silas.reinagel@gmail.com
 comments: true
-categories: [Java, Software Engineering]
+categories: [blog]
 ---
 In <a href="http://silasreinagel.com/2016/10/11/type-erasure-is-a-failed-experiment-part-1/">part one</a>, we introduced the topic of Type Erasure, looked at an imaginary conversation with C# and the same conversation with Java, and delved into some of the problems with Java Generics. If you haven't read that, go back and read it before you read this post.
 

@@ -1,28 +1,33 @@
 ---
-layout: default
+layout: blank
+title: "Silas Reinagel - Extreme Software Engineering"
 ---
-{% assign posts_count = (paginator.posts | size) %}
 
-<div class="home">
-  {% if posts_count > 0 %}
-    <div class="posts">
+<div class="landing">
+  <div class="measure container">
+    <a class="site-logo" href="{{ site.url }}">
+      <img class="site-logo-img" src="/images/logo.png"/>
+    </a>
+    <img class="site-title-img" src="/images/title.png"/>
+    <img class="site-face-img" src="/images/face.jpg"/> 
+        
+  {% if site.show_social_icons %}
+    {% include social_links.html %}
+  {% endif %}
+
+    <div class="p-responsive wrap measure" role="main">
       {% for post in paginator.posts %}
-        <div class="post py3">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          <p class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
-            {% else %}
-              {{ post.excerpt }}
-            {% endif %}
-          </p>
-        </div>
+      <div class="post py2">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link dark-bg">
+          <div class="py1 px1">
+            <div class="container no-bg"><img class="post-featured-img" src="{{ post.featured-img }}"></img></div>
+            <p class="post-meta inverse center">{{ post.date | date: site.date_format }}</p>
+            <h1 class="h1 post-title inverse center">{{ post.title }}</h1>
+            <p class="post-summary inverse">{{ post.excerpt }}</p>
+          </div>
+        </a>
+      </div>
       {% endfor %}
     </div>
-
-    {% include pagination.html %}
-  {% else %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
-  {% endif %}
+  </div>
 </div>

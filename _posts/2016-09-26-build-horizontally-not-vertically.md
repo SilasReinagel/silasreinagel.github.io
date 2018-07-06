@@ -4,7 +4,7 @@ title: Build Horizontally, not Vertically
 date: 2016-09-26 19:26
 author: silas.reinagel@gmail.com
 comments: true
-categories: [Software Engineering]
+categories: [blog]
 ---
 <strong>If you want a program that is fragile, rigid, and immobile, build vertically.</strong>
 

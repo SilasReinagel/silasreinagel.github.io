@@ -2,11 +2,11 @@
 $base-font-size: 14px !default;
 $light-font-weight: 300 !default;
 $body-font-weight: 300 !default;
-$bold-font-weight: 600 !default;
-$font-family: 'Rubik', 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$bold-font-weight: 700 !default;
+$font-family: 'Rubik', 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', sans-serif !default;
 $line-height: 1.5 !default;
 $heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
-$heading-font-weight: 600 !default;
+$heading-font-weight: 500 !default;
 $heading-line-height: 1.25 !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
 $h1: 2.25rem !default;
@@ -34,11 +34,11 @@ $viewport-medium: 48em;
 $viewport-large: 64em;
 
 // Site Theme
-$site-color: #fff;
-$site-color-shadow: #a1a1a1;
+$site-color: #000;
+$site-color-shadow: #1f1f1f;
 $inner-color: $site-color;
-$site-bg-color: #1f1f1f;
-$inner-bg-color: #333333;
+$site-bg-color: #fff;
+$inner-bg-color: #cdcdcd;
 
 // Colors
 $blue: #0076df !default;
@@ -106,12 +106,12 @@ $pre-background-color: $inner-bg-color;
 $pre-font-weight: 300;
 $pre-bold-font-weight: 600;
 $code-font-size: 1.0rem;
-$code-color: #fff;
+$code-color: $site-color;
 $code-background-color: $inner-bg-color;
 $codeblock-font-size: 0.75rem;
 $hljs-comment: $green;
 $hljs-keyword: #43c2d4;
-$hljs-name: #fff;
+$hljs-name: $site-color;
 $hljs-number: $dark-green;
 $hljs-string: $orange;
 $hljs-title: $purple;
@@ -119,7 +119,7 @@ $hljs-type: #b8d7a3;
 $hljs-tag: $purple;
 $hljs-attribute: $dark-green;
 $hljs-regexp: $dark-green;
-$hljs-symbol: #fff;
+$hljs-symbol: $site-color;
 $hljs-built-in: $dark-blue;
 $hljs-preprocessor: $inner-bg-color;
 $hljs-deletion: $light-pink;
@@ -134,7 +134,7 @@ $blockquote-font-size: 0.6rem;
 $header-border-bottom: 0;
 $header-padding: 0;
 $header-color: $site-color;
-$header-bg-color: $site-bg-color;
+$header-bg-color: #2f2f2f;
 $header-font-weight: 300;
 $header-font-size: $h3;
 
@@ -147,4 +147,4 @@ $footer-font-weight: 300;
 $footer-font-size: .75rem;
 
 // Dividers
-$divider-color: #f3f3f3;
+$divider-color: #1f1f1f;

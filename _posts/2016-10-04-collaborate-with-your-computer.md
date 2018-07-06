@@ -4,7 +4,7 @@ title: Collaborate With Your Computer
 date: 2016-10-04 09:00
 author: silas.reinagel@gmail.com
 comments: true
-categories: [Object Thinking, Software Engineering]
+categories: [blog]
 ---
 One of the core concepts in Object Thinking or Extreme Programming is the importance of metaphors. Metaphors are the way you conceptualize a given problem in your mind. The metaphors you use will profoundly influence your designs.
 

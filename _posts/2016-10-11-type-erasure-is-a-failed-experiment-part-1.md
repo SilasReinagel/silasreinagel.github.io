@@ -4,7 +4,7 @@ title: Type Erasure Is A Failed Experiment - Interface Segregation
 date: 2016-10-11 09:00
 author: silas.reinagel@gmail.com
 comments: true
-categories: [Java, Software Engineering]
+categories: [blog]
 ---
 Generics are amazing! There is something immensely satisfying about solving an entire class of similar problems, rather than just solving a single instance of a problem. Why figure out how to cache this one database call, when I could figure out how to cache an arbitrary number of varying database calls? Why merely solve authenticating one web request, when a solution to authenticating all web requests is within reach? The scope of engineering problems vary, but my tendency does not. I would rather solve something abstractly, than concretely. Creating simple, elegant, portable solutions to particular type of problems is immensely satisfying.
 
