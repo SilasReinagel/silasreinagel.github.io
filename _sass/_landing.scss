@@ -1,12 +1,12 @@
-.landing {
-  background-image: url("/images/site-bg.jpg");
-  height: 100vh;
-  width: 100vw;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
+// .site {
+//   background-image: url("/images/site-bg.jpg");
+//   height: 100vh;
+//   width: 100vw;
+//   background-position: center;
+//   background-repeat: no-repeat;
+//   background-size: cover;
+//   position: relative;
+// }
 
 .landing a {
   border-bottom: $header-border-bottom;
@@ -26,6 +26,18 @@
 
 .dark-bg div {
   background-color: rgba(0, 0, 0, 0.50);
+}
+
+.light-bg div {
+  background-color: $site-bg-color;
+}
+
+.landing .featured-post a {
+  border-color: #888888;
+  border-width: 2px;
+}
+.landing .featured-post a:hover {
+  border-color: #5588ce;
 }
 
 .dark-bg div:hover,

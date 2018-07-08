@@ -1,33 +1,21 @@
 ---
-layout: blank
+layout: default
 title: "Silas Reinagel - Extreme Software Engineering"
 ---
 
 <div class="landing">
   <div class="measure container">
-    <a class="site-logo" href="{{ site.url }}">
-      <img class="site-logo-img" src="/images/logo.png"/>
-    </a>
-    <img class="site-title-img" src="/images/title.png"/>
-    <img class="site-face-img" src="/images/face.jpg"/> 
-        
-  {% if site.show_social_icons %}
-    {% include social_links.html %}
-  {% endif %}
-
-    <div class="p-responsive wrap measure" role="main">
       {% for post in paginator.posts %}
       <div class="post py2">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link dark-bg">
-          <div class="py1 px1">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="featured-post post-link light-bg">
+          <div class="py2 px2">
             <div class="container no-bg"><img class="post-featured-img" src="{{ post.featured-img }}"></img></div>
-            <p class="post-meta inverse center">{{ post.date | date: site.date_format }}</p>
-            <h1 class="h1 post-title inverse center">{{ post.title }}</h1>
-            <p class="post-summary inverse">{{ post.excerpt }}</p>
+            <p class="post-meta center">{{ post.date | date: site.date_format }}</p>
+            <h1 class="h1 post-title center">{{ post.title }}</h1>
+            <p class="post-summary">{{ post.excerpt }}</p>
           </div>
         </a>
       </div>
       {% endfor %}
-    </div>
   </div>
 </div>

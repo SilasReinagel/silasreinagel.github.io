@@ -5,13 +5,17 @@
     </a>
     <img class="site-title-img" src="/images/title.png"/>
     <img class="site-face-img" src="/images/face.jpg"/> 
-  </div>
-      
-  {% if site.show_social_icons %}
-    {% include social_links.html %}
-  {% endif %}
 
-  <div class="measure site-header-bar nav" role="navigation">
-    <a class="" href="/all.html">All Posts</a>
+    {% if site.show_social_icons %}
+      {% include social_links.html %}
+    {% endif %}
   </div>
+
+  <nav class="measure site-header-bar nav stroke" role="navigation">
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+      <li><a href="/all">All Posts</a></li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </nav>
 </header>
