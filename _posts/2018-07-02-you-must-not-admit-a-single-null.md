@@ -5,7 +5,7 @@ date: 2018-07-02 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/biohazard.jpg
+featured-img: /images/Biohazard.jpg
 ---
 
 There are some principles in software development that offer benefits anywhere they are used, even in just some parts of the code. For others, they must be applied everywhere to be useful. The rule against never passing null must be applied everywhere for one major reason. 

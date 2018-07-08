@@ -5,6 +5,7 @@ date: 2016-11-10 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
+featured-img: /images/ResumeCloseup.jpg
 ---
 The cutting-edge software project I have been working on for the past couple of years is being axed. Accordingly, I have turned my attention towards finding an exciting new software development opportunity. As you know, I put 110% into everything I do. When I'm looking for a new job, the search gets 110% of my creative energy, my personal improvement efforts, and my ground-breaking practical experimentation. This time, I learned one simple thing that will radically alter the entire process.
 

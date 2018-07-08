@@ -38,9 +38,11 @@
   width: auto;
   font-weight: 300;
   margin: 0;
-  padding: .25em 0;
+  padding: 0 1em;
   color: $site-color;
   font-style: italic;
+  font-size: 0.65em;
+  text-align: right;
 }
 
 .inverse {  
@@ -59,4 +61,5 @@
 .post-featured-img {
   width: 50vw;
   height: auto;
+  margin-bottom: 0.5em;
 }

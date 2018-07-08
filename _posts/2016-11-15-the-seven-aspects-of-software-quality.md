@@ -5,6 +5,7 @@ date: 2016-11-15 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
+featured-img: /images/QualityDial.jpg
 ---
 Software engineering is a complex field. Good software engineers are capable of balancing opposing forces and working within constraints to create great software. Poor software developers (they really aren't engineers) are ones who are incapable of perceiving the trade-offs they are making and the implications of their design decisions (or lack thereof).
 

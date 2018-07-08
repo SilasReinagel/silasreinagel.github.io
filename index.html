@@ -3,19 +3,18 @@ layout: default
 title: "Silas Reinagel - Extreme Software Engineering"
 ---
 
-<div class="landing">
-  <div class="measure container">
-      {% for post in paginator.posts %}
-      <div class="post py2">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="featured-post post-link light-bg">
-          <div class="py2 px2">
-            <div class="container no-bg"><img class="post-featured-img" src="{{ post.featured-img }}"></img></div>
-            <p class="post-meta center">{{ post.date | date: site.date_format }}</p>
-            <h1 class="h1 post-title center">{{ post.title }}</h1>
-            <p class="post-summary">{{ post.excerpt }}</p>
-          </div>
-        </a>
-      </div>
-      {% endfor %}
-  </div>
+<div class="landing container">
+    {% for post in paginator.posts %}
+    <div class="card post ">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="featured-post post-link light-bg">
+        <div class="py2 px2">
+          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <div class="container py2"><img class="post-featured-img" src="{{ post.featured-img }}"></img></div>
+          <h2 class="h2 post-title center">{{ post.title }}</h2>
+          {{ post.excerpt }}
+          <p class="read-more">READ MORE</p>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
 </div>
