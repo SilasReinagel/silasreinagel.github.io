@@ -37,12 +37,19 @@
 .post-meta {
   width: auto;
   font-weight: 300;
-  margin: 0;
-  padding: 0 1em;
   color: $site-color;
   font-style: italic;
-  font-size: 0.65em;
-  text-align: right;
+  font-size: 0.65rem;
+  text-align: left;
+}
+
+.post-header h1 {
+  font-weight: $bold-font-weight;
+}
+
+.post-title {  
+  font-weight: $bold-font-weight;
+  font-family: $font-family;
 }
 
 .inverse {  
@@ -59,7 +66,52 @@
 }
 
 .post-featured-img {
-  width: 50vw;
+  width: 100%;
   height: auto;
   margin-bottom: 0.5em;
+}
+
+.post-content h1, 
+.post-content h2, 
+.post-content h3, 
+.post-content h4, 
+.post-content h5,
+.post-content h6 {
+  font-family: $font-family;
+  font-weight: 500;
+}  
+
+.post-content hr {
+  margin: 1.5rem 0;
+}
+
+.post-content a {
+  color: $blue;
+  text-decoration: underline;
+}
+
+.post-content a:hover {
+  color: $orange;
+}
+
+.post-content img {
+  margin: 0.5rem 0;
+}
+
+.post-content ol {
+  list-style: none; 
+  counter-reset: li;
+}
+
+.post-content li::before {
+  content: counter(li) "."; 
+  color: $site-color;
+  font-weight: 500;
+  display: inline-block; 
+  width: 1.5rem;
+  margin-left: -1.5rem;
+}
+
+.post-content li {
+  counter-increment: li;
 }

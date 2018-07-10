@@ -1,17 +1,17 @@
 .site-logo-img {
-  height: 5.0em;
+  height: 5.0rem;
   width: auto;
   margin: 5px 20px;
 }
 
 .site-title-img {
-  max-height: 4em;
+  max-height: 4rem;
   margin: auto;
 }
 
 .site-face-img {
   border-radius: 50%;
-  height: 6.25em;
+  height: 6.25rem;
   width: auto;
   margin: 5px 20px;
 }
@@ -90,9 +90,8 @@
 
 /* NAVIGATION */
 nav {
-  margin: 0 20px;
   background: none;
-  padding: 5px 20px;
+  padding: 5px 0px;
 }
 nav ul {
   list-style: none;

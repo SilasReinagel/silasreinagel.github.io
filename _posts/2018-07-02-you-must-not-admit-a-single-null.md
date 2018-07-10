@@ -30,7 +30,9 @@ Once the codebase starts accepting nulls, then as the team writes new classes an
 
 The second problem is what allowing nulls into the code communicates. It starts with passing just a single optional parameter using null. Developers will think this is the correct pattern to emulate. Then you will find many classes in your codebase with ctors like this: 
 
-```public ContractsController() : this(null, null, null, null, null, null, null) {}```
+```
+public ContractsController() : this(null, null, null, null, null, null, null) {}
+```
 
 I haven't found similar statistics for C# applications, but in Java land, the most frequent cause of Application crashes is still [NullPointerExceptions](https://blog.samebug.io/which-java-exceptions-are-the-most-frequent-f830b113c37f). 
 
@@ -58,9 +60,9 @@ public void Shipment_EarliestStartDateTime_IsAsOfDateWhenEarliestBeforeAsOf()
 This is a fairly clean test. However, the Shipment is being constructed with 2 nulls. That immediately raises a big red flag!
 
 There are a few test design problems here:
-**1)** From reading the test, it's impossible to determine the type of the third and fourth arguments
-**2)** The test knows too much about the implementation of the Object under test, since it knows that null is an acceptable value
-**3)** For the next developer who reads the tests as documentation on the Object, he will rightly assume that this is a null-friendly Object
+1. From reading the test, it's impossible to determine the type of the third and fourth arguments
+2. The test knows too much about the implementation of the Object under test, since it knows that null is an acceptable value
+3. For the next developer who reads the tests as documentation on the Object, he will rightly assume that this is a null-friendly Object
 
 As expected, the ctor for the Object looked like this:
 

@@ -1,4 +1,20 @@
-@media screen and (min-width: $viewport-small) {
+@media screen and (max-width: $viewport-small) {
+  .mobile-hidden {
+    display: none !important;
+    width: 0;
+    height: 0;
+  }
+
+  .mobile-right{
+    margin-right: -100px;
+  }
+
+  .container {
+    justify-content: space-between;
+  }
+}
+
+@media screen and (max-width: $viewport-medium) {
   html {
     font-size: 14px;
   }
@@ -14,6 +30,10 @@
 
   .site-nav {
     margin-top: 0;
+  }
+
+  .nav ul {
+    padding: 0px 20px;
   }
 
   .site-header a {
@@ -48,12 +68,15 @@
   html {
     font-size: 16px;
   }
+  
+  .mobile-hidden {
+  }  
 }
 
 @media screen and (min-width: $viewport-large) {
   html {
     font-size: 18px;
-  }
+  }  
 }
 
 @media screen and (min-width: $viewport-large + 14) {

@@ -31,14 +31,14 @@ footer {
 
 .site-footer p {
   font-family: $heading-font-family;
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: 1px;
 }
 
 .copyright {
-  font-size: 0.6em;
-  font-weight: 300;
+  font-size: 0.70rem;
   text-align: center;
-  margin: auto, 1em;
+  margin: auto, 1rem;
 }
 
 .row-items {
