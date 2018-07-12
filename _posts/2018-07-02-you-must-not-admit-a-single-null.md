@@ -10,7 +10,7 @@ featured-img: /images/Biohazard.jpg
 
 There are some principles in software development that offer benefits anywhere they are used, even in just some parts of the code. For others, they must be applied everywhere to be useful. The rule against never passing null must be applied everywhere for one major reason. 
 
-<img src="http://silasreinagel.com/wp-content/uploads/2018/07/Biohazard.jpg" alt="Biohazard substance" width="700" height="400" class="aligncenter size-full wp-image-384" />
+<img src="/images/Biohazard.jpg" alt="Biohazard substance" width="700" height="400" class="aligncenter size-full" />
 
 Most programmers generally know about the [problems](https://www.yegor256.com/2014/05/13/why-null-is-bad.html) [with](http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare) [null](https://sidburn.github.io/blog/2016/03/20/null-is-evil). But many still think, *"I can be generally against null, and still make some exceptions here and there."* 
 
