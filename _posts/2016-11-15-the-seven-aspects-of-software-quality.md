@@ -5,8 +5,9 @@ date: 2016-11-15 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/QualityDial.jpg
+featured-img: /images/quality-dial.jpg
 ---
+
 Software engineering is a complex field. Good software engineers are capable of balancing opposing forces and working within constraints to create great software. Poor software developers (they really aren't engineers) are ones who are incapable of perceiving the trade-offs they are making and the implications of their design decisions (or lack thereof).
 
 Every software engineer absolutely must know the seven aspects of software quality:
@@ -25,7 +26,7 @@ These seven aspects can be measured and judged for any software product. They ap
 
 For different projects, the prioritization of the aspects of quality will vary. Some projects should be focused on reliability, usability, and understandability, while other projects will place high importance on testability and efficiency. As a software engineer, <strong>you must know which aspects of quality are most important to your project</strong>. You must apply your best efforts towards the most critical aspects, and not spend excessive time on less important aspects.
 
-<hr />
+----
 
 <strong>Reliability:</strong> Software is reliable if it behaves consistently. The functionality of a program should be predictable and repeatable. Errors should occur rarely or not at all. Errors that do occur should be handled gracefully and proactively. Users should never ask themselves whether the software will work correctly.
 
@@ -41,7 +42,7 @@ For different projects, the prioritization of the aspects of quality will vary. 
 
 <strong>Efficiency:</strong> Efficient software uses as few physical resources as possible. It is fast. It is memory-efficient. It consumes few CPU cycles. It uses little battery life. It makes few external service calls. It minimizes the number of database calls. Efficient software accomplishes as much as possible with the least amount of resources.
 
-<hr />
+----
 
 As I said before, you absolutely must know these sevens aspects of software quality. You must know which of the seven aspects are most important and least important in your current projects. Your code reviews should reference these aspects. Your design meetings and discussions should explicitly involve these aspects. You must know when you are sacrificing one of these dimensions in order to improve another dimension. <strong>You must cultivate a deep awareness of software quality</strong>. It should inform and guide your designs.
 

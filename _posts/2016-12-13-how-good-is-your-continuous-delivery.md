@@ -5,7 +5,7 @@ date: 2016-12-03 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/ContinuousDelivery.jpg
+featured-img: /images/continuous-delivery.jpg
 ---
 
 Continuous delivery is something that many companies aim for, yet few achieve. It's a topic that is both popular and still somewhat nebulous. I am going to share my thoughts on continuous delivery, how it offers business value, how it boosts developer morale, and how to rate your company on ability to deliver.

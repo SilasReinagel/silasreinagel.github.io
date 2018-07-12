@@ -5,7 +5,7 @@ date: 2017-02-07 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/WaiterEmptyPlate.jpg
+featured-img: /images/waiter-empty-plate.jpg
 ---
 
 Have you ever asked an object or library for a resource and got a NullReferenceException when you went to use the resource? I have. Nothing breaks my trust as much as code that unexpectedly returns nothing. That sort of code forces developers to litter their code with nasty bits of defensive logic!
@@ -27,7 +27,7 @@ public void SetUserEmail(int userId, string emailAddress)
 
 This code is awful for a lot of reasons! The biggest issue is that it doesn't express what happens if a particular `User` isn't found. Walter, the overworked developer who wrote this code is going to end up with a production bug due to a `NullReferenceException`. His mistake was trusting the awful `UserRepository` object. 
 
-<img src="/images/WaiterEmptyPlate.jpg" alt="WaiterWithEmptyPlate" width="700" height="400" class="size-full" /> 
+<img src="/images/waiter-empty-plate.jpg" alt="WaiterWithEmptyPlate" width="700" height="400" class="size-full" /> 
 
 Before we improve it, let's see how Walter should have written his code in order to work with the treacherous `UserRepository`:
 
@@ -196,7 +196,7 @@ public void Update(int id, Action<User> ifExists, Action ifMissing)
 
 This solution is elegant. We explicitly require Walter to declare what should happen when a user is present and when a user is missing. He no longer has to write ugly try/catches, defensive checks or evaluative logic. We reduce the amount of code needed for both scenarios. No exceptions are thrown or caught. 
 
-<img src="/images/HappyChef.jpeg" alt="HappyChef" width="300" height="400" class="aligncenter size-full />
+<img src="/images/happy-chef.jpg" alt="Happy Chef" width="300" height="400" class="aligncenter size-full />
 
 ---- 
 

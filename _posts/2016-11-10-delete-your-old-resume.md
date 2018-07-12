@@ -5,11 +5,12 @@ date: 2016-11-10 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/ResumeCloseup.jpg
+featured-img: /images/resume-closeup.jpg
 ---
+
 The cutting-edge software project I have been working on for the past couple of years is being axed. Accordingly, I have turned my attention towards finding an exciting new software development opportunity. As you know, I put 110% into everything I do. When I'm looking for a new job, the search gets 110% of my creative energy, my personal improvement efforts, and my ground-breaking practical experimentation. This time, I learned one simple thing that will radically alter the entire process.
 
-<h3>Delete Your Old Resume!</h3>
+### Delete Your Old Resume!
 
 Go do it right now. I'll wait for you. Literally, just throw your pdf or doc file into the Recycle Bin. Empty it. You're doing yourself a huge favor!
 
@@ -48,7 +49,7 @@ Instead, your resume should feel alive! It should highlight your best qualities 
 
 When you are actually creating your resume, don't use a text or document editor. Use <strong>professional art or layout tools</strong> like Adobe Photoshop or InDesign. Create a layout that looks visually appealing to you, and conveys something about your essence in a vivid manner. Make sure you have a great professional headshot to put on your resume. You should physically look like a great fit for the job. Those who look at your resume should be mentally picturing you performing your (future) job task. This will favorably prime the conversations and interviews, such that people will be working to make it a reality.
 
-<img src="http://silasreinagel.com/wp-content/uploads/2016/11/modern-resume-template.jpg" alt="modern-resume-template" width="620" height="413" class="aligncenter size-full wp-image-106" />
+<img src="/images/modern-resume-template.jpg" alt="modern-resume-template" width="620" height="413" class="aligncenter size-full" />
 
 If you do this, by crafting an exciting and succinct new resume, <strong>you will give yourself a large competitive advantage.</strong> The job search process will be extremely easy and fun. The companies that you are interested in, will also be very interested in hiring you. In my job search, I was shocked by the incredible effectiveness of this technique! Every single company I contacted expressed unsolicited compliments on my new resume.
 

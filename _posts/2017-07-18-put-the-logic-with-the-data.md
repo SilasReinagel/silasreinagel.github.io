@@ -5,11 +5,12 @@ date: 2017-07-18 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/LogicFlow.jpg
+featured-img: /images/logic-flow.jpg
 ---
+
 The understandability of code is directly related to the distance between the data and the code that makes decision based on that data. The fewer places you have to look to see that actual behavior of the system, the easier it is to comprehend. 
 
-<img src="/images/LogicFlow.jpg" alt="" width="625" height="357" class="aligncenter size-large" />
+<img src="/images/logic-flow.jpg" alt="" width="625" height="357" class="aligncenter size-large" />
 
 Recently, I was working with a lower-level system that doesn't have UI controls, and the project needed the ability to let objects respond to various Mouse interactions. I built the `MouseStateActions` component to hold the data that describes what is to be done as its relationship to the mouse changes:
 

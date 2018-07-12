@@ -5,14 +5,14 @@ date: 2017-02-21 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/EscherBusiness.jpg
+featured-img: /images/escher-business.jpg
 ---
 
 Well-designed interfaces are a delight to read, use, and implement. The really elegant ones stick in your brain and satisfy your artistic yearnings. They possess beauty similar to a math theorem or a law of physics. To be an effective software craftsman, you must be very good at designing interfaces.
 
 Elegant interfaces are succinct. They do not contains a lot of uncomposed elements and dissimilar use cases.
 
-<img class="size-full aligncenter" src="/images/EscherBusiness.jpg" alt="Confusing Options" width="700" height="400" />
+<img class="size-full aligncenter" src="/images/escher-business.jpg" alt="Confusing Options" width="700" height="400" />
 
 ```
 public interface IDealRepository

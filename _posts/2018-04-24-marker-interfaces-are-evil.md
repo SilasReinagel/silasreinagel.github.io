@@ -5,12 +5,12 @@ date: 2018-04-24 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/NoteOnShirt.jpg
+featured-img: /images/note-on-shirt.jpg
 ---
 
 Have you seen interfaces which have no methods in a project you were working on? Every time you see one of those, it should raise a mental red flag. Marker interfaces are a terrible design choice! I will explain why and what to do instead.
 
-<img src="/images/noteonshirt.jpg" alt="Note taped to back of man&#039;s shirt that reads &quot;Kick Me&quot;" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/note-on-shirt.jpg" alt="Note taped to back of man&#039;s shirt that reads &quot;Kick Me&quot;" width="700" height="400" class="aligncenter size-full" />
 
 ----
 
@@ -105,7 +105,7 @@ If the operations you are performing can be performed on `object` then don't use
 
 ----
 
-<img src="/images/Mired.jpg" alt="Struggling Man Bogged Down In Quicksand" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/mired.jpg" alt="Struggling Man Bogged Down In Quicksand" width="700" height="400" class="aligncenter size-full" />
 
 ### Marker interfaces are evil. 
 

@@ -5,7 +5,7 @@ date: 2018-02-27 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/PileOfTech.jpg
+featured-img: /images/pile-of-tech.jpg
 ---
 
 One of the major pain points in working with Enterprise software is dealing with config files. They don't have to be a pain. But everyone is doing them absolutely wrong. 
@@ -16,7 +16,7 @@ One of the major pain points in working with Enterprise software is dealing with
 
 You've seen the giant files with numerous fragile and frequently changed values. They look something like this:
 
-<img src="/images/PileOfTech.jpg" alt="Pile of Tech Waste" width="625" height="357" class="aligncenter size-large" />
+<img src="/images/pile-of-tech.jpg" alt="Pile of Tech Waste" width="625" height="357" class="aligncenter size-large" />
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -103,7 +103,7 @@ Therefore, your configuration should contain just the means to connect your appl
 
 That's it. If the above makes sense to you, then don't read anything further. 
 
-<img src="/images/EthernetCable.jpg" alt="Single Ethernet Cable" width="625" height="357" class="aligncenter size-large" />
+<img src="/images/ethernet-cable.jpg" alt="Single Ethernet Cable" width="625" height="357" class="aligncenter size-large" />
 
 ---
 

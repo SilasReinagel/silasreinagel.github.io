@@ -5,14 +5,14 @@ date: 2018-05-01 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/LiteMediator.jpg
+featured-img: /images/lite-mediator.jpg
 ---
 
 The best libraries are discovered, rather than engineered. After using in-process messaging in .NET projects for several years, I have decided to release a library sharing it with all of you. Using messaging has been extremely helpful to me in both game development and modern web development. Both greatly benefit from lightly-coupled message-driven architectures, which makes Mediator pattern a perfect solution.
 
 ----
 
-<a href="https://github.com/SilasReinagel/LiteMediator.DotNet"><img src="/images/LiteMediator-Wide.jpg" alt="LiteMediator Logo" width="256" height="160" class="aligncenter size-full" /></a>
+<a href="https://github.com/SilasReinagel/LiteMediator.DotNet"><img src="/images/lite-mediator-wide.jpg" alt="LiteMediator Logo" width="256" height="160" class="aligncenter size-full" /></a>
 
 LiteMediator is available primarily as source code. I personally find that it is very helpful when I am developing to be able to easily view and modify any part of my application. 
 

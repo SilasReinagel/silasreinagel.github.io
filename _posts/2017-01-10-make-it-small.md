@@ -5,7 +5,7 @@ date: 2017-01-10 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/Dragonslayer.jpg
+featured-img: /images/dragonslayer.jpg
 ---
 
 What simple heuristic will most help you improve your software development process? 

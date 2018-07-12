@@ -5,14 +5,14 @@ date: 2017-03-28 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/AspNetLaptop.jpg
+featured-img: /images/asp-net-laptop.jpg
 ---
 
 If you've been doing any amount of server-centric web development, you have definitely seen more than a few Web Controllers. If your experience has been like mine, often the methods on these controllers are filled with procedures that process user requests. This is absolutely wrong! Web Controllers must be kept code-free!
 
 This rule is essential to ensure that your [application is decoupled from deployment concerns](http://silasreinagel.com/2017/03/21/independently-executable-units/), to ensure that your application itself expresses its business scenarios, and to ensure that you do not have any application complexity leaking into inappropriate parts of the codebase. 
 
-<img src="/images/AspNetLaptop.jpg" alt="ASP.NET Laptop" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/asp-net-laptop.jpg" alt="ASP.NET Laptop" width="700" height="400" class="aligncenter size-full" />
 
 The Single-Responsibility Principle requires that Web Controllers should only contain code for passing Requests into the application and returning Web Responses. They should do absolutely nothing else!
 

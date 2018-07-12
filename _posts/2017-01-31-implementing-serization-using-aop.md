@@ -5,7 +5,7 @@ date: 2017-01-31 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/ComplexSimple.jpg
+featured-img: /images/complex-simple.jpg
 ---
 
 Well-designed objects do one thing, one thing well, and one thing only. They are not burdened by external concerns. They are not cluttered with things that should be the responsibility of another object. The domain objects in your application should be strictly concerned with the business problem. Unless you working for a technology solutions company, there should not be any code related to serialization, transfer protocols, user permissions, or database persistence in your application core. <strong>Keep your objects clean and tightly-designed!</strong>

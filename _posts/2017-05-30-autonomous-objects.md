@@ -5,7 +5,7 @@ date: 2017-05-30 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/AutonomousRobots.jpg
+featured-img: /images/autonomous-robots.jpg
 ---
 
 A CPU is a linear instruction processor. Humans behave autonomously, using pattern recognition to dynamically respond to stimuli. The natural tendency is for programmers to shape their minds according to the CPU's implementation. The software craftsman must know how to write software on both sides of the spectrum: linear procedures and autonomous objects. 
@@ -29,7 +29,7 @@ There is a broad area of space between the two poles. In this space there are de
 
 A system built around the procedural style is a Command and Control system. A system with specific class dependencies and inverted dependencies is a Trust and Delegate system. **A system built around the autonomous objects is an Orchestrated system.**
 
-<img src="/images/AutonomousRobots.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/autonomous-robots.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
 
 ----
 

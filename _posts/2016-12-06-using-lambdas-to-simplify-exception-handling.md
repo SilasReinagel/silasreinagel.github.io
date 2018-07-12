@@ -5,7 +5,7 @@ date: 2016-12-06 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/IWillNotWriteDuplicateCode.jpg
+featured-img: /images/i-will-not-write-duplicate-code.jpg
 ---
 
 Duplicate code is wasteful and problematic. It decreases the maintainability of software and potential leads to reliability issues. Far too often, I see duplicate exception handling blocks within a codebase. In the past, some developers might have felt that the languages required this duplication, and they were partially correct. However, in languages with anonymous functions, such as Java 8, C#, and Javascript, there is no excuse for duplicate exception handling. 

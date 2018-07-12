@@ -5,14 +5,14 @@ date: 2017-06-27 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/MoneyMakers.jpg
+featured-img: /images/moneymakers.jpg
 ---
 
 Too much decoupling in software development is arguably worse than too little. Excessive decoupling leads to software that is more complex, more verbose, harder to understand and much less maintainable. Don't let your critical use cases get split up into little tiny bits and strewn about your application!
 
 There are several causes of excessive decoupling. The one I want to address in this post is the dysfunctional approach to getting everything through an intermediary. Why does everything need to be acquired through a Repository, a Supplier, a Provider, a Service, a Lookup, a Builder and so forth? **Do we need so much separation?**
 
-<img src="/images/MoneyMakers.jpg" alt="" width="700" height="411" class="aligncenter size-full" />
+<img src="/images/moneymakers.jpg" alt="" width="700" height="411" class="aligncenter size-full" />
 
 How often have you seen some code that looks like this?
 

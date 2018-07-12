@@ -5,14 +5,14 @@ date: 2017-02-28 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/SourceCode.jpg
+featured-img: /images/source-code.jpg
 ---
 
 A boss developer works hard to improve his skills! Improving absolutely requires both humility and desire. If you want to be great, you must be extremely passionate and incredibly humble. There is no other way.
 
 <strong>In order to maximize your potential for growth, you must think "My code is terrible."</strong> It's not the truth, but it's an amazingly helpful lie. It's a mental hack to orient yourself towards learning. When you internalize that paradigm, you are most able to learn from others, most free to focus on the engineering problems, and most free from the ego that seeks to destroy you. 
 
-<img src="/images/SourceCode.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/source-code.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
 
 ----
 
@@ -35,7 +35,7 @@ You need to be as humble as possible!
 
 Your ego is powerful and feels compelling. It is your worst enemy! It keeps you from excellence. It makes you defensive and reactive, and costs you peace of mind. It prevents you from taking advantage of learning opportunities. 
 
-<img src="/images/EgoKnowledge.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/ego-knowledge.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
 
 Humility is the only path to freedom and growth. It is a challenging path, and requires you to surrender your self-image and self-delusions. Pure humility means holding an accurate self-image. Be completely honest with yourself about your strengths and weaknesses. Recognize the traits you possess and the ones you don't. <strong>Welcome feedback from others who are not encumbered with the same mental-distortions that your mind possesses.</strong>
 

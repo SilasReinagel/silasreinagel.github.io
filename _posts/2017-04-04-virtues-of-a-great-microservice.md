@@ -5,7 +5,7 @@ date: 2017-04-04 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/BakeryCounter.jpg
+featured-img: /images/bakery-counter.jpg
 ---
 
 Microservices are becoming very popular because they solve problems horizontally. They make it easy to deliver new business functionality swiftly, flexibly, and with no possibility of breaking existing functionality. What virtues guarantee these business values? I will tell you.
@@ -20,7 +20,7 @@ Previously, I have written about the [Seven Aspects of Software Quality](http://
 4. It is owned and operated by it's developers
 5. It is fully encapsulated
 
-<img src="/images/BakeryCounter.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/bakery-counter.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
 
 ----
 

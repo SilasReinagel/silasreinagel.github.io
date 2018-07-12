@@ -6,17 +6,18 @@ author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
 ---
+
 <strong>If you want a program that is fragile, rigid, and immobile, build vertically.</strong>
 
 <strong>If you want a program that is flexible, robust, and reusable, build horizontally.</strong>
 
-<img src="http://silasreinagel.com/wp-content/uploads/2016/09/VerticaliltyIsForever-202x300.jpg" alt="Verticalilty is Forever (Twin Towers)" width="202" height="300" class="aligncenter size-medium wp-image-51" />
+<img src="/images/verticalilty-is-forever.jpg" alt="Verticalilty is Forever (Twin Towers)" width="202" height="300" class="aligncenter size-medium" />
 
-<hr />
+----
 
-<h3>What is meant by building vertically or horizontally?</h3>
+### What is meant by building vertically or horizontally?
 
-<hr />
+----
 
 Vertical building is what happens anytime you put something new on top of something else. It's a visual metaphor, which represents depth, and layers of dependencies.
 
@@ -38,11 +39,11 @@ Horizontal building is what happens anytime you put something next to something 
 <li>A company has 3 very focused applications for sale, instead of 1 large application.</li>
 </ul>
 
-<hr />
+----
 
-<h3>Rigidity</h3>
+### Rigidity
 
-<hr />
+----
 
 Horizontality decreases rigidity in the following ways:
 
@@ -63,11 +64,11 @@ Examples:
 <li>Creating a new database table causes far fewer integration problems than making a change to an existing core table</li>
 </ul>
 
-<hr />
+----
 
-<h3>Fragility</h3>
+### Fragility
 
-<hr />
+----
 
 Horizontality decreases fragility in the following ways:
 
@@ -89,11 +90,11 @@ Examples:
 <li>A server that hosts only one Service causes less harm if it loses power than a server hosting 4 Services</li>
 </ul>
 
-<hr />
+----
 
-<h3>Immobility</h3>
+### Immobility
 
-<hr />
+----
 
 Horizontality decreases immobility in the following ways:
 

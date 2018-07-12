@@ -5,7 +5,7 @@ date: 2016-11-19 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
-featured-img: /images/MismatchPuzzlePieces.jpg
+featured-img: /images/mismatched-puzzle-pieces.jpg
 ---
 
 Software development is far from a purely technical field. Good developers always have an acute awareness that software is about people. Great software is that which effectively meets the needs of its users. Programmers who do not consider their responsibilities to their users and to their team are incapable of providing high value.
@@ -18,7 +18,7 @@ There is a deadly, costly idea that is very popular in software development comp
 
 <strong>The Lie:</strong> The lie is that these tradeoffs won't affect the option to later choose a different two elements. Often, companies take the approach "We need to get this product to our customers quickly, and then later we will improve the quality and make it robust."
 
-<img src="/images/WeGotItDone.jpg" alt="We Got It Done" width="520" height="388" class="aligncenter size-full" />
+<img src="/images/we-got-it-done.jpg" alt="We Got It Done" width="520" height="388" class="aligncenter size-full" />
 
 <strong>The Practice:</strong> At the beginning of a software product's lifecycle, the "Get It Done" philosophy usually results in the ability to move very quickly initially and ship a product or feature with a moderate speed gain. It also results in accumulating a sizable amount of Technical Debt. When the next planned feature begins development, the "Get It Done" philosophy is still the core driver for development. Therefore, rather than adapting the program to integrate nicely with the recently shipped feature, the structural flaws are reinforced.
 
