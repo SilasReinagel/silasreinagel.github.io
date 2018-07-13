@@ -1,21 +1,26 @@
 {% if paginator.total_pages != 1 %}
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
+<div class="measure">
+  <div class="pagination container mt3">
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
-        <a class="pagination-item" href="{{ site.baseurl }}/">{{ site.text.pagination.newer }}</a>
+        <a class="" href="{{ site.baseurl }}/">
+          <img class="arrow" src="/images/arrow-left.png"></img>
+        </a>
       {% else %}
-        <a class="pagination-item" href="{{ paginator.previous_page_path }}">{{ site.text.pagination.newer }}</a>
+        <a class="" href="{{ paginator.previous_page_path }}"> 
+          <img class="arrow" src="/images/arrow-left.png"></img>
+        </a>
       {% endif %}
     {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.newer }}</span>
+        <img class="arrow disabled" src="/images/arrow-left.png"></img>
     {% endif %}
-  </div>
-  <div class="right">
+
     {% if paginator.next_page %}
-      <a class="pagination-item orange" href="{{ paginator.next_page_path }}">{{ site.text.pagination.older }}</a>
+      <a class="ml3rd" href="{{ paginator.next_page_path }}">        
+          <img class="arrow" src="/images/arrow-right.png"></img>
+      </a>
     {% else %}
-      <span class="pagination-item orange disabled">{{ site.text.pagination.older }}</span>
+      <img class="arrow disabled ml3rd" src="/images/arrow-right.png"></img>
     {% endif %}
   </div>
 </div>

@@ -107,7 +107,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 permalink:    pretty
-paginate:     3
+paginate:     5
 sass:
   style: compressed
 gems:

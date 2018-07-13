@@ -9,7 +9,7 @@ title: "Silas Reinagel - Extreme Software Engineering"
       <a href="{{ post.url | prepend: site.baseurl }}" class="featured-post post-link light-bg">
         <div class="py2 px2">
           <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-          <div class="container py2"><div><img class="post-featured-img" src="{{ post.featured-img }}"></img></div></div>
+          <div class="container mb1 py1"><div><img class="post-featured-img" src="{{ post.featured-img }}"></img></div></div>
           <h2 class="h2 post-title center">{{ post.title }}</h2>
           {{ post.excerpt }}
           <p class="read-more">READ MORE</p>
@@ -17,4 +17,7 @@ title: "Silas Reinagel - Extreme Software Engineering"
       </a>
     </div>
     {% endfor %}
+
+    {% include pagination.html %}
 </div>
+

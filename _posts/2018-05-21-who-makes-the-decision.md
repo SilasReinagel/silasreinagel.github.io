@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LiteMediator: Who Makes the Decision?
+title: Who Makes the Decision?
 date: 2018-05-21 10:00
 author: silas.reinagel@gmail.com
 comments: true

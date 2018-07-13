@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LiteMediator: Result vs Exception
+title: Result vs Exception
 date: 2018-06-18 10:00
 author: silas.reinagel@gmail.com
 comments: true
@@ -8,7 +8,7 @@ categories: [blog]
 featured-img: /images/exception.jpg
 ---
 
-When working with business or network integrated software, errors are inevitable. It's been [compellingly argued](http://wiki.c2.com/?DontUseExceptionsForFlowControl) that exceptions should not be used for control flow. It's also critical to communicate the cause of the error and known solutions. One of the possible solutions this leads to is using a Result data structure. Let's look at how this differs from the conventional use of exceptions. 
+When working with business or network integrated software, errors are inevitable. It's been compellingly argued that exceptions should not be used for control flow. It's also critical to communicate the cause of the error and known solutions. One of the possible solutions this leads to is using a Result data structure. Let's look at how this differs from the conventional use of exceptions. 
 
 <img src="/images/exception.jpg" alt="Red cube amongst grey cubes" width="700" height="400" class="aligncenter size-full" />
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LiteMediator: In-Process Messaging Library
+title: LiteMediator - In-Process Messaging Library
 date: 2018-05-01 10:00
 author: silas.reinagel@gmail.com
 comments: true
