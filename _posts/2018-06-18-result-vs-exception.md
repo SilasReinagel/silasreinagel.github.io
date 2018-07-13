@@ -41,12 +41,12 @@ public async Task<ActionResult> GetFinancingInfo(FinancingRequest request)
 
 <strong>What is wrong with this?</strong>
 
-<strong>1)</strong> There is more than one line of code in the controller. [It belongs in the application.](http://silasreinagel.com/2017/03/28/keep-your-asp-net-controllers-code-free/)
-<strong>2)</strong> The client has no good way to differentiate between different kind of errors. Why did this request fail? 
-<strong>3)</strong> InternalServerError is the worst possible Http StatusCode to return. It implies a lack of understanding of the system.
-<strong>4)</strong> The exception is being caught far out of the scope where the error occurred. We don't know what message the client will see.
-<strong>5)</strong> Two possible types of data response are returned. The error response doesn't have the same shape as the successful response.
-<strong>6)</strong> This makes more work for the developers maintaining the software, since they must troubleshoot every failure manually.
+1. There is more than one line of code in the controller. [It belongs in the application.](http://silasreinagel.com/2017/03/28/keep-your-asp-net-controllers-code-free/)
+2. The client has no good way to differentiate between different kind of errors. Why did this request fail? 
+3. InternalServerError is the worst possible Http StatusCode to return. It implies a lack of understanding of the system.
+4. The exception is being caught far out of the scope where the error occurred. We don't know what message the client will see.
+5. Two possible types of data response are returned. The error response doesn't have the same shape as the successful response.
+6. This makes more work for the developers maintaining the software, since they must troubleshoot every failure manually.
 
 Is there a solution to this? <strong>Yes there is.</strong> 
 
@@ -69,11 +69,11 @@ public sealed class Result<T>
 
 <strong>To correctly build a system using Results:</strong>
 
-<strong>1)</strong> Every exception should be caught right at the source and encapsulated in a Result with a descriptive message.
-<strong>2)</strong> Every error-possible part of the system must return nothing but Results. 
-<strong>3)</strong> Safe parts of the system do not need to use Results. 
-<strong>4)</strong> Every application response message should be a Result.
-<strong>5)</strong> Every operation which depends on another Result must itself return a Result.
+1. Every exception should be caught right at the source and encapsulated in a Result with a descriptive message.
+2. Every error-possible part of the system must return nothing but Results. 
+3. Safe parts of the system do not need to use Results. 
+4. Every application response message should be a Result.
+5. Every operation which depends on another Result must itself return a Result.
 
 Using Results instead of throwing exceptions is not an easy fix. It takes discipline and intentionality. It will change your codebase substantially, perhaps as much as migrating from Asynchronous code to Synchronous. <strong>The error-possible parts of your system will all be explicit</strong>, and working with error-possible workflow steps can be handled with cleaner syntax using methods or extensions methods for Result.
 
@@ -163,14 +163,14 @@ Using results means that errors are handled at the source instead of imperativel
 
 I've been working with Results in microservices for more than 2 years. I've tried various permutations and implementations. Results are best for microservices, since there are many types of errors that can occur, and those can be a huge pain if they aren't communicated effectively across boundaries with clarity. There are some tradeoffs, however.
 
-##### Results
+**Results**
 - Takes a fair bit of work to setup and use
 - Works best with Functional Programming techniques
 - Makes all possible errors explicit and well-communicated
 - Significantly reduces error handling code duplication
 - Much better client/server error communication and troubleshooting
 
-##### Exceptions
+**Exceptions**
 - More familiar for most developers
 - Is the prevailing design paradigm for many popular libraries
 - Leads to simpler and smaller code when exceptions are genuinely rare
