@@ -12,7 +12,7 @@ featured-img: /images/vertical-programs-jenga.jpg
 
 <strong>If you want a program that is flexible, robust, and reusable, build horizontally.</strong>
 
-<img src="/images/verticalilty-is-forever.jpg" alt="Verticalilty is Forever (Twin Towers)" width="202" height="300" class="aligncenter size-medium" />
+<img src="/images/verticality-is-forever.jpg" alt="Verticalilty is Forever (Twin Towers)" width="202" height="300" class="aligncenter size-medium" />
 
 ----
 

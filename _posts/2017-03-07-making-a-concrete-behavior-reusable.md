@@ -10,7 +10,7 @@ featured-img: /images/standardized-puzzle-pieces.jpg
 
 Solving a software engineering problem once in your application is good. Taking a solution and making it reusable inside your application is even better. Recently, I had fun writing a simple scene transition, and then making it reusable. Join me in watching it evolve.
 
-<img src="/images/standardized-puzzle-pieces.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
+<div class="container"><img src="/images/standardized-puzzle-pieces.jpg" alt="Puzzle Pieces" width="700" height="400" /></div>
 
 ----
 
@@ -174,7 +174,7 @@ return new SceneFactory(new Dictionary<string, Func<IScene>>
 });
 ```
 
-<img src="/images/LogoFadeIn.gif" alt="" width="700" height="393" class="aligncenter size-full" />
+<div class="container"><img src="/images/logo-fade-in.gif" alt="Fading In Logo GIF" width="700" height="393" /></div>
 
 ----
 
