@@ -16,10 +16,9 @@ One of the major pain points in working with Enterprise software is dealing with
 
 You've seen the giant files with numerous fragile and frequently changed values. They look something like this:
 
-<img src="/images/pile-of-tech.jpg" alt="Pile of Tech Waste" width="625" height="357" class="aligncenter size-large" />
+<div class="container"><img src="/images/pile-of-tech.jpg" alt="Pile of Tech Waste" width="625" height="357" class="aligncenter size-large" /></div>
 
 ```
-<?xml version="1.0" encoding="utf-8"?>
 <configuration>
   <configSections>
 	... Lots of stuff...
@@ -87,7 +86,6 @@ This is completely wrong! Totally wrong! I'll tell you the reasons why in a minu
 ### A Good Config
 
 ```
-<?xml version="1.0" encoding="utf-8"?>
 <configuration>  
   <connectionStrings>    
 	<add name="SourceOfTruthDatabase" connectionString="Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;" />
@@ -103,7 +101,7 @@ Therefore, your configuration should contain just the means to connect your appl
 
 That's it. If the above makes sense to you, then don't read anything further. 
 
-<img src="/images/ethernet-cable.jpg" alt="Single Ethernet Cable" width="625" height="357" class="aligncenter size-large" />
+<div class="container"><img src="/images/ethernet-cable.jpg" alt="Single Ethernet Cable" width="625" height="357" class="aligncenter size-large" /></div>
 
 ---
 

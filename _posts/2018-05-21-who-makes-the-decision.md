@@ -29,7 +29,7 @@ The exact decision-making structure is important, but less important than simply
 ### Anarchy
 Each person is specifically allowed to make whatever decisions they wish.
 
-**Pros:** No time spent for communication, team members feel empowered, no uncertainty
+**Pros:** No time spent for communication, team members feel empowered, no uncertainty<br>
 **Cons:** Code wars, tougher feature integrations, more work items, Picasso-like final product
 
 ----
@@ -37,7 +37,7 @@ Each person is specifically allowed to make whatever decisions they wish.
 ### Unanimous
 All team members must agree with each decision.
 
-**Pros:** Unified codebase, low error rates, extremely stable cohesive product
+**Pros:** Unified codebase, low error rates, extremely stable cohesive product<br>
 **Cons:** Very costly discussions and deliberations, significantly lower project velocity, project failures are very costly
 
 ----
@@ -45,7 +45,7 @@ All team members must agree with each decision.
 ### Democracy
 Formal vote. Majority decides.
 
-**Pros:** Unified codebase, highly-informed team
+**Pros:** Unified codebase, highly-informed team<br>
 **Cons:** Costly synchronization for decisions, insufficient weight to seniority, project failures are harder to troubleshoot
 
 ----
@@ -53,7 +53,7 @@ Formal vote. Majority decides.
 ### Dictatorship
 One person makes all the decisions.
 
-**Pros:** Unified codebase, efficient decision resolution
+**Pros:** Unified codebase, efficient decision resolution<br>
 **Cons:** Single point of failure, can create resentment or schisms, misses opportunity for team nurture
 
 ----
@@ -61,7 +61,7 @@ One person makes all the decisions.
 ### Delegated
 One person delegates decisions on an issue-to-issue basis
 
-**Pros:** Utilizes experience, allows emergent expertise
+**Pros:** Utilizes experience, allows emergent expertise<br>
 **Cons:** Potential decision delays
 
 ----
@@ -69,7 +69,7 @@ One person delegates decisions on an issue-to-issue basis
 ### Distributed
 Different people are each given complete authority over specific parts of the project.
 
-**Pros:** Synergistic codebase, efficient decision resolution
+**Pros:** Synergistic codebase, efficient decision resolution<br>
 **Cons:** Moderate project risk if a critical part is distributed to the wrong member
 
 ----
@@ -77,7 +77,7 @@ Different people are each given complete authority over specific parts of the pr
 ### Undefined
 Part anarchy, part social games, full of uncertainty.
 
-**Pros:** No time spent for communication
+**Pros:** No time spent for communication<br>
 **Cons:** Higher synchronization costs, disjointed codebase, usually doesn't result in a finished product
 
 ----

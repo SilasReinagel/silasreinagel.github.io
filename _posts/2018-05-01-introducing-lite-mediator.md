@@ -12,7 +12,7 @@ The best libraries are discovered, rather than engineered. After using in-proces
 
 ----
 
-<a href="https://github.com/SilasReinagel/LiteMediator.DotNet"><img src="/images/lite-mediator-wide.jpg" alt="LiteMediator Logo" width="256" height="160" class="aligncenter size-full" /></a>
+<div class="container"><a href="https://github.com/SilasReinagel/LiteMediator.DotNet"><img src="/images/lite-mediator-wide.jpg" alt="LiteMediator Logo" width="350" height="200" class="aligncenter size-full" /></a></div>
 
 LiteMediator is available primarily as source code. I personally find that it is very helpful when I am developing to be able to easily view and modify any part of my application. 
 
@@ -26,7 +26,7 @@ The two ways I typically use this are in an Actor-model fashion with objects who
 
 ### Application Use Cases Declaration
 
-As you are aware, well-architected applications are [transport protocol independent](http://silasreinagel.com/2017/03/21/independently-executable-units/). Mediator pattern is a great way to plug your application into external messaging code such as Web Controllers, Message Queue subscriptions, chatbot integrations and so forth.
+As you are aware, well-architected applications are [transport protocol independent](/blog/2017/03/21/independently-executable-units/). Mediator pattern is a great way to plug your application into external messaging code such as Web Controllers, Message Queue subscriptions, chatbot integrations and so forth.
 
 The following is an example adapted from an ASP.NET Core financing pledge management microservice. The intent is to reveal, in a single place, all of the possible messages that the application receives, and what will happen when each message is received. The advantage of this approach is that one never needs to browse through a whole project to discover all of the use cases. 
 

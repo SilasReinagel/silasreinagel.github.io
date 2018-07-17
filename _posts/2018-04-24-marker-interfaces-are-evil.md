@@ -10,7 +10,7 @@ featured-img: /images/note-on-shirt.jpg
 
 Have you seen interfaces which have no methods in a project you were working on? Every time you see one of those, it should raise a mental red flag. Marker interfaces are a terrible design choice! I will explain why and what to do instead.
 
-<img src="/images/note-on-shirt.jpg" alt="Note taped to back of man&#039;s shirt that reads &quot;Kick Me&quot;" width="700" height="400" class="aligncenter size-full" />
+<div class="container"><img src="/images/note-on-shirt.jpg" alt="Note taped to back of man&#039;s shirt that reads &quot;Kick Me&quot;" width="700" height="400"/></div>
 
 ----
 
@@ -26,7 +26,7 @@ public interface ILoginViewModel
 
 Does this mean that nothing is displayed for the LoginView? No, it just means the data and/or behavior is hidden somewhere instead of revealed. The number one most important quality of team code is Understandability. Code that hides its intent is not understandable. You just forced the next programmer to do a bit of detective work to discover how this interface works.
 
-#### What to do instead? 
+### What to do instead? 
 Include in your interface all of the functionality that an object provides. **Don't leave any detail out.**
 
 ----
@@ -65,7 +65,7 @@ Maybe it will be some other problematic design.
 
 Sometimes in programming, it makes sense to write one piece of quick and dirty code in order to deliver business value sooner. But if one choice leads to another terrible design choice, then that path is too costly. It will damage your system a LOT. 
 
-#### What to do instead? 
+### What to do instead? 
 The moment you realize that one bad design decision will lead to another, **find a different design immediately.** This is the moment where you can save or doom your system, perhaps permanently. 
 
 ----
@@ -85,7 +85,7 @@ public sealed class ServerDownNotification : IBinarySerializable,
 
 When you have a lot of classes who need markers, it becomes very tedious to add/remove or find classes who are missing a marker interface that they needed. Sometimes old marker interfaces are left cluttering up the codebase even after their reason for being added is gone. 
 
-##### What to do instead? 
+#### What to do instead? 
 **Don't use invasive libraries or frameworks** that require you to use Marker Interfaces. Find or create alternatives. 
 
 ----
@@ -100,12 +100,12 @@ var repository = new RepositoryFactory<FinanceDealsViewModel>().Create();
 
 But, it was all a lie. What was written to Mongo was always `object` and what was read was always `dynamic`. The Marker Interface? That was simply stringified and used as the Collection Name. There was no real type safety at all. **Since a marker interface is a contract who requires no behavior, he can never provide type-safety.** He can be added or removed from any object without changing the apparent behavior of the system. This makes type errors HARDER to catch, not easier. We experienced a LOT of hard to discover bugs because of this very design choice. 
 
-#### What to do instead?
+### What to do instead?
 If the operations you are performing can be performed on `object` then don't use interfaces. **Just send/receive `object.`**
 
 ----
 
-<img src="/images/mired.jpg" alt="Struggling Man Bogged Down In Quicksand" width="700" height="400" class="aligncenter size-full" />
+<div class="container"><img src="/images/mired.jpg" alt="Struggling Man Bogged Down In Quicksand" width="700" height="400" /></div>
 
 ### Marker interfaces are evil. 
 

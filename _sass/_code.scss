@@ -16,6 +16,15 @@ code {
   font-size: $code-font-size;
 }
 
+p code {
+  padding: 0.2rem 0.4rem;
+  line-height: 1.0rem;
+  position: relative;
+  bottom: 2px;
+  margin-left: 0.15rem;
+  margin-right: 0.15rem;
+}
+
 pre {
   padding: 1.0em;
   line-height: 1.5;
