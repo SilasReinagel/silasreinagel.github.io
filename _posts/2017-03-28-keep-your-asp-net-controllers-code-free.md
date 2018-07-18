@@ -10,7 +10,7 @@ featured-img: /images/asp-net-laptop.jpg
 
 If you've been doing any amount of server-centric web development, you have definitely seen more than a few Web Controllers. If your experience has been like mine, often the methods on these controllers are filled with procedures that process user requests. This is absolutely wrong! Web Controllers must be kept code-free!
 
-This rule is essential to ensure that your [application is decoupled from deployment concerns](http://silasreinagel.com/2017/03/21/independently-executable-units/), to ensure that your application itself expresses its business scenarios, and to ensure that you do not have any application complexity leaking into inappropriate parts of the codebase. 
+This rule is essential to ensure that your [application is decoupled from deployment concerns](/blog/2017/03/21/independently-executable-units/), to ensure that your application itself expresses its business scenarios, and to ensure that you do not have any application complexity leaking into inappropriate parts of the codebase. 
 
 <img src="/images/asp-net-laptop.jpg" alt="ASP.NET Laptop"   />
 
@@ -120,7 +120,7 @@ Those are precisely the right questions to ask. In fact, those <strong>design qu
 
 Let's evolve our `GetAvailableBeverages` use case to handle the scenarios where a user requests information about a Store that doesn't exist. We shouldn't have ASP.NET return a `500 - Internal Server Error` response -- that would be very poor design!
 
-First, let's rework our StoreFactory to express the semantics that not all stores exist, by [returning an Optional](http://silasreinagel.com/2017/02/07/never-ever-return-null/) instead of throwing an exception when a requested Store doesn't exist. 
+First, let's rework our StoreFactory to express the semantics that not all stores exist, by [returning an Optional](/blog/2017/02/07/never-ever-return-null/) instead of throwing an exception when a requested Store doesn't exist. 
 
 ```
 public sealed class StoreFactory

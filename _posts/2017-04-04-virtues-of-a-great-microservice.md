@@ -12,7 +12,7 @@ Microservices are becoming very popular because they solve problems horizontally
 
 To me, microservices are one of the most exciting paradigm developments in software engineering since the birth of Object-Oriented Programming. The reason for this is that <strong>microservices make it easier to deliver higher-quality software faster, with less risk, less organizational inefficiency, and less need for senior developers</strong>. As long as a few core virtues are upheld, this approach to software delivery sets everyone up for success, and protects the team and consumers from several categories of costly mistakes. 
 
-Previously, I have written about the [Seven Aspects of Software Quality](http://silasreinagel.com/2016/11/15/the-seven-aspects-of-software-quality/). When we work to deliver high-quality microservices, the following traits make it effortless to deliver high marks in each of those qualities:
+Previously, I have written about the [Seven Aspects of Software Quality](/blog/2016/11/15/the-seven-aspects-of-software-quality/). When we work to deliver high-quality microservices, the following traits make it effortless to deliver high marks in each of those qualities:
 
 1. It's very small
 2. It solves exactly one problem
@@ -28,7 +28,7 @@ Previously, I have written about the [Seven Aspects of Software Quality](http://
 
 ----
 
-Small software solutions have a huge advantage over large ones. Small source codebases are naturally portable, understandable, and modifiable. They are easier to test, faster to deploy, and contain fewer possible bugs. I could write a lot about why [small solutions are superior](http://silasreinagel.com/2017/01/10/make-it-small/). 
+Small software solutions have a huge advantage over large ones. Small source codebases are naturally portable, understandable, and modifiable. They are easier to test, faster to deploy, and contain fewer possible bugs. I could write a lot about why [small solutions are superior](/blog/2017/01/10/make-it-small/). 
 
 Your microservice should live up to its name and be actually <strong>micro</strong>. Resist the urge to add more functionality to an existing microservice!
 

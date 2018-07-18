@@ -41,7 +41,7 @@ public async Task<ActionResult> GetFinancingInfo(FinancingRequest request)
 
 <strong>What is wrong with this?</strong>
 
-1. There is more than one line of code in the controller. [It belongs in the application.](http://silasreinagel.com/2017/03/28/keep-your-asp-net-controllers-code-free/)
+1. There is more than one line of code in the controller. [It belongs in the application.](/blog/2017/03/28/keep-your-asp-net-controllers-code-free/)
 2. The client has no good way to differentiate between different kind of errors. Why did this request fail? 
 3. InternalServerError is the worst possible Http StatusCode to return. It implies a lack of understanding of the system.
 4. The exception is being caught far out of the scope where the error occurred. We don't know what message the client will see.
