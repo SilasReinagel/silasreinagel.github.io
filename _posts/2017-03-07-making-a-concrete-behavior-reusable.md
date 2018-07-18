@@ -10,7 +10,7 @@ featured-img: /images/standardized-puzzle-pieces.jpg
 
 Solving a software engineering problem once in your application is good. Taking a solution and making it reusable inside your application is even better. Recently, I had fun writing a simple scene transition, and then making it reusable. Join me in watching it evolve.
 
-<div class="container"><img src="/images/standardized-puzzle-pieces.jpg" alt="Puzzle Pieces" width="700" height="400" /></div>
+<div class="container"><img src="/images/standardized-puzzle-pieces.jpg" alt="Puzzle Pieces"  /></div>
 
 ----
 

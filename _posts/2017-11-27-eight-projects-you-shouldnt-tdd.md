@@ -10,7 +10,7 @@ featured-img: /images/chemist-test.jpg
 
 Test-driven development is still a hotly debated design methodology. Is it valuable? Is it harmful? Does it cost more than it saves? I will tell you which projects you should not develop test-first. 
 
-<img src="/images/chemist-test.jpg" alt="Should I Test This?" width="700" height="400" class="aligncenter size-full" />
+<div class="container"><img src="/images/chemist-test.jpg" alt="Should I Test This?"  /></div>
 
 From my experiences on a broad array of software projects, here are the types of projects where I have found test-driven development is harmful or wasteful. 
 

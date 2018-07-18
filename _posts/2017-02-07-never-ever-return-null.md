@@ -27,7 +27,7 @@ public void SetUserEmail(int userId, string emailAddress)
 
 This code is awful for a lot of reasons! The biggest issue is that it doesn't express what happens if a particular `User` isn't found. Walter, the overworked developer who wrote this code is going to end up with a production bug due to a `NullReferenceException`. His mistake was trusting the awful `UserRepository` object. 
 
-<img src="/images/waiter-empty-plate.jpg" alt="WaiterWithEmptyPlate" width="700" height="400" class="size-full" /> 
+<img src="/images/waiter-empty-plate.jpg" alt="WaiterWithEmptyPlate"  class="size-full" /> 
 
 Before we improve it, let's see how Walter should have written his code in order to work with the treacherous `UserRepository`:
 

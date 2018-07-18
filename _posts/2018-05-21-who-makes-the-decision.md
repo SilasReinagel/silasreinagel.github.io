@@ -10,7 +10,7 @@ featured-img: /images/who-makes-the-decision.jpg
 
 One of the biggest keys to a well-managed project is proper assignment of responsibility. Having good people on a project is not enough. The project must be correctly organized and managed so that people can succeed. At any moment, each team member should be able to give a clear and unambiguous answer when asked "Who is responsible for X?" or "Who decides what should happen in X scenario?". If they can't, the project will be late, over budget, and incongruous.
 
-<img src="/images/who-makes-the-decision.jpg" alt="Picture of person in a room making decisions" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/who-makes-the-decision.jpg" alt="Picture of person in a room making decisions"   />
 
 There are several key factors that influence the success or failure of a project. Most of them are established even before the project begins. One of the most important ones is the decision-making structure. **The decision-making structure is setup either implicitly or explicitly before work on the project actually begins.**
 
@@ -82,7 +82,7 @@ Part anarchy, part social games, full of uncertainty.
 
 ----
 
-<img src="/images/team-project.jpg" alt="Team working on a complex project with many parts in motion" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/team-project.jpg" alt="Team working on a complex project with many parts in motion"   />
 
 ### How do you find the right structure for your team?
 

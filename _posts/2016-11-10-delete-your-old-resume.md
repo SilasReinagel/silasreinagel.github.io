@@ -49,7 +49,7 @@ Instead, your resume should feel alive! It should highlight your best qualities 
 
 When you are actually creating your resume, don't use a text or document editor. Use <strong>professional art or layout tools</strong> like Adobe Photoshop or InDesign. Create a layout that looks visually appealing to you, and conveys something about your essence in a vivid manner. Make sure you have a great professional headshot to put on your resume. You should physically look like a great fit for the job. Those who look at your resume should be mentally picturing you performing your (future) job task. This will favorably prime the conversations and interviews, such that people will be working to make it a reality.
 
-<img src="/images/modern-resume-template.jpg" alt="modern-resume-template" width="620" height="413" class="aligncenter size-full" />
+<img src="/images/modern-resume-template.jpg" alt="modern-resume-template" width="620" height="413"  />
 
 If you do this, by crafting an exciting and succinct new resume, <strong>you will give yourself a large competitive advantage.</strong> The job search process will be extremely easy and fun. The companies that you are interested in, will also be very interested in hiring you. In my job search, I was shocked by the incredible effectiveness of this technique! Every single company I contacted expressed unsolicited compliments on my new resume.
 

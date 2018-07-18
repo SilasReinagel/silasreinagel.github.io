@@ -16,7 +16,7 @@ If you are writing a Coffee Shop Customer Self-Service application, then <strong
 
 <strong>Hexagonal Architecture is a paradigm that separates User Interface plugins and Data Communication plugins from the core behaviors of your application itself.</strong> Using this paradigm, we can create an ASP.NET WebAPI adapter for our Coffee Order App, along with a ReactJS Client that calls into our application. In fact, we can create any sorts of implementation adapters. The adapters will all be very lightweight classes that transform and route external requests into the method calls that our Coffee Order App objects require. 
 
-<img src="/images/hexagonal-architecture-example-1.jpg" alt="" width="1280" height="589" class="aligncenter size-full" />
+<img src="/images/hexagonal-architecture-example-1.jpg" alt="" width="1280" height="589"  />
 
 What is the most practical way to ensure that your application is built in a decoupled manner? <strong>Create independently executable units.</strong> Execute them without any of the deployment infrastructure that you know you will eventually need. If a piece of functionality is independently executable, then it is also independently developable and independently deployable. 
 

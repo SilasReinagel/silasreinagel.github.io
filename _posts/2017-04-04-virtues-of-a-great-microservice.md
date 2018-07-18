@@ -20,7 +20,7 @@ Previously, I have written about the [Seven Aspects of Software Quality](http://
 4. It is owned and operated by it's developers
 5. It is fully encapsulated
 
-<img src="/images/bakery-counter.jpg" alt="" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/bakery-counter.jpg" alt=""   />
 
 ----
 

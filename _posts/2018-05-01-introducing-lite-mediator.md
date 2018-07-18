@@ -12,7 +12,7 @@ The best libraries are discovered, rather than engineered. After using in-proces
 
 ----
 
-<div class="container"><a href="https://github.com/SilasReinagel/LiteMediator.DotNet"><img src="/images/lite-mediator-wide.jpg" alt="LiteMediator Logo" width="350" height="200" class="aligncenter size-full" /></a></div>
+<div class="container"><a href="https://github.com/SilasReinagel/LiteMediator.DotNet"><img src="/images/lite-mediator-wide.jpg" alt="LiteMediator Logo" width="350" height="200"  /></a></div>
 
 LiteMediator is available primarily as source code. I personally find that it is very helpful when I am developing to be able to easily view and modify any part of my application. 
 

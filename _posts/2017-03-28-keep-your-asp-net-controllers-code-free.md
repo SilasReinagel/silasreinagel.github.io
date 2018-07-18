@@ -12,7 +12,7 @@ If you've been doing any amount of server-centric web development, you have defi
 
 This rule is essential to ensure that your [application is decoupled from deployment concerns](http://silasreinagel.com/2017/03/21/independently-executable-units/), to ensure that your application itself expresses its business scenarios, and to ensure that you do not have any application complexity leaking into inappropriate parts of the codebase. 
 
-<img src="/images/asp-net-laptop.jpg" alt="ASP.NET Laptop" width="700" height="400" class="aligncenter size-full" />
+<img src="/images/asp-net-laptop.jpg" alt="ASP.NET Laptop"   />
 
 The Single-Responsibility Principle requires that Web Controllers should only contain code for passing Requests into the application and returning Web Responses. They should do absolutely nothing else!
 

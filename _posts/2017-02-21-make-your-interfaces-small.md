@@ -12,7 +12,7 @@ Well-designed interfaces are a delight to read, use, and implement. The really e
 
 Elegant interfaces are succinct. They do not contains a lot of uncomposed elements and dissimilar use cases.
 
-<img class="size-full aligncenter" src="/images/escher-business.jpg" alt="Confusing Options" width="700" height="400" />
+<img class="size-full aligncenter" src="/images/escher-business.jpg" alt="Confusing Options"  />
 
 ```
 public interface IDealRepository

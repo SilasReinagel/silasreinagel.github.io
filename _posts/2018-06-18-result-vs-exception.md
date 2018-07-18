@@ -10,7 +10,7 @@ featured-img: /images/exception.jpg
 
 When working with business or network integrated software, errors are inevitable. It's been compellingly argued that exceptions should not be used for control flow. It's also critical to communicate the cause of the error and known solutions. One of the possible solutions this leads to is using a Result data structure. Let's look at how this differs from the conventional use of exceptions. 
 
-<div class="container"><img src="/images/exception.jpg" alt="Red cube amongst grey cubes" width="700" height="400" /></div>
+<div class="container"><img src="/images/exception.jpg" alt="Red cube amongst grey cubes"  /></div>
 
 Often in Web Applications you will see something terrible like this:
 
