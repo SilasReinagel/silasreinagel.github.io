@@ -2,10 +2,10 @@
 <!--- Provide a general summary of the issue in the Title above -->
 
 ### Context
-OS/Browser: [insert]<br>
-Page URL: [insert]
+OS/Browser: 
+Page URL: 
 
 ### Problem Description
-Screenshot of Issue: [insert]<br>
-Current Behavior: [insert]<br>
+Screenshot of Issue: 
+Current Behavior: 
 (Optional) Expected Behavior: 
