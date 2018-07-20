@@ -10,7 +10,7 @@ featured-img: /images/note-on-shirt.jpg
 
 Have you seen interfaces which have no methods in a project you were working on? Every time you see one of those, it should raise a mental red flag. Marker interfaces are a terrible design choice! I will explain why and what to do instead.
 
-<div class="container"><img src="/images/note-on-shirt.jpg" alt="Note taped to back of man&#039;s shirt that reads &quot;Kick Me&quot;" /></div>
+<img src="/images/note-on-shirt.jpg" alt="Note taped to back of man&#039;s shirt that reads &quot;Kick Me&quot;" />
 
 ----
 
@@ -105,7 +105,7 @@ If the operations you are performing can be performed on `object` then don't use
 
 ----
 
-<div class="container"><img src="/images/mired.jpg" alt="Struggling Man Bogged Down In Quicksand"  /></div>
+<img src="/images/mired.jpg" alt="Struggling Man Bogged Down In Quicksand"  />
 
 ### Marker interfaces are evil. 
 

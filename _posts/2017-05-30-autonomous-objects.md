@@ -29,7 +29,7 @@ There is a broad area of space between the two poles. In this space there are de
 
 A system built around the procedural style is a Command and Control system. A system with specific class dependencies and inverted dependencies is a Trust and Delegate system. **A system built around the autonomous objects is an Orchestrated system.**
 
-<div class="container"><img src="/images/autonomous-robots.jpg" alt="Dueling Robots"  /></div>
+<img src="/images/autonomous-robots.jpg" alt="Dueling Robots"  />
 
 ----
 

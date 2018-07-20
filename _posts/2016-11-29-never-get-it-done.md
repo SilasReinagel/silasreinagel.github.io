@@ -18,7 +18,7 @@ There is a deadly, costly idea that is very popular in software development comp
 
 <strong>The Lie:</strong> The lie is that these tradeoffs won't affect the option to later choose a different two elements. Often, companies take the approach "We need to get this product to our customers quickly, and then later we will improve the quality and make it robust."
 
-<div class="container"><img src="/images/we-got-it-done.jpg" alt="We Got It Done" width="520" height="388" /></div>
+<img src="/images/we-got-it-done.jpg" alt="We Got It Done" width="520" height="388" />
 
 <strong>The Practice:</strong> At the beginning of a software product's lifecycle, the "Get It Done" philosophy usually results in the ability to move very quickly initially and ship a product or feature with a moderate speed gain. It also results in accumulating a sizable amount of Technical Debt. When the next planned feature begins development, the "Get It Done" philosophy is still the core driver for development. Therefore, rather than adapting the program to integrate nicely with the recently shipped feature, the structural flaws are reinforced.
 

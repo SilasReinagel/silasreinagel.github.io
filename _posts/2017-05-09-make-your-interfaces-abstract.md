@@ -10,7 +10,7 @@ featured-img: /images/adapters.jpg
 
 Abstractions are very much abused in software development. Frequently, I encounter supposedly abstract interfaces that reveal too much and can only realistically be implemented in one way. This violates the entire concept of abstractions! Let me show you what I mean.
 
-<div class="container"><img src="/images/adapters.jpg" alt="Electric Cables With Various Connector Types" /></div>
+<img src="/images/adapters.jpg" alt="Electric Cables With Various Connector Types" />
 
 Here are some ways to ensure that your interface are as concrete and unusable as possible:
 
@@ -103,7 +103,7 @@ When you have just a single implementations, it's easy to think that it's abstra
 
 What is the best way to create interfaces that are genuinely abstract? There is only one highly effective way to ensure this. **You must have multiple different implementations.**
 
-<div class="container"><img src="/images/usb-flash-drives.jpg" alt="USB Drives" /></div>
+<img src="/images/usb-flash-drives.jpg" alt="USB Drives" />
 
 By fully satisfying multiple different use cases with the same interface, your program proves that the interface is reusable in different forms. The most abstract interfaces are the ones that can be used in the broadest range of scenarios. Reasonably abstract interfaces are ones that have a smaller scope, but effectively handle some range of application use cases. 
 

@@ -93,8 +93,11 @@
   color: $orange;
 }
 
-.post-content img {
-  margin: 0.5rem 0;
+.post-content img {  
+  margin-left: 1vw;
+  margin-right: auto;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .post-content ol {

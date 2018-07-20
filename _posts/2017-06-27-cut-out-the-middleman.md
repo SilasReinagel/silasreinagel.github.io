@@ -12,7 +12,7 @@ Too much decoupling in software development is arguably worse than too little. E
 
 There are several causes of excessive decoupling. The one I want to address in this post is the dysfunctional approach to getting everything through an intermediary. Why does everything need to be acquired through a Repository, a Supplier, a Provider, a Service, a Lookup, a Builder and so forth? **Do we need so much separation?**
 
-<div class="container"><img src="/images/moneymakers.jpg" alt="Business People With Money, Laughing" width="700" height="411" /></div>
+<img src="/images/moneymakers.jpg" alt="Business People With Money, Laughing" width="700" height="411" />
 
 How often have you seen some code that looks like this?
 
