@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Static Dependency Access
-date: 2018-07-22 20:17
+date: 2018-07-23 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
