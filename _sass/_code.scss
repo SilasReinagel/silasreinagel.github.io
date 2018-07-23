@@ -16,7 +16,8 @@ code {
   font-size: $code-font-size;
 }
 
-p code {
+p code,
+li code {
   padding: 0.2rem 0.4rem;
   line-height: 1.0rem;
   position: relative;
