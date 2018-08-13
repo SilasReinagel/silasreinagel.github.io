@@ -31,7 +31,7 @@ This is the biggest key to a successful project. When people are individually mo
 
 ----
 
-### 2. Micro-Tasking Maximizes Momentum
+### 2. Microtasking Maximizes Momentum
 
 ----
 
@@ -39,12 +39,12 @@ With some projects, I have seen developers working on the same ticket for multip
 
 One key to a well-managed project is a very short cycle time. **Fast feedback cycles are incredibly empowering and even addictive.** Like a person's heartbeat or breathing, a healthy project should continually have tickets flowing through from Created -> In Progress -> Done. This is hugely beneficial for several reasons. 
 
-- Micro-tasks activate people's natural psychological reward center. 
-- Micro-tasks make it easy to see which pieces of work are large, complex, or bottlenecks.
-- Micro-tasks ensure that the project always has momentum.
-- Micro-tasks keep the project codebase fresh and compels Continuous Integration.
+- Microtasks activate people's natural psychological reward center. 
+- Microtasks make it easy to see which pieces of work are large, complex, or bottlenecks.
+- Microtasks ensure that the project always has momentum.
+- Microtasks keep the project codebase fresh and compels Continuous Integration.
 
-**With micro-tasking, the momentum and energy of the project is always tangible, and continually morale-boosting.** When the team is shipping an average of 78 tickets per day, it's easy to watch the project evolve before your eyes. Every time you run the latest code, you are playing with new features, seeing new art, hearing new music, and not getting bothering by bugs that were present just an hour ago. It's electric!
+**With microtasking, the momentum and energy of the project is always tangible, and continually morale-boosting.** When the team is shipping an average of 78 tickets per day, it's easy to watch the project evolve before your eyes. Every time you run the latest code, you are playing with new features, seeing new art, hearing new music, and not getting bothering by bugs that were present just an hour ago. It's electric!
 
 ----
 
@@ -90,7 +90,7 @@ When the product owner also has the project manager role, this lapse is non-exis
 ### Keys to Supersonic Projects:
 
 #### 1. Motivated People Deliver
-#### 2. Micro-Tasking Maximizes Momentum
+#### 2. Microtasking Maximizes Momentum
 #### 3. Communication is Crucial
 #### 4. Use Actual Sprints
 #### 5. Product Owners should Manage the Project
