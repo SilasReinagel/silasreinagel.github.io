@@ -72,7 +72,7 @@ The moment you realize that one bad design decision will lead to another, **find
 
 ### 3) Marker interfaces make integrations/disentanglements harder
 
-Libraries and frameworks that utilize Marker Interfaces tend to require you to include them all over your codebase. You'll take a nice clean data structure and then find yourself adding any number of Marker Interfaces implementations, which will change as you add/remove integrations.
+Libraries and frameworks that utilize Marker Interfaces tend to require you to include them all over your codebase. You'll take a nice clean data structure and then find yourself adding any number of Marker Interfaces, which will change as you add/remove integrations.
 
 ```
 public sealed class ServerDownNotification : IBinarySerializable, 

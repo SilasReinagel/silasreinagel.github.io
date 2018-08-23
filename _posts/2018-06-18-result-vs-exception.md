@@ -75,7 +75,7 @@ public sealed class Result<T>
 4. Every application response message should be a Result.
 5. Every operation which depends on another Result must itself return a Result.
 
-Using Results instead of throwing exceptions is not an easy fix. It takes discipline and intentionality. It will change your codebase substantially, perhaps as much as migrating from Asynchronous code to Synchronous. <strong>The error-possible parts of your system will all be explicit</strong>, and working with error-possible workflow steps can be handled with cleaner syntax using methods or extensions methods for Result.
+Using Results instead of throwing exceptions is not an easy fix. It takes discipline and intentionality. It will change your codebase substantially, perhaps as much as migrating from Asynchronous code to Synchronous. <strong>The error-possible parts of your system will all be explicit</strong>, and working with error-possible workflow steps can be handled with cleaner syntax using methods or extension methods for Result.
 
 ----
 
@@ -85,7 +85,7 @@ Using Results instead of throwing exceptions is not an easy fix. It takes discip
 
 It is best for a program to have a finite list of possible errors it expects. <strong>In a well-designed program, all common types of expected errors are known and explicitly expressed.</strong> Whether an enum, or a code, or a string is used is not important. What is important is a clear description of the type of error, and easy discoverability of all possible general error types.
 
-Why is an enum or string better than a strongly-defined type? Because they aren't really a different type of thing, typed exception are simply aliases. Also, not using strongly-typed exceptions prevent the abuse of language features like catching particular types of exceptions and using them for control flow.
+Why is an enum or string better than a strongly-defined type? Because they aren't really a different type of thing, typed exceptions are simply aliases. Also, not using strongly-typed exceptions prevent the abuse of language features like catching particular types of exceptions and using them for control flow.
 
 ----
 

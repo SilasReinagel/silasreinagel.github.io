@@ -8,7 +8,7 @@ categories: [blog]
 featured-img: /images/logic-flow.jpg
 ---
 
-The understandability of code is directly related to the distance between the data and the code that makes decision based on that data. The fewer places you have to look to see that actual behavior of the system, the easier it is to comprehend. 
+The understandability of code is directly related to the distance between the data and the code that makes decisions based on that data. The fewer places you have to look to see the actual behavior of the system, the easier it is to comprehend. 
 
 <img src="/images/logic-flow.jpg" alt="Logic Flow Diagram"  />
 
@@ -97,6 +97,6 @@ public sealed class MouseStateProcessing : ISystem
 
 This offers two benefits. First, this allows the `MouseStateActions` to hide its `CurrentState` and `ClickedAt` properties. This ensures that only the declarative properties can be set. Secondly, the `MouseStateProcessing` system is now much, much clearer. The code clearly indicates that he is an intermediary between the Mouse and the object with MouseStateActions. 
 
-Furthermore, this reducing the coupling between the two since now there is no data passing between the System and the Component. This reduces the chance of bugs, and makes it easier to modify the behavior of MouseStateActions if further logic or state-tracking is needed in the future.
+Furthermore, this reduces the coupling between the two since now there is no data passing between the System and the Component. This reduces the chance of bugs, and makes it easier to modify the behavior of MouseStateActions if further logic or state-tracking is needed in the future.
 
-For data structures that you own, whenever and whenever possible, keep the logic and utility functions alongside the data.  
+For data structures that you own, whenever and wherever possible, keep the logic and utility functions alongside the data.  
