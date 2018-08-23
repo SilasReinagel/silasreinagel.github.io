@@ -44,7 +44,7 @@ One key to a well-managed project is a very short cycle time. **Fast feedback cy
 - Microtasks ensure that the project always has momentum.
 - Microtasks keep the project codebase fresh and compels Continuous Integration.
 
-**With microtasking, the momentum and energy of the project is always tangible, and continually morale-boosting.** When the team is shipping an average of 78 tickets per day, it's easy to watch the project evolve before your eyes. Every time you run the latest code, you are playing with new features, seeing new art, hearing new music, and not getting bothering by bugs that were present just an hour ago. It's electric!
+**With microtasking, the momentum and energy of the project is always tangible, and continually morale-boosting.** When the team is shipping an average of 78 tickets per day, it's easy to watch the project evolve before your eyes. Every time you run the latest code, you are playing with new features, seeing new art, hearing new music, and not getting bothered by bugs that were present just an hour ago. It's electric!
 
 ----
 

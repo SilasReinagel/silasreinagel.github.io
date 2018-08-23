@@ -8,11 +8,11 @@ categories: [blog]
 featured-img: /images/globe-hexagons.jpg
 ---
 
-There has always been a lot of controversy over the right ways to access dependencies. Should they be injected? Located? Directly referenced? Magically resolved? Inverted? Context objects? Everyone tends to speak very dogmatically about how they think you should or shouldn't access your dependencies. Statically accessing your dependencies is a very powerful technique, you should absolutely use it, but you must avoid its many perils. 
+There has always been a lot of controversy over the right ways to access dependencies. Should they be injected? Located? Directly referenced? Magically resolved? Inverted? Context objects? Everyone tends to speak very dogmatically about how they think you should or shouldn't access your dependencies. Statically accessing your dependencies is a very powerful technique. You should absolutely use it, but you must avoid its many perils. 
 
 <img src="/images/globe-hexagons.jpg" alt="Hexagons on the globe, viewed from space"  />
 
-Recently, there was a [heated discussion over when global variables](https://www.yegor256.com/2018/07/03/global-variables.html) should or shouldn't be used. There are certainly dangers with global variable, global state, and global access, but they are also very powerful tools when used correctly. A good engineer knows when and where to use a tool. In order to illustrate my point, let's walk through a short development cycle together, and watch a frontend-oriented codebase evolve.
+Recently, there was a [heated discussion over when global variables](https://www.yegor256.com/2018/07/03/global-variables.html) should or shouldn't be used. There are certainly dangers with global variables, global state, and global access, but they are also very powerful tools when used correctly. A good engineer knows when and where to use a tool. In order to illustrate my point, let's walk through a short development cycle together, and watch a frontend-oriented codebase evolve.
 
 ----
 
@@ -95,7 +95,7 @@ public class MainMenuScene : IScene
 ... public LevelSelectionScene(MusicPlayer musicPlayer, SpriteBatch spriteBatch) { ... } ...
 ```
 
-You update all of your scenes, make their constructors bigger, store the `SpriteBatch `in a field, register him in the composition root, and inject him into every single scene. It took a bit more work than you expected, but hey, everyone knows that sometimes writing code the right takes a bit of work. *"This is just the price of doing things the right way"*, you tell yourself. However, doubt starts to grow at the back of your brain. Too small to acknowledge, but just enough to make you think, **"Should it be this hard to add something that I already know I need just about everywhere?"**
+You update all of your scenes, make their constructors bigger, store the `SpriteBatch `in a field, register him in the composition root, and inject him into every single scene. It took a bit more work than you expected, but hey, everyone knows that sometimes writing code the right way takes a bit of work. *"This is just the price of doing things the right way"*, you tell yourself. However, doubt starts to grow at the back of your brain. Too small to acknowledge, but just enough to make you think, **"Should it be this hard to add something that I already know I need just about everywhere?"**
 
 The next ticket is waiting for you in **Up Next**, you quickly assign it to yourself and mark it **In Progress**. It's time to add navigation to all your scene. Users will want to click buttons or perform actions that will take them from one scene to another. No problem.
 
