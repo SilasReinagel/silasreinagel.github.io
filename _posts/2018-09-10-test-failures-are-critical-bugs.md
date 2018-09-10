@@ -8,7 +8,7 @@ categories: [blog]
 featured-img: /images/critical-failure.jpg
 ---
 
-In a mature software project, tests are what enable risk-free, rapid development. They are the only thing that truly enables Continuous Integration and Continuous Delivery for software that is deployed directly to end users. In order to keep delivering, those tests must be kept pristine, and any failure represents a critical flaw which must be immediately addressed. Every test failure that happens outside outside of new feature development on a developer's box, must result in a Bug Ticket. No exceptions!
+In a mature software project, tests are what enable risk-free, rapid development. They are the only thing that truly enables Continuous Integration and Continuous Delivery for software that is deployed directly to end users. In order to keep delivering, those tests must be kept pristine, and any failure represents a critical flaw which must be immediately addressed. Every test failure that happens outside of new feature development on a developer's box, must result in a Bug Ticket. No exceptions!
 
 <img src="/images/critical-failure.jpg" alt="Smoke billowing out of a laboratory door, fire seen through the door's window."  />
 
