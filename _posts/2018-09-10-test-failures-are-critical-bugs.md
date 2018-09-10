@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Failures Are Critical Bugs
-date: 2018-09-10 10:00
+date: 2018-09-9 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
@@ -48,19 +48,24 @@ Every failure should result in improvements to the system, however small.
 This inconsistency reveals that the software will experience other environmental inconsistencies.
 
 Often times I have found major cross-OS bugs which were illuminated by failing tests. 
-- Sometimes path resolutions work on Windows, but not on Linux/Mac. 
-- Sometimes OS API Bindings don't fully support framework features. 
-- Sometimes a web page loads correctly on one browser, but not on another.
-- Sometimes date-time handling doesn't work on build servers using UTC time.
+- Sometimes path resolutions work on Windows, but not on Linux/Mac
+- Sometimes OS API Bindings don't fully support framework features 
+- Sometimes a web page loads correctly on one browser, but not on another
+- Sometimes date-time handling doesn't work on build servers using UTC time
+
+Environment inconsistencies reveal things that otherwise might go undetected for quite a long time. 
 
 ----
 
 ### Does an environment have hardware or network troubles intermittently?
 
-- This is an opportunity to enhance the software to be more fault-tolerant.
-- All deployment environments may experience transient non-software faults. 
-- Resilient software and tests should gracefully handle these failures.
-- Replace or upgrade unreliable hardware or cloud resources in an environment.
+All deployment environments may experience transient non-software faults. 
+
+- External integrations should not assume that resources will always be available
+- Resilient software and tests should gracefully handle these failures
+- Circuit breaker pattern and retry logic can be used to reduce the impact of outages
+- Tests should return an *Inconclusive* result, when a system behavior cannot be tested
+- Replace or upgrade unreliable hardware or cloud resources in an environment
 
 Developers and testers should have access to metrics and analytics that can easily help them identify failures causes.
 
@@ -68,10 +73,11 @@ Developers and testers should have access to metrics and analytics that can easi
 
 ### Does the software perform correctly under light load, but suffer under heavy load, or with more parallel usage?
 
-- These results should be compared to the performance requirements for the software.
-- Performance aspects that are underperforming should be instrumented and benchmarked.
-- Performance-critical systems should have load-tests as part of the delivery pipeline.
-- KPIs should be tracked and plugged in to notification and alerting systems.
+These results should be compared to the performance requirements for the software.
+
+- Performance aspects that are underperforming should be benchmarked
+- Performance-critical systems should have load-tests as part of the delivery pipeline
+- KPIs should be tracked and plugged in to notification and alerting systems
 
 When tests fail due to system performance, the system performance must be upgraded.
 
