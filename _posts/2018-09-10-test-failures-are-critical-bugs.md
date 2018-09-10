@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Failures Are Critical Bugs
-date: 2018-09-9 10:00
+date: 2018-09-10 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
