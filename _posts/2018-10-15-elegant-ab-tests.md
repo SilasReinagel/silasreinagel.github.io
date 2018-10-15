@@ -20,36 +20,41 @@ Flexible software systems are a pleasure to modify. You know that you have a fle
 
 ----
 
-The conventional approach is to wedge them into the usage site with some if/else logic, and a flag state provider. 
+The conventional approach is to wedge them into the usage site procedure with some if/else logic, and a flag state provider, which might be nicely injected, or might be retrieved from a god-forsaken stateful static class somewhere.
 
 ```
-public sealed class CustomerDeliveryAddress
+public async Task<long> SaveTradeAsync(ITradeRepository tradeRepo, TradeModel tradeModel)
 {
-    private IRespository<CustomerAddress> _addresses;
-    private CustomerAbBucket _bucket;
-    
-    ... ctor ... 
+    tradeModel.UserId = tradeModel.UserId == Guid.Empty ? userId : tradeModel.UserId;
+    tradeModel.Vehicle.EffectiveDate = DateTime.UtcNow;
+    tradeModel.Vehicle.ExpirationDate = DateTime.UtcNow.AddDays(AppSettingsRepository.TradeInQuoteExpirationDays);
 
-    public string ForCustomer(CustomerId id)
+    UI.SetUserZipCode(tradeModel.Vehicle.DeliveryZip);
+
+    if (tradeModel.TradeInSubmission == null)
     {
-        var address = _addresses.For(id);
-        return ShouldUseNewFormat(id) 
-            ? FormattedShortWay(address)
-            : Formatted(address);
+        throw new Exception("Unfortunately, an issue occurred with your trade-in submission.");
     }
-    
-    private bool ShouldUseNewFormat(CustomerId id)
-        => _bucket.For(id).Equals("useShortAddress");
-    
-    private string Formatted(CustomerAddress address)
-        => $"{address.Line1}, {address.City}, {address.State}, {address.Zip}";
-        
-    private string FormattedShortWay(CustomerAddress address)
-        => $"{address.Line1}, {address.City}";
+
+    if (ExperimentRepository.GetCustomerBucket(tradeModel.UserId).Equals("useTradeAppraisalGateway"))
+    {
+        var tradeServiceGateway = new TradeServiceGateway();
+        var response = await tradeServiceGateway.SaveAsync(Session.Trade);
+        if (response?.StatusCode == HttpStatusCode.OK && response.Content?.TradeInId != null)
+        {
+            return response.Content.TradeInId.Value;
+        }
+
+        throw new Exception("Unfortunately, an issue occurred with your trade-in submission.");
+    }
+
+    tradeModel = tradeModel.TradeType == TradeType.New ? tradeRepo.SaveTradeIn(tradeModel, userId) : tradeRepo.UpdateTradeIn(tradeModel, userId);
+    ExecuteInitializeTradeInApplicationCommand(tradeModel);
+    return tradeModel.Vehicle.TradeInId;
 }
 ```
 
-This doesn't look completely horrendous, and in this toy example it's not large enough to be abyssmally unmaintainable. In real applications, there is usually significantly more code impact for a typically A/B test. Furthermore, even after the A/B Test is finished, **cleaning up this code is going to require going through this class with a surgical knife** and cutting out the correct 50% of the code. It wouldn't be hard to remove the wrong part of the feature, or leave in a residual dependency. 
+This sort of design is horrendous! The code is messy and complex enough, and then -- buried in the middle of the method -- there is a surprise structural fork with an early return, and sometimes even an early exception thrown! Furthermore, even after the A/B Test is finished, **cleaning up this code is going to require going through this class with a surgical knife** and cutting out the correct bits of the code. It wouldn't be hard to remove the wrong part of the feature, or leave in a residual dependency. Which parts of the setup are needed for the new feature? Which are for the old feature? What a mess!
 
 Also, if the business wants to introduce another A/B test in a similar area of the application, this code site is about to become a Rube Goldberg contraption of conditional logic. **At this point, you are thinking, there must be a better way!**
 
@@ -59,7 +64,7 @@ Also, if the business wants to introduce another A/B test in a similar area of t
 
 ----
 
-How can we have an elegant design that doesn't requires wedging in new conditionals into existing code? **Build two new objects, and leave the original intact.** One new object will be the new way to present the Delivery Address. The other new object will encapsulate the A/B Selection for a given customer 
+How can we have an elegant design that doesn't require wedging in new conditionals into existing code? **Build two new objects, and leave the original intact.** One new object will be the new way to perform the business operation. The other new object will encapsulate the A/B Selection for a given customer.
 
 
 ```
