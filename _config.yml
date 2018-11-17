@@ -4,7 +4,7 @@ email:       silas.reinagel@gmail.com
 author:      Silas Reinagel
 description: "Extreme Software Engineering Blog"
 baseurl:     ""
-url:         "http://silasreinagel.com"
+url:         "https://www.silasreinagel.com"
 date_format: "%b %-d, %Y"
 
 # Google services
