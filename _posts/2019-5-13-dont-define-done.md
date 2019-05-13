@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Do Not Define Done
+title: Don't Define Done
+comments_id: Dont Define Done
 date: 2019-05-13 10:00
 author: silas.reinagel@gmail.com
 comments: true
