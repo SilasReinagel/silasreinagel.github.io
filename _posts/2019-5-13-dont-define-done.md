@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Define Done
+title: Do Not Define Done
 date: 2019-05-13 10:00
 author: silas.reinagel@gmail.com
 comments: true
@@ -32,7 +32,7 @@ Either the requirements for the deliverable are underspecified (the stakeholder 
 
 People aren't mind-readers. For a task specified by Person A to be satisfactorily completed by Person B, there must be clear communication about the work to be performed. Any good task definition should have no ambiguity of success criteria. If the task meets the criteria set forth upon assignment, then it should be accepted. A good stakeholder will use his current deliverables to inform his future task definitions, as needed by the creators he works with. 
 
-A good stakeholder knows that there is an enormous difference between "Buy Milk", and "Buy 2 Gallons of Whole Milk". A good stakeholder will also evolve standard documentation that expresses the common context which applies to all tasks (what payment methods will be used, which venders may be used for purchasing groceries, where grocreies will be delivered, how reimbursement will happen...etc).
+A good stakeholder knows that there is an enormous difference between "Buy Milk", and "Buy 2 Gallons of Whole Milk". A good stakeholder will also evolve standard documentation that expresses the common context which applies to all tasks (what payment methods will be used, which venders may be used for purchasing groceries, where groceries will be delivered, how reimbursement will happen...etc).
 
 If a stakeholder is unhappy with a task deliverable, then he must **provide better requirements** for future tasks.
 
@@ -53,7 +53,7 @@ If the creator is acting in bad faith, and is more interested in cutting corners
 
 If a creator is specialized at a certain type of work, then assign them to project tasks that match their niche. Don't have artists writing complex software code. Don't make your musicians do level design. Don't force your algorithm experts to design user interfaces. A well-specified task won't benefit you if you aren't assigning them to the right creators. 
 
-If deliveries are not meeting specification, **improve your creator pool** through nuture, appropriate assignment, and selecting the right creators.
+If deliveries are not meeting specification, **improve your creator pool** through nurture, appropriate assignment, and selecting the right creators.
 
 ----
 
@@ -63,7 +63,7 @@ If deliveries are not meeting specification, **improve your creator pool** throu
 
 If there is a complaint about a deliverable from someone who is not a stakeholder in the project, or who is only incidentally concerned about the project (like an analyst/consultant/reporter) and has no stake in its business value or success, the solution is trivial. Only people with skin in the game should be working on projects! The product owner cares about his project being delivered. The creators care to be paid for their project deliverables. Someone who is not a creator or a product owner is tangential to the process, and has their own separate agenda.
 
-**Purge the Parasites!** Find the simplest and most business-effective way to get them off the project! Their interest is divorced from the project's interest, and so they offer negative value to project. The health of the project depends on its primary goals! 
+**Purge the Parasites!** Find the simplest and most business-effective way to get them off the project! Their interest is divorced from the project's interest, and so they offer negative value to the project. The health of the project depends on its primary goals! 
 
 ----
 
