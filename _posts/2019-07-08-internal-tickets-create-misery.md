@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internal Tickets Create Misery
-date: 2019-06-24 10:00
+date: 2019-07-08 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
