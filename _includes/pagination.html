@@ -4,23 +4,23 @@
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
         <a class="" href="{{ site.baseurl }}/">
-          <img class="arrow" src="/images/arrow-left.png" alt="Go To Previous Page Arrow">
+          {% include image.html class="arrow" src="/images/arrow-left.png" alt="Go To Previous Page Arrow" %}
         </a>
       {% else %}
         <a class="" href="{{ paginator.previous_page_path }}"> 
-          <img class="arrow" src="/images/arrow-left.png" alt="Go To Previous Page Arrow">
+          {% include image.html class="arrow" src="/images/arrow-left.png" alt="Go To Previous Page Arrow" %}
         </a>
       {% endif %}
     {% else %}
-        <img class="arrow" src="/images/arrow-invisible.png" alt="Disabled Go To Previous Page Arrow">
+      {% include image.html class="arrow" src="/images/arrow-invisible.png" alt="Disabled Go To Previous Page Arrow" %}
     {% endif %}
 
     {% if paginator.next_page %}
       <a class="ml3rd" href="{{ paginator.next_page_path }}">        
-          <img class="arrow" src="/images/arrow-right.png" alt="Go To Next Page Arrow">
+        {% include image.html class="arrow" src="/images/arrow-right.png" alt="Go To Next Page Arrow" %}
       </a>
     {% else %}
-      <img class="arrow ml3rd" src="/images/arrow-invisible.png" alt="Disabled Go To Next Page Arrow">
+      {% include image.html class="arrow ml3rd" src="/images/arrow-invisible.png" alt="Disabled Go To Next Page Arrow" %}
     {% endif %}
   </div>
 </div>
