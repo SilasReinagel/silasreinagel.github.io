@@ -13,7 +13,9 @@ featured-img: /images/logo.png
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             {% include read_time.html content=post.content %}
           </p>
-          <div class="container mb1 py1"><div><img class="post-featured-img" src="{{ post.featured-img }}" alt="Post Featured Image"></div></div>
+          <div class="container mb1 py1"><div>
+              {% include image.html class="post-featured-img" src=post.featured-img alt="Post Featured Image" %}
+          </div></div>
           <h2 class="h2 post-title center">{{ post.title }}</h2>
           {{ post.excerpt }}
           <p class="read-more">READ MORE</p>
