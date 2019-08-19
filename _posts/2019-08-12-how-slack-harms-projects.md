@@ -58,7 +58,7 @@ An unfocused workforce will create flawed, incomplete, and late creations, consi
 
 ----
 
-When approaching their roles professionally, both a Product Owner and Project Manager [(this should always be the same person)]([/blog/2018/08/13/supersonic-project-velocity/) serve the critical role of creating a solid delivery plan, focusing the efforts of the team, and protecting the team from outside interference.
+When approaching their roles professionally, both a Product Owner and Project Manager [(this should always be the same person)]([https://www.silasreinagel.com/blog/2018/08/13/supersonic-project-velocity/) serve the critical role of creating a solid delivery plan, focusing the efforts of the team, and protecting the team from outside interference.
 
 Real-time communication tools, in practice, bypass this entire process. Developers, wanting to be helpful, will stop working on the project tickets in order to help answer questions and troubleshoot problems. While the work might be fine in some cases (usually it isn't), it undermines the entire project team by skipping the priorization process. 
 
