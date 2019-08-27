@@ -8,3 +8,4 @@ permalink: liberation/index.html
 
 ### Table Of Contents
 * [Intro](./intro.html)
+* [Chapter 1 - Freedom Mindset](./c1_freedom.html)
