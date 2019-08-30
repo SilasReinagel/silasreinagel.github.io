@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Liberation From Office Slavery - Freedom Mindset"
-permalink: liberation/c1_freedom.html
+permalink: liberation/c1.html
 ---
 
 ## Chapter 1
@@ -134,7 +134,7 @@ Once you've built a habit of being free, it will be effortless and natural. You 
 
 ----
 
-### Liberation Exercise 1:
+### Liberation Exercise:
 
 Set aside 15 minutes to meditate and reflect.
 1. Write down the parts of your life in which you feel free. 

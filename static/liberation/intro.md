@@ -87,5 +87,3 @@ Good!
 I'm very excited to begin this journey with you! 
 
 It's been incredibly transformative for me, and I know that it will permanently improve your life in the very same way.
-
-
