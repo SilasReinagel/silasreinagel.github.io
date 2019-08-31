@@ -52,7 +52,7 @@ With a focused mindset, and focused effort, you will soon see noticable changes 
 
 ----
 
-### Liberation Exercise :
+### Liberation Exercise:
 
 Set aside 5 minutes to meditate and reflect.
 1. Write down some advantages you already have at work
