@@ -56,7 +56,7 @@ This is what good, clean Procedural Composed code looks like.
 
 ----
 
-Functional composition is about declaring the whole application as a single operation which takes one input and yields one output. The metaphor for function programming is a Pipe. It allows for unidirection data flow, while forbidding reassignments, mutations and side effects.
+Functional composition is about declaring the whole application as a single operation which takes one input and yields one output. The metaphor for function programming is a Pipe. It allows for unidirectional data flow, while forbidding reassignments, mutations and side effects.
 
 Good functional code has a clean separation of abstraction layers, lots of small, pure, well-named functions. Since it uses small scopes, often its variable names are shorter, since there is no ambiguity.
 
