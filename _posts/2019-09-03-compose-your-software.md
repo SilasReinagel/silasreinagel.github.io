@@ -40,7 +40,7 @@ Good procedural code has a clean separation of abstraction layers and reads like
 
 Its shape is a top-to-bottom flat list.
 
-<img src="/images/procedural-composition.jpg" alt="Procedurally composed code." />
+<img src="/images/procedural-composition.JPG" alt="Procedurally composed code." />
 
 It's a clean, ordered list, of high-level instructions. Each subroutine is also a clean, ordered list, of high-level instructions.
 
@@ -62,7 +62,7 @@ Good functional code has a clean separation of abstraction layers, lots of small
 
 Without linebreaks for visual separation, its shape is a train with a number of cars connected.
 
-<img src="/images/functional-composition-pipe.jpg" alt="Functional composed code." />
+<img src="/images/functional-composition-pipe.JPG" alt="Functional composed code." />
 
 With linebreaks for visual separations, it looks different, but notice that each function is connected to the next function. The composed function (`CalculateDrivingDistance`) is declared as the final result of the chained sub-functions. 
 
@@ -84,7 +84,7 @@ Good object-oriented code has clean, [small](https://www.silasreinagel.com/blog/
 
 Composed object-oriented code always looks like a slope or a diagonal line. 
 
-<img src="/images/object-oriented-composition.jpg" alt="Object-oriented composed code." />
+<img src="/images/object-oriented-composition.JPG" alt="Object-oriented composed code." />
 
 It's a clean composition of small objects, each with one clear job, as expressed by their names. 
 
