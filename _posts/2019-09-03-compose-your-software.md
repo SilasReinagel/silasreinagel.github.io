@@ -22,7 +22,7 @@ Uncomposed software is really the only **wrong** way to build your software.
 
 Uncomposed software consists of very large files, classes, methods, functions, etc. 
 
-In uncomposed software, there is no separations of concerns. There typically are problemmatic crossings of domain boundaries. Leaky abstrations. 
+In uncomposed software, there is no separations of concerns. There typically are problematic crossings of domain boundaries. Leaky abstractions. 
 
 Things are connected, but not composed. 
 
