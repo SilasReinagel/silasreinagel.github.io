@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Communicating Your Optionality"
+title: "Liberation - Freedom From Office Slavery - Communicating Your Optionality"
 permalink: liberation/c7.html
 ---
 

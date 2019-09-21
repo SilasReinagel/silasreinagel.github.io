@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Discover New Opportunities"
+title: "Liberation - Freedom From Office Slavery - Discover New Opportunities"
 permalink: liberation/c6.html
 ---
 

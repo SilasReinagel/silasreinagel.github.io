@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Freedom Mindset"
+title: "Liberation - Freedom From Office Slavery - Freedom Mindset"
 permalink: liberation/c1.html
 ---
 

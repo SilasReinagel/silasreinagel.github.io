@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Practical Freedom Hacks"
+title: "Liberation - Freedom From Office Slavery - Practical Freedom Hacks"
 permalink: liberation/c8.html
 ---
 

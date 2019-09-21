@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - The Power of Leverage"
+title: "Liberation - Freedom From Office Slavery - The Power of Leverage"
 permalink: liberation/c3.html
 ---
 

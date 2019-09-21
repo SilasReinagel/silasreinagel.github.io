@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Liberation From Office Slavery"
+title: "Liberation - Freedom From Office Slavery"
 permalink: liberation/index.html
 ---
 
-# Liberation From Office Slavery
+# Liberation - Freedom From Office Slavery
 
 ### Table Of Contents
 * [Intro](./intro.html)
@@ -18,3 +18,4 @@ permalink: liberation/index.html
 * [Chapter 8 - Practical Freedom Hacks](./c8.html)
 * [Conclusion - Let Freedom Reign](./conclusion.html)
 * [Appendix A - Case Study 1 - Daniel Vassallo](./a1.html)
+

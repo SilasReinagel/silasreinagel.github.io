@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Case Study 1"
+title: "Liberation - Freedom From Office Slavery - Case Study 1"
 permalink: liberation/a1.html
 ---
 

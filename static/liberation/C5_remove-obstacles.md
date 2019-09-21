@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Remove Obstacles"
+title: "Liberation - Freedom From Office Slavery - Remove Obstacles"
 permalink: liberation/c5.html
 ---
 

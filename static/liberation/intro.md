@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Introduction"
+title: "Liberation - Freedom From Office Slavery - Introduction"
 permalink: liberation/intro.html
 ---
 
-# Liberation From Office Slavery
+# Liberation - Freedom From Office Slavery
 
 ----
 

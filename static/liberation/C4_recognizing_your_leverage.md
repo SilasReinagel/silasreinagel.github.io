@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Recognizing Your Leverage"
+title: "Liberation - Freedom From Office Slavery - Recognizing Your Leverage"
 permalink: liberation/c4.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Liberation From Office Slavery - Let Freedom Reign"
+title: "Liberation - Freedom From Office Slavery - Let Freedom Reign"
 permalink: liberation/conclusion.html
 ---
 
