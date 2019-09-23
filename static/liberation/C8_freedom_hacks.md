@@ -31,6 +31,18 @@ The most of your calendar you block off, then more you will be in charge of your
 
 ----
 
+## Office Hack: Keep Your Work Apps off your Personal Devices
+
+One important necessity for freedom is keeping a strong delineation between Work and Personal life. If you are used to needing to check email, check messages, and respond quickly to everything, your freedom is significantly limited. 
+
+I keep a pure separation between the two. I have two smartphones. One is only for Personal stuff. The other is only for Work. When I get home at night, I take my Work phone and put it in its charger. I don't ever look at it when I'm off the clock. 
+
+Similarly, I don't install any Work apps or have any Work passwords on my personal computer.
+
+I leave work mentally and technologically, when I'm done for the day or week. I can't access it. This ensures that I'm able to be in right mode. 
+
+----
+
 ## Office Hack: Turn Off Your Messaging Tool For 1-2 Hours
 
 Real-time chats tools are VERY popular at companies these days. They are useful for support personnel, but absolutely ruinous for creative people and thought-workers. In order to solve problems effectively, you need deep focus periods, usually of 30-90 minutes. 

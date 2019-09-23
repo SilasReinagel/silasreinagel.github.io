@@ -17,7 +17,7 @@ And, they're wrong.
 
 The flavor and marketing of slavery has changed as the political climate has changed, but the **REALITY** of slavery hasn't.
 
-### A free man choose what to work on, whom to work with, when to work, and how to work.
+### A free person chooses what to work on, whom to work with, when to work, and how to work.
 
 If you aren't able to choose those things for yourself every day at the office, then you are a slave. 
 
