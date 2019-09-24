@@ -1,8 +1,3 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Freedom Mindset"
-permalink: liberation/c1.html
----
 
 ## Chapter 1
 # Freedom Mindset 
