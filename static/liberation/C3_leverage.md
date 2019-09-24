@@ -1,8 +1,3 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - The Power of Leverage"
-permalink: liberation/c3.html
----
 
 ## Chapter 3
 # The Power of Leverage

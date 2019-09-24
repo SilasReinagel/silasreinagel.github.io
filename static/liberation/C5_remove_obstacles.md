@@ -1,8 +1,3 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Remove Obstacles"
-permalink: liberation/c5.html
----
 
 ## Chapter 5
 # Broadening Your Options - Remove Obstacles

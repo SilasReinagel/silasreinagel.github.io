@@ -1,8 +1,3 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Discover New Opportunities"
-permalink: liberation/c6.html
----
 
 ## Chapter 6
 # Broadening Your Options - Discover New Opportunities

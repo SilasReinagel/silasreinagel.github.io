@@ -1,8 +1,3 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Recognizing Your Leverage"
-permalink: liberation/c4.html
----
 
 ## Chapter 4
 # Recognizing Your Leverage

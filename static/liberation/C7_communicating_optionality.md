@@ -1,8 +1,3 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Communicating Your Optionality"
-permalink: liberation/c7.html
----
 
 ## Chapter 7
 # Communicating Your Optionality

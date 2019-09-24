@@ -1,8 +1,3 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Let Freedom Reign"
-permalink: liberation/conclusion.html
----
 
 ## Conclusion
 # Let Freedom Reign

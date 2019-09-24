@@ -1,8 +1,3 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Modern Office Slavery"
-permalink: liberation/c2.html
----
 
 ## Chapter 2
 # Modern Office Slavery 

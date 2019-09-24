@@ -1,10 +1,4 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Introduction"
-permalink: liberation/intro.html
----
-
-# Liberation - Freedom From Office Slavery
+# Introduction
 
 ----
 
@@ -28,22 +22,23 @@ permalink: liberation/intro.html
 
 ----
 
-Are these things that you think to yourself or hear yourself saying to people?
+**Are these things that you think to yourself or hear yourself saying to people?**
 
-Do you sometimes feel that, at the office, you are just a cog in the machine?
+**Do you sometimes feel that, at the office, you are just a cog in the machine?**
 
-That management doesn't actually care about you as a person?
+**That management doesn't actually care about you as a person?**
 
 ----
 
-I used to feel that way too.
+I used to feel that way too...
+
 That feeling was very discouraging. 
 
 I wanted to find a way to be free. 
 
-To make my own choices. 
+To make my OWN choices. 
 
-To speak my own thoughts.
+To speak my OWN thoughts.
 
 That's where the journey started for me.
 
