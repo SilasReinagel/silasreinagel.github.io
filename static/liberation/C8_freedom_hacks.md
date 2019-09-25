@@ -86,4 +86,16 @@ Saying "No" to time-consuming, low-value activities will immediately give you th
 
 ----
 
+## Office Hack: Start The Project You've Been Wanting
+
+Perhaps you've had an idea for a project that you think would make life at the office much better. Maybe it would make a lot of money. Maybe it would save people at lot of time. 
+
+You've presented the idea to your boss, or to your team on one or two occasions, but they say that there's not enough time, or that other things are more important, or that it can't work. 
+
+You can bring the project to life yourself. Don't wait for resources or approval. Start building it yourself. Put in 1-2 hours a day. Once the project is finished, or you have something close enough for a strong demo, then schedule a meeting and unveil it to your team.
+
+This is the path to innovation. Bring your idea to life, all by yourself if you have to.
+
+----
+
 Do you have other clever freedom-enhancing Office Hacks that you use? Send me an email with your technique! silas@silasreinagel.com

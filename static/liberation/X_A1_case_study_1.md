@@ -1,14 +1,10 @@
----
-layout: default
-title: "Liberation - Freedom From Office Slavery - Case Study 1"
-permalink: liberation/a1.html
----
+## Appendix A - Case Study 1
 
-Here is how Daniel Vassallo approaches his path to freedom. 
+Here is how [Daniel Vassallo](https://danielvassallo.com/) approaches his path to freedom. 
 
-It's a comprehensive mentality, which allows him full autonomy over how he works, what he works on, whom he works with, and extends even beyond work.. 
+It's a comprehensive mentality, which allows him full autonomy over how he works, what he works on, whom he works with, and extends even beyond work...
 
-Everything below is in his own words.
+Everything below is in his own words:
 
 ----
 
@@ -81,5 +77,4 @@ Getting comfortable with no expectation of any improvement is probably the easie
 
 In many cases, the lack of f*** you money can be compensated by a lack of desire. If you don’t want anything from anyone, you won’t be beholden to anybody.
 
-[That’s it for now. I’ll add more if I think of anything else.]
 

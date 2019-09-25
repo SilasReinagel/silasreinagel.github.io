@@ -2,9 +2,7 @@
 ## Chapter 1
 # Freedom Mindset 
 
-<br><br>
 ----
-<br><br>
 
 If I could only communicate one single thing with this entire book, it would be this: 
 
