@@ -25,11 +25,11 @@ Freedom is only meaningful if you can choose things that you want. Our world is 
 - Would you like the meeting to be scheduled for Tuesday or Wednesday morning?
 - Would you like to do Task A or Task B?
 
-These are often not meaningful choices. They are constrained to a very small set of options, often not including ANY good option.
+These are not meaningful choices. They are constrained to a very small set of options, often not including ANY good option.
 
-Maybe you'd rather have a steak than ice cream.
-Maybe you'd rather not attend that meeting at all.
-Perhaps both Task A and Task B suck.
+- Maybe you'd rather have a steak than ice cream.
+- Maybe you'd rather not attend that meeting at all.
+- Perhaps both Task A and Task B suck.
 
 So, discovering new possibilities is essential since having many options is the best way to ensure that you can make MEANINGFUL choices.
 
@@ -81,7 +81,7 @@ Building more connections is an open-ended solution to discovering new things. I
 - Go to a professional meetup group on something you are interested in.
 - Attend a social event you wouldn't normally go to.
 - Talk to people you don't normally talk to.
-- Grab lunch with the smartest and more passionate people in your circle.
+- Grab lunch with the smartest and most passionate people in your circle.
 - Reach out to experts you respect. DM them on Twitter or write them an email.
 
 Connecting with people is a very open-ended form of discovery since you often can't know in advance what kinds of opportunities it might yield. It's one of the most valuable.
@@ -105,12 +105,12 @@ You will find that as you return to your usual routine, you have new ideas and i
 
 ## Broadening Your Options - Recap
 
-That's the twofold strategy to broaden your options.
+This is the twofold strategy to broaden your options.
 
 1. Remove the OBSTACLES that are preventing you from picking certain options you already have.
 2. Discover and attract NEW OPPORTUNITIES.
 
-Between those two, you will have much more freedom. You will be able to pick things that previously weren't possible. You will have more options to pick from. 
+Combine those two and you will have much more freedom. You will be able to pick things that previously weren't possible. You will have more options to pick from. 
 
 ----
 

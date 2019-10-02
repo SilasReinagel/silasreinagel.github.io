@@ -72,7 +72,7 @@ Lift some weights. Go for a walk in the sunshine. Do some stretches.
 
 This reminds you the most tasks aren't urgent. It makes people comfortable with you prioritizing your health. It gives you an air of unpredictability. 
 
-I've been using this technique for over 10 years now, and it is fantastic. Whenever someone wants to have a one-on-one conversation, I'll usually recommend we got for a short walk instead. 
+I've been using this technique for over 10 years now, and it is fantastic. Whenever someone wants to have a one-on-one conversation, I'll usually recommend we go for a short walk instead. 
 
 ----
 

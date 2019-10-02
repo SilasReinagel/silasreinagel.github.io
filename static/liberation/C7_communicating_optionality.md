@@ -38,46 +38,41 @@ Realistically, there is an infinite amount of work and a finite amount of your t
 Here are a number of ways you can, as a free person, react to this:
 
 **Straight-Rejection**
-```
-Boss: "I need you to create Report Z by the end of day tomorrow."
+
+> Boss: "I need you to create Report Z by the end of day tomorrow."
 You: "I am currently working on X, T, and M, which are all urgent. There's no way I get that to you tomorrow."
-```
+
 
 **Team Member Redirection**
-```
-Boss: "I need you to create Report Z by the end of day tomorrow."
+
+> Boss: "I need you to create Report Z by the end of day tomorrow."
 You: "I am currently working on X, T, and M, which are all urgent. I might not be able to get it done tomorrow, but I think Billy has capacity. If this is important to you, you could ask him."
-```
 
 **Present Explicit Trade-Off**
-```
-Boss: "I need you to create Report Z by the end of day tomorrow."
+
+> Boss: "I need you to create Report Z by the end of day tomorrow."
 You: "I am currently working on X, T, and M. I can do the report for you today if we're willing to delay the completion of X until Monday. George is expecting X tomorrow, but it's up to you, I can do whichever one of Z or X you want."
-```
+
 
 **Raise The Price**
-```
-Boss: "I need you to create Report Z by the end of day tomorrow."
+
+> Boss: "I need you to create Report Z by the end of day tomorrow."
 You: "Actually I was hoping to talk to you, I have an appointment to run tomorrow. If I can take off an hour early tomorrow, I can get that report before lunch tomorrow."
-```
 
 **Get Rid Of Unwanted Other Tasks**
-```
-Boss: "I need you to create Report Z by the end of day tomorrow."
+
+> Boss: "I need you to create Report Z by the end of day tomorrow."
 You: "Sounds great! I'll get that one for you ASAP. If George asks about X, T, or M, tell him that I was working on other important projects for you."
-```
 
 **Create Alternative Solution**
-```
-Boss: "I need you to create Report Z by the end of day tomorrow."
+
+> Boss: "I need you to create Report Z by the end of day tomorrow."
 You: "We are just about finished setting up a new reporting feature on the website. If you can wait until Tuesday, then it will be auto-generated and available on-demand. It will make life EASIER and save countless hours."
-```
 
 **Eliminate Work**
-```
-Boss: "I need you to create Report Z by the end of day tomorrow."
+
+> Boss: "I need you to create Report Z by the end of day tomorrow."
 You: "Is this for Project Rhinoceros? You don't want Report Z! It's missing the core pieces of data. Instead, you should ask Tony for a copy of his Report B. It's got what you really are looking for."
-```
 
 There are a lot of genuine options! All of these options give you more freedom, elevate your interactions with your boss, give you a chance to offer more value, and build more trust. 
 
@@ -103,7 +98,7 @@ Many of the best and most innovative companies have a culture that embraces expe
 
 ----
 
-## Communicating Your Optionality - Recap
+### Communicate Your Optionality
 
 Your new inner freedom mentality will transform the way you interact with others at work. If you practice these two skills, you will eventually be completely liberated. People will trust you, rely on you, and give you space to work HOW, WHERE, and on WHAT you want to.
 
@@ -112,9 +107,9 @@ The two external keys are:
 1) SIGNAL appropriately
 2) Use PERSUASION to get what you want
 
-Once you've put these into practice long enough, you won't think of yourself as having a boss even if the company's organization chart says that you report to someone. You KNOW the best ways to provide value to your company. You even know better ways to EMPOWER those you report to than they can know. 
+Once you've put these into practice long enough, you won't think of yourself as having a boss even if the company's organization chart says that you report to someone. You KNOW the best ways to provide value to your company. You are more capable of EMPOWERING the people you report to than they realize. 
 
-Trust yourself enough to take bold steps and influence the people around you. Make your own choices. Realize that everything at work is two-sided. YOU are a key factor in your company.
+Trust yourself to take bold steps and influence the people around you. Make your own choices. Realize that everything at work is two-sided. YOU are a key factor in your company.
 
 ----
 
