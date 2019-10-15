@@ -1,3 +1,3 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-**Version 0.8.1**
-**10/02/19**
+**Version 0.8.2**
+**10/14/19**
