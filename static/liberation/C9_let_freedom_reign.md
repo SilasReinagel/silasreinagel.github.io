@@ -1,6 +1,4 @@
-
-## Chapter 9
-# Let Freedom Reign
+# Chapter 9 - Let Freedom Reign
 
 ----
 

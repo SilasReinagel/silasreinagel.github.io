@@ -1,6 +1,4 @@
-
-## Chapter 3
-# The Power of Leverage
+# Chapter 3 - The Power of Leverage
 
 ----
 

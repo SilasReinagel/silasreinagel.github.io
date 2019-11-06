@@ -1,6 +1,4 @@
-
-## Chapter 2
-# Modern Office Slavery 
+# Chapter 2 - Modern Office Slavery 
 
 ----
 

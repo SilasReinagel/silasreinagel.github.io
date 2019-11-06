@@ -1,0 +1,7 @@
+---
+title: Liberation - Freedom from Office Slavery
+author: Silas Reinagel
+language: en-US
+rights: © 2019 Silas Reinagel
+cover-image: cover.jpg
+...

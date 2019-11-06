@@ -1,6 +1,4 @@
-
-## Chapter 8
-# Practical Freedom Hacks 
+# Chapter 8 - Practical Freedom Hacks 
 
 ----
 

@@ -1,6 +1,4 @@
-
-## Chapter 5
-# Broadening Your Options - Remove Obstacles
+# Chapter 5 - Removing Obstacles
 
 ----
 
@@ -73,7 +71,7 @@ Often you just need a plausible reason to do something that you want to do, whic
 
 There is a principle that the most effective way to have a thing done is:
 
-# Tell, Don't Ask
+## Tell, Don't Ask
 
 To solve a problem this way, create a SITUATION that lets you do the thing you REALLY WANT.
 

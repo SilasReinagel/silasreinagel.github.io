@@ -1,4 +1,4 @@
-## About The Author
+# About The Author
 
 Silas Reinagel is a software engineer, a project manager, a software blogger, and a musician. He lives in sunny Phoenix, Arizona with his wife, his dog, and very close to 9 out of his 10 younger siblings. 
 

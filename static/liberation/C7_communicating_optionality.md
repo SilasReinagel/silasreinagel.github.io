@@ -1,6 +1,4 @@
-
-## Chapter 7
-# Communicating Your Optionality
+# Chapter 7 - Communicating Your Optionality
 
 ----
 

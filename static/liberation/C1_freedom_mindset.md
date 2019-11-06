@@ -1,6 +1,4 @@
-
-## Chapter 1
-# Freedom Mindset 
+# Chapter 1 - Freedom Mindset 
 
 ----
 
@@ -113,7 +111,7 @@ Living a life of freedom is a richer and better experience.
 
 But you already know that. Your soul already agrees with that. You're not crazy. It's not a pipe dream. 
 
-# You are MEANT to be free.
+## You are MEANT to be free.
 
 ----
 
@@ -139,4 +137,4 @@ Set aside 15 minutes to meditate and reflect.
 
 Now, as you go about the next few days of your life, reflect on this truth: 
 
-# You are MEANT to be free.
+## You are MEANT to be free.

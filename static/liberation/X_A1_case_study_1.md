@@ -1,4 +1,4 @@
-## Appendix A - Case Study 1
+# Appendix A - Case Study 1
 
 Here is how [Daniel Vassallo](https://danielvassallo.com/) approaches his path to freedom. 
 

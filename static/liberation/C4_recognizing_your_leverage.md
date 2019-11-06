@@ -1,6 +1,4 @@
-
-## Chapter 4
-# Recognizing Your Leverage
+# Chapter 4 - Recognizing Your Leverage
 
 ----
 

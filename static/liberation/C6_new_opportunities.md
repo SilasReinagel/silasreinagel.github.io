@@ -1,6 +1,4 @@
-
-## Chapter 6
-# Broadening Your Options - Discover New Opportunities
+# Chapter 6 - Discovering New Opportunities
 
 ----
 
