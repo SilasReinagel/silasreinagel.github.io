@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Radical Work Paradigm - 3 Hour Workday
-date: 2020-01-05 10:00
+date: 2020-01-06 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
