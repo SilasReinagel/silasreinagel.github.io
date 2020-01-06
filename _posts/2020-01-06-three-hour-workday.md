@@ -27,8 +27,8 @@ Having worked in numerous industries in my software career I have observed the f
 I also have lots of experience with [rapid-development projects](/blog/2018/08/13/supersonic-project-velocity/) that operate under extremely tight budget, staffing, and time constraints. I have observed some other interesting things in these projects:
 
 1. Workflow process is the key thing for productivity
-2. People working under constraints outdeliver uncontrained worker by a very large factor (5x-7x)
-3. Contraints prevents many classes of work problems (communication, prioritization, reinventing... etc.)
+2. People working under constraints outdeliver unconstrained worker by a very large factor (5x-7x)
+3. Constraints prevents many classes of work problems (communication, prioritization, reinventing... etc.)
 
 There is a well-known law that effectively expresses a part of what I have observed. 
 
