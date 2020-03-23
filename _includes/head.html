@@ -23,6 +23,15 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
 
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" type="text/css">
+
+    <!-- Fonts -->    
+    <link href="/css/webfonts.css" rel="stylesheet" />
+    {% if site.show_social_icons or site.show_sharing_icons %}
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    {% endif %}
+
     <!-- Verifications -->
     {% if site.google_verification %}
       <meta name="google-site-verification" content="{{ site.google_verification }}" />
