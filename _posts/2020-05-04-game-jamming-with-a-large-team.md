@@ -52,7 +52,7 @@ If everyone on the team knows the answers to these, it sets up a clear path for 
 
 People are incredibly capable when you give them clear responsibilities. At the start of the jam, everyone should know exactly what parts they are responsible for delivering, and what areas they get to call the shots about. 
 
-While it sounds like a good idea ot have one person deciding everything, this doesn't scale well with a larger team. You want to aim for autonomy. 
+While it sounds like a good idea to have one person deciding everything, this doesn't scale well with a larger team. You want to aim for autonomy. 
 
 **We have two types of roles. There are Leads and Contributors.** A Lead role is empowered to make any and all decisions for the entire team about his/her domain. The Lead Artist gets to make all final decisions about how the game should look. The Lead Game Designer gets to make all final decisions about the game rules and interactions. The Lead Programmer gets to make all final decisions about how the code should be structured and how systems should be integrated.
 
