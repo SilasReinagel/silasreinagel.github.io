@@ -16,7 +16,7 @@ The core challenge you are facing is the issue of constraints.
 
 ----
 
-### Example Project
+## Example Project
 
 > Note: Throughout this book, I will refer to the following example project to illustrate various project management techniques.
 
@@ -28,7 +28,7 @@ You just started a new job as a Project Manager. After your intial week of orien
 
 ----
 
-### Identify Your Constraints
+## Identify Your Constraints
 
 To solve the problem of how to bring this project to completion, there are many invisible things you must know.
 
@@ -46,7 +46,7 @@ Your natural fight against the odds is expressed with the pithy expression that:
 
 ----
 
-### What is expected of you?
+## What is expected of you?
 
 When you are managing a project, you are either a powerful leader, moving heaven and earth to deliver the project, or you are a powerless scapegoat at the whims of a cruel and chaotic environment.
 

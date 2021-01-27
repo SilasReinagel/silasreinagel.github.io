@@ -1,6 +1,21 @@
 # Chapter 2 - Constraints and the Iron Triangle
 
-The best way to conceptualize your constraints is with the Iron Triangle.
+What's the biggest risk that you face, as a project manager?
+
+**The biggest risk you face is the project failing due to not staying within its constraints.**
+
+The worst thing that can happen is for a project to get canned before it's finished.
+
+This can easily happen if things take too long, if the core of the project isn't right, or if the costs have gotten out of control.
+
+How can you, as a project manager, help forsee and avoid these massive risks?
+
+**The best way to avoid project failure is by correctly conceptualize your constraints by using the Iron Triangle.**
+
+---
+
+## What is the Iron Triangle?
+
 
 <img src="./project-management-triangle.png" alt="Project Management Iron Triangle">
 
@@ -22,7 +37,7 @@ It will also often be the case that the project stakeholders wish to have all th
 
 ----
 
-### Determine the Variable Constraint
+## Determine the Variable Constraint
 
 In the Example Project of building a stock trading tax calculation software, it may be that Gary wants the project finished within 1 year, on a budget of $200K.
 
@@ -40,7 +55,7 @@ Many clients, even experienced ones, won't wish to accept a fully uncertain thir
 
 ----
 
-### Levels of Project Management Mastery
+## Levels of Project Management Mastery
 
 How well you handle this Law is one of the most important things that determines your effectiveness as a project manager.
 
@@ -54,7 +69,7 @@ How well you handle this Law is one of the most important things that determines
 
 ----
 
-### How This Looks In Practice
+## How This Looks In Practice
 
 Gary: "We're looking to create a software tool that allows users to provide their stock trades which calculates their tax liability for a specific tax year. You'll be managing this project."
 
@@ -74,7 +89,7 @@ By explicitly putting out feelers towards each of the three variables, you have 
 
 ----
 
-### Final Project Output
+## Final Project Output
 
 You may have noticed that in the center of the Iron Triangle is the word Quality. This represents the final project output.
 
