@@ -1,4 +1,4 @@
-# Delivering! - Project Management for Movers
+# Project Management Secrets
 
 ### Table Of Contents
 * **Intro**
@@ -8,7 +8,7 @@
 * **2. Constraints and the Iron Triangle**
 * **3. Project Momentum**
 * **4. Project Predictability**
-* **5. Needed Tools**
+* **5. Essential Tools**
 
 ### Section 2 - Industry Practices - The Good & Bad
 * **6. Agile**
