@@ -1,7 +1,5 @@
 # Chapter 2 - Modern Office Slavery 
 
-----
-
 As I write this, the year is 2019. There are many people who would argue that slavery is a thing of the past. 
 
 Maybe they'll begrudgingly agree that there is still sex slavery and trafficking and perhaps some sweatshops in third-world nations, but not in our country! Certainly not in offices!

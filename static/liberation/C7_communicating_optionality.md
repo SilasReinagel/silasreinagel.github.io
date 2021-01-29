@@ -1,7 +1,5 @@
 # Chapter 7 - Communicating Your Optionality
 
-----
-
 Freedom is only useful if you can use it effectively to live and work the way you wish. 
 
 Since our world is a social place, it's essential to learn how to be free while continuing to happily collaborate with the people in your sphere, especially as you work. 

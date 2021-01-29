@@ -1,7 +1,5 @@
 # Further Reading
 
-----
-
 For more reading related to the topic of Office Slavery and Autonomy, I recommend:
 
 [Why Work Sucks and How to Fix it](https://www.gorowe.com/books)

@@ -1,3 +1,3 @@
 ![Cover Art]
 
-[Cover Art]: ./cover.jpg
+[Cover Art]: ./cover-v2.jpg

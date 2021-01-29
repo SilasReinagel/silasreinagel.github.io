@@ -1,7 +1,5 @@
 # Chapter 8 - Practical Freedom Hacks 
 
-----
-
 We've talked about the medium-term strategy of how to increase your freedom at work. 
 
 I'm also really excited about this chapter. Sometimes, you just want more freedom FAST. 

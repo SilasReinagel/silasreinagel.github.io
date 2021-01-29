@@ -1,7 +1,5 @@
 # Chapter 4 - Recognizing Your Leverage
 
-----
-
 Much earlier in my career, I didn't know what I had to offer. That limited my freedom. 
 
 - I didn't know what employers wanted.

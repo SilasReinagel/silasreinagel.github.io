@@ -1,8 +1,6 @@
 # Chapter 6 - Discovering New Opportunities
 
-----
-
-The key technique to freedom is to broaden your options. 
+The key technique to freedom is to broaden your options.
 
 As mentioned in the previous chapter, there are two fundamental ways to increase your options.
 

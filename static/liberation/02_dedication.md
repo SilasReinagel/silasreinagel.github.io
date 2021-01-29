@@ -1,7 +1,5 @@
 # Dedication
 
-----
-
 This book is dedicated to my former colleague, Tomas Eychaner, who never believed that he had *any* choices at work, no matter which company he was at and no matter how much they paid him. My hope is that nobody should have to live in such a powerful prison for so much of their life. 
 
 It's also dedicated to [Jose Rosado](https://twitter.com/JoseRosado), who inspired me to begin writing instead of spending too much time planning, researching, and generally overthinking things. 

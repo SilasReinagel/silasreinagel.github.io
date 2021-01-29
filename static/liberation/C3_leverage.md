@@ -1,7 +1,5 @@
 # Chapter 3 - The Power of Leverage
 
-----
-
 One of the key drivers of freedom is leverage. The more leverage you have, the more freedom you will have.
 
 ## Leverage Always Results In Freedom

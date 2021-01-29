@@ -1,7 +1,5 @@
 # Chapter 9 - Let Freedom Reign
 
-----
-
 When this book began, I said that the big idea was:
 
 ## You are MEANT to be free.

@@ -1,7 +1,5 @@
 # Chapter 5 - Removing Obstacles
 
-----
-
 The key technique to freedom is to broaden your options. If you have more options, you can pick things you like. You can choose NOT to do things you don't like.
 
 There are two fundamental ways to increase your options.

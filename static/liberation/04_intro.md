@@ -1,7 +1,5 @@
 # Introduction
 
-----
-
 *"I have no choice."*
 
 *"The deadline is the deadline."*
