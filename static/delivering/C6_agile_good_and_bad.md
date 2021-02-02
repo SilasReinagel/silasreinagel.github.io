@@ -113,11 +113,11 @@ Find out what works for your team.
 Change anything that is't working well.
 
 What are the big takeaways from Agile for me?
-- Embrace flexibility
-- Get frequent feedback
-- Aim for short iterations and units of work
-- Don't be rigid about your tools or process
-- Avoid the Agile Project Management scams and titles
+1. Embrace flexibility
+2. Get frequent feedback
+3. Aim for short iterations and units of work
+4. Don't be rigid about your tools or process
+5. Avoid the Agile Project Management scams and titles
 
 ---
 
