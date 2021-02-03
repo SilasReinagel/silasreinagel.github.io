@@ -16,6 +16,6 @@
 * **8. SCRUM**
 
 ### Section 3 - Putting It In Practice
-* **9. Assembling a Team**
-* **10. Motivating a Team**
+* **9. Assembling Your Team**
+* **10. Motivating Your Team**
 * **11. Communicating Results**
