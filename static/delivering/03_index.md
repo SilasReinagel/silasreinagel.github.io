@@ -15,7 +15,10 @@
 * **7. Kanban**
 * **8. SCRUM**
 
-### Section 3 - Putting It In Practice
+### Section 3 - Putting It Into Practice
 * **9. Assembling Your Team**
 * **10. Motivating Your Team**
 * **11. Communicating Results**
+
+### Appendixes
+* **Appendix A. My Worst Project Management Failure**
