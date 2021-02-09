@@ -14,19 +14,7 @@ Everything else that you will learn or do in project management are just strateg
 
 The core challenge you are facing is the issue of constraints.
 
-----
-
-## Example Project
-
-> Note: Throughout this book, I will refer to the following example project to illustrate various project management techniques.
-
-----
-
-You just started a new job as a Project Manager. After your intial week of orientation, Gary, the VP of Product Development comes to you and says:
-
-"We're looking to create a software tool that allows users to provide their stock trades which calculates their tax liability for a specific tax year. You'll be managing this project."
-
-----
+---
 
 ## Identify Your Constraints
 

@@ -19,6 +19,7 @@
 * **9. Assembling Your Team**
 * **10. Motivating Your Team**
 * **11. Communicating Results**
+* **12. All The Secrets**
 
 ### Appendixes
 * **Appendix A. My Worst Project Management Failure**
