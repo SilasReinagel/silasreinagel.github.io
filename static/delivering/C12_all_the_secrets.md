@@ -14,7 +14,7 @@ Your goal as a project manager is:
 The key factors that impact a project's success are:
 1. Great project management
 2. A strong project team
-3. Enough resources
+3. Sufficient resources
 4. Good planning/research/design
 
 ---
