@@ -22,8 +22,6 @@ But if you aren't able to choose what to work on, whom to work with, when to wor
 
 ## What is Modern Office Slavery?
 
-----
-
 Modern office slavery is a means by which those who are rich and in control find compliant and willing workers to help make them more money.
 
 What are the signature traits of modern slave companies?
