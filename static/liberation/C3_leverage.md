@@ -52,5 +52,5 @@ Set aside 5 minutes to meditate and reflect.
 
 Now, as you go about your next few days of life, reflect on these questions:
 
-## What leverage do I possess?
-## How am I utilizing my leverage?
+### What leverage do I possess?
+### How am I utilizing my leverage?

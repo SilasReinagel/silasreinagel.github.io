@@ -111,8 +111,6 @@ But you already know that. Your soul already agrees with that. You're not crazy.
 
 ## You are MEANT to be free.
 
-----
-
 ### Put It Into Practice
 
 To really get the full value from this book, you've got to put in the work to shift your mindset and develop new habits. 
