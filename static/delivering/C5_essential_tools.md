@@ -8,14 +8,15 @@ Do you need complex charting/graphing software?
 
 ---
 
-Before we answer those questions, let's take a quick glance at the two key things you need to do as a project manager.
+Before we answer those questions, let's take a quick glance at the three key things you need to do as a project manager.
 
-1. Bring the project from conception to successful completion
-2. Provide predicatiblity for the process
+1. Bring the project to successful completion
+2. Bring the project to completion efficiently
+3. Bring the project to completion predictably
 
-Those are the two keys things you are doing.
+Those are the three keys things you are doing.
 
-That makes is fairly easy to answer our tooling questions.
+That makes it fairly easy to answer our tooling questions.
 
 - No. You don't need any expensive or popular software suites.
 - No. You don't need charting or graphing software.
@@ -47,7 +48,7 @@ You need to know how the project is progressing. What work is done? What work re
 
 - Todo List
 - Sticky notes on a wall
-- A Kanban board
+- Kanban board
 - Github Issues
 - Color-coded spreadsheet rows
 
@@ -80,13 +81,11 @@ As a project manager, you will have the best results if you keep your tools dead
 
 You may be working at a company or with a client who insists that you use their favorite project management software tool. What should you do then?
 
-Don't sweat it. Use their tool. Learn how they use their tool, and use it correctly, but minimally.
+Don't sweat it. Use their tool. Learn how they use their tool and use it correctly but minimally.
 
 Your key job is to deliver a project. A problem isn't better solved because of fancier project tracking. Customer needs aren't better met because of fancier project tracking. Keep your usage of the tool as simple as possible. If it can auto-generate reports or charts for you, that may save you some reporting effort.
 
-Focus on mastering the fundamentals. Learn about delivering projects, about the three input dimensions, and about managing the variable dimension for the project. Don't get caught up in tool wars.
-
-I'm not going to cover tooling in this book, since it's about the least important thing you need to know to be a fantastic project manager.
+Focus on mastering the fundamentals. Learn about delivering projects, about the three input dimensions, and about managing the variable dimensions for the project. Don't get caught up in tool wars.
 
 ---
 
@@ -102,11 +101,11 @@ For non-software project, I typically use:
 - Trello
 - Notepad++
 
-The key difference is that Github is strongly integrated into my software development flow, and so managing issues automatically with my code commits saves me a LOT of time. Zube provides a Kanban board interface for visualizing the Github issues, which provides a much better visual experience.
+The key difference is that Github is strongly integrated into my software development flow, and so managing issues automatically with code commits saves the team a LOT of time. Zube provides a Kanban board interface for visualizing the Github issues, which provides a much better visual experience.
 
-What is a Kanban board? I'm glad you asked. I'll be covering that in Chapter 7.
+What is a Kanban board? I'm glad you asked! I'll be covering that in Chapter 7.
 
-I use Trello, another Kanban board interface for non-software projects, since it's a simpler tool, and I don't need any of the code integration features. Trello was recently acquired by Atlassian, and they are known for adding lots of bloat to their software tools. So, while Trello is still my tool of choice in early 2021, if it suffers from any "improvements", I will quickly switch to a simpler tool, like Google Sheets.
+I use Trello, another Kanban board interface for non-software projects, since it's a simple tool. I don't need any of the code integration features that Github affords. Trello was recently acquired by Atlassian, and they are known for adding lots of bloat to their software tools. While Trello is still my tool of choice in early 2021, if it suffers from any "improvements", I will quickly switch to a simpler tool like Google Sheets.
 
 ---
 

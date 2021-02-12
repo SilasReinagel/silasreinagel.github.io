@@ -48,4 +48,4 @@ If you read and absorb this information, you will be well equipped with what you
 
 Many authors write pages and pages, repeating the same information again and again to get it into your head.
 
-Instead of so much repetition, I end each question with review questions so that you can discover if you have fully absorbed the key points it presents. If you are able to answer all the questions for a chapter, then feel free to move on to the next. If you are having troubles recalling some answers, go back and re-read the chapter until you can effortlessly answer the review questions.
+Instead of so much repetition, I end each chapter with review questions so that you can discover if you have fully absorbed the key points it presents. If you are able to answer all the questions for a chapter, then feel free to move on to the next. If you are having troubles recalling some answers, go back and re-read the chapter until you can effortlessly answer the review questions.

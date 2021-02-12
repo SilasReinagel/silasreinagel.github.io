@@ -11,7 +11,7 @@ The four key tenets of the Agile Manifesto are:
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-There is plenty of controversy over what Agile really is or isn't. There is much disagreement over whether it's made the industry a better or worse place. We don't really care about any of that. You'll form your own opinions on that, if you haven't already.
+There is plenty of controversy over what Agile really is or isn't. There is much disagreement over whether it has made the industry a better or worse place. We don't really care about any of that. You'll form your own opinions on that, if you haven't already.
 
 In this chapter, I'm just going to share my thoughts on the good and bad parts of modern Agile, and how they impact your daily life for managing projects.
 
@@ -25,7 +25,7 @@ As we've talked about, that's not possible if there are any unknowns or variable
 
 One of the big positive results of the Agile revolution is that many, many more people are familiar with the idea that some variability is necessary.
 
-This is what enables our method of locking in two input dimensions and reassessing the third variable regularly. Because of Agile, most stakeholders are very comfortable with changes as long as they are kept informed about them and have some room to still choose alternate tradeoffs.
+This is what enables our method of locking in two input dimensions and reassessing the third variable regularly. Because of Agile, most stakeholders are very comfortable with changes as long as they are kept informed about them and have room to make alternate tradeoffs.
 
 ---
 
@@ -35,7 +35,7 @@ One of the major downsides is the hyper-academization of project management. Bef
 
 After the Agile revolution, we've seen tons of training courses, certification programs, and seminars emerge. Most of them don't offer much true value. Most of them are a fantastic way to drain companies and individuals of their money and give them little in return. They are pretty damn close to a pure scam.
 
-Similarly, no team actually needs a SCRUM Master or Certified Project Management Professional to succeed. There is no research that shows any benefits to teams run with project managers with formal titles compared with a project being run by a layperson who has solid understanding of project fundamentals, such as what I teach in this book.
+Similarly, no team actually needs a SCRUM Master or Certified Project Management Professional to succeed. There is no research that shows any benefits to teams run with project managers who have formal titles compared with a project being run by a layperson who has solid understanding of project fundamentals, such as what I teach in this book.
 
 ---
 
@@ -43,9 +43,9 @@ Similarly, no team actually needs a SCRUM Master or Certified Project Management
 
 Before the Agile revolution, often vast reams of documentation was created before a project began. Then, the team would disappear and work on the project for months and months. Finally, months later the team would emerge with something to show.
 
-This huge feedback time delay meant that often what was delivered wouldn't match what was expected. Sometimes the documented specifications were wrong. Sometimes the project wasn't done correctly. Sometimes there were very big undiscovered problems that couldn't be seen until people were using the final output.
+This huge feedback delay meant that often what was delivered wouldn't match what was expected. Sometimes the documented specifications were wrong. Sometimes the project wasn't done correctly. Sometimes there were very big undiscovered problems that couldn't be seen until people were using the final output.
 
-After the Agile revolution, people expected to be able to try out the project and see it in action long before it is finished. This is a fantastic thing, since by seeing a project in action, it's much easier to tell what is working well, and what changes are needed.
+After the Agile revolution, people expect to be able to try out the project and see it in action long before it is finished. This is a fantastic thing, since by seeing a project in action, it's much easier to tell what is working well and what changes are needed.
 
 Very healthy projects provide demos and showcases as often as possible.
 
@@ -87,7 +87,7 @@ It's better to deliver 10 tiny tasks a day than 1 task. It's bettter to have 5 2
 
 On enterprise projects, I have a standing rule that no ticket should take more than 1 workday to complete, from start to finish.
 
-On other project, I have a rule that says tickets should represent 15-90 minutes of work, and most of them should be towards the lower end of the spectrum.
+On other projects, I have a rule that says tickets should represent 15-90 minutes of work, and most of them should be towards the shorter end of that spectrum.
 
 Just a few of the many benefits of short iterations:
 - Short iterations increase the number of feedback cycles

@@ -42,9 +42,9 @@ Let's consider a simplified example.
 
 Suppose that you are leading a corporate project and you have an outsource graphic designer who is paid by the hour. Suppose the graphic designer isn't excited about the art style and project direction and is really only motivated by the money.
 
-As the project manager, you want the art you need to be delivered promptly and with minimal required revisions. The graphic designer, if they don't have other work lined up, wants to get as many billable hours on the project as possible. So, perhaps the designer does a LOT more sketches than needed. And, maybe the early drafts are intentionally hasty so that more revisions will be needed.
+As the project manager, you want the art you need to be delivered promptly and with minimal required revisions. The graphic designer, if they don't have other work lined up, wants to get as many billable hours on the project as possible. Perhaps the designer does a LOT more sketches than needed. Maybe the early drafts are intentionally hasty so that more revisions will be needed.
 
-Since the graphic designer gets paid for putting in hours of work, and not for getting the project delivered, may act in a way that hurts the project timeline and budget for their own benefit. It might not be the most ethical, and it might not be fully conscious, but this is one of the possible effects when you have competing motivations.
+Since the graphic designer gets paid for putting in hours of work, and not for getting the project delivered, they may act in a way that hurts the project timeline and budget for their own benefit. It might not be the most ethical, and it might not be fully conscious, but this is one of the possible effects when you have competing motivations.
 
 For your project to be effectively managed, you need to eliminate or minimize any agency problems.
 
@@ -97,7 +97,7 @@ What are some practical ways to motivate people on your projects?
 - Autonomy over design decisions
 - Autonomy over choice of future projects
 
-Many of these motivators work best if they are explicit and well-understood. A few of them work better if they are surprises. Like a surprise bonus for a job well done. Or unexpected public praise for doing well.
+Many of these motivators work best if they are explicit and well-understood. A few of them work better if they are surprises. A surprise bonus for a job well done can work wonders. Giving someone unexpected public praise for doing well can give a huge motivation and morale boost.
 
 ---
 

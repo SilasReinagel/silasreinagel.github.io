@@ -16,19 +16,19 @@ The answers to these two questions leave us with a good picture of ways for a pr
 
 What is the best way to measure the health of a project?
 
-- Momentum
+### **Momentum**
 
 When a project has momentum, it is very healthy.
 
 What does project momentum look like?
 
-A project has momentum when the project is evolving and moving towards it's goals as a predictable and consistent pace. People are excited about it! Tasks are being completed. Conversations are being sparked about the implementation details. New demos and screenshots are being released frequently.
+A project has momentum when the project is evolving and moving towards its goals at a predictable and consistent pace. People are excited about it! Tasks are being completed. Conversations are being sparked about the implementation details. New demos and screenshots are being released frequently.
 
 You can tell there is project momentum when there is measurable progress combined with good hype!
 
 If a project is missing either of these two things, that's a very bad sign. Without progress, the project is not moving forward technically. It doesn't matter how excited people are, if the project isn't closer to a reality today than it was yesterday. Without hype, it doesn't matter how fast it gets built, because the stakeholders or customers aren't really mentally feeling it.
 
-Those are really the two components of this momentum that you are looking for:
+Those are the two components of this momentum you are looking for:
 
 1. Hype - Social Momentum
 2. Measurable Progress - Technical Momentum
@@ -47,11 +47,11 @@ You need to have people who are technically capable of delivering the project. I
 
 ### 2. Clear Vision
 
-Your team needs to have a good understanding of what is being made, and why it matters. This is no easy task.
+Your team needs to have a good understanding of what is being made, and why it matters. This is no easy task!
 
 There must be a clear and shared understanding of the problem being solved. What will the product do? What will it enable it's users to do? What need does it fulfill?
 
-Also, there much be a clear and shared understanding of the solution space. What pieces will be in the final project? How will they all work together? Who is doing which part?
+Also, there must be a clear and shared understanding of the solution space. What pieces will be in the final project? How will they all work together? Who is doing which part?
 
 ### 3. Hype People
 
@@ -67,13 +67,13 @@ The human brain is not very well equipped to deal with uncertainty. Because of t
 
 There is nothing more exciting that seeing shots from a couple weeks ago compared to what the project looks like now. That's a momentum builder!
 
-Seeing a thermometer fill a bit every day, or a bunch of sticky notes move across a board, or a number of items get crossed off of a finite checklist feels exciting! Every can FEEL how close the project is getting to completion, even if it still remains a long way off.
+Seeing a thermometer fill a bit every day, or a bunch of sticky notes move across a board, or a number of items get crossed off of a finite checklist feels exciting! Everyone can FEEL how close the project is getting to completion, even if it still remains a long way off.
 
 ---
 
 ## Project Health Diagnostic
 
-Together, with the Iron Triangle, you have a full picture of both aspect of project health.
+Together, with the Iron Triangle, you have a full picture of both aspects of project health.
 
 You can see if the project is unhealthy by determining if any of its constraints have gone off the rails.
 

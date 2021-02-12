@@ -14,13 +14,13 @@ I will teach you how to perfectly pull this trick off every time!
 
 Remember how in the first chapter I said that your job as a project manager is to successfully bring a project to completion?
 
-And, do you recall that the key risks to a project are one going off the rails in one of the key input dimensions of time, scope, and costs?
+And, do you recall that the key risks to a project are going off the rails in one of the key input dimensions of time, scope, and costs?
 
 Furthermore, do you remember that a project's momentum is the key metric of its health?
 
 Those three are the key ideas that give us perfect future vision.The synthesis of these three ideas can be used to arrive at the perfect means of predicting a project's future.
 
-Before we get to the answer, first we must take a brief look at estimation and it's key challenge.
+Before we get to the answer, first we must take a brief look at estimation and its key challenge.
 
 ---
 
@@ -36,37 +36,37 @@ When you order a hamburger at a restaurant, they say, "That will be $8.99. We're
 
 You know how much the burger costs, how long it will take before you get your burger, and what the burger is made with, before you pay anything.
 
-Any project is no different, in concept, than this estimate for a hamburger. The key difference is that your project is usually more complex than a hamburger, more unique than a hamburger, and you have less historical experience at this kind of project than the restaurant has at delivering burgers (unless you are some kind of insane rock star who effortlessly delivers hundreds of projects every day. If so, hats off to you!).
+Anproject is no different in concept than this estimate for a hamburger. The key difference is that your project is usually more complex than a hamburger, more unique than a hamburger, and you have less historical experience at this kind of project than the restaurant has at delivering burgers (unless you are some kind of insane rock star who effortlessly delivers hundreds of projects every day. If so, hats off to you!).
 
 A perfect estimate is one that is right 99+% of the time. There are no truly perfect estimates in our world.
 
 **A perfect estimate requires trickery.**
 
-Everyone wants a perfect estimate. It doesn't actual bother them if you provide an estimate that's a trick, since it still accomplishes the same thing.
+Everyone wants a perfect estimate. It doesn't actually bother them if you provide an estimate that's a trick, since it still accomplishes the same thing.
 
 ---
 
 ## Three Estimating Tricks
 
-1. The first type of trick, as mentioned, is historical statistics.
+**1. The first type of trick is historical statistics.**
 
-If you have observed enough similar projects, you will be able to nail a number with strong probability. If your confience interval is 99+%, then by definition a historical statistic shown.
+If you have observed enough similar projects, you will be able to nail a number with strong probability. If your confidence interval is 95+%, then, by definition, the relevant historical statistic is known.
 
-This is its own deep rabbit hole. I wanted to mention it, but we're not to explore this one more deeply since if it's applicable to you, you already know what I would write here.
+Statistical knowledge is its own deep rabbit hole. I wanted to mention it, but we're not going to explore this one more deeply since if it's applicable to you, you already know what I would write here.
 
-2. The second type of trick is to provide an estimate after the work is finished.
+**2. The second type of trick is to provide an estimate after the work is finished.**
 
 It's very easy to estimate how long something will take and what it will cost when the final costs and work duration have already been measured.
 
-This is hard to do in practice, since it means that you have to have already finished some of the work. The more unique the project is, the more change this is work that will be unpaid or wasted.
+This is hard to do in practice, since it means that you have to have already finished some of the work. The more unique the project is, the higher chance this is work that will be unpaid or wasted.
 
 But, it's also possible that you may be able to carry over pieces of work from another similar project. Since that work is effectively done, you can factor it into the current project, and you know that it can't take any longer, even if some changes or porting is needed.
 
-3. The third type of trick is a moving range or worst-case estimate.
+**3. The third type of trick is a moving range or worst-case estimate.**
 
 If you provide an estimate in the form a range (9-12 weeks), it sounds to most people like a solid fixed answer, even though, obviously it is not. The tighter the range, the more it sounds like a perfect estimate.
 
-If you provide an estimate of the worst case scenario, then you can't be wrong. Suppose you know that a task will typically take 2 weeks, and that if things go wrong, maybe it will take 4. Suppose you know that no matter how badly things go, it will be finished in 8 weeks. Then, by providing a bounded estimate, you provide certainty. Say, "This project will be finished in 8 weeks."
+If you provide an estimate for the worst case scenario, then you can't be wrong. Suppose you know that a task will typically take 2 weeks, and that if things go wrong, maybe it will take 4. Suppose you know that no matter how badly things go, it will be finished in 8 weeks. Then, by providing a bounded estimate, you provide certainty. Say, "This project will be finished in 8 weeks."
 
 ---
 
@@ -78,7 +78,7 @@ The answer is simple:
 
 **Control two of the three constraints, and constantly update the estimate of the third constraint using the project's momentum as the predictor.**
 
-That's the magic trick that will make you a Master Project Manager.
+That's the magic trick that will make you a Master Project Manager!
 
 - Do you want the cost estimate to be correct? Don't spend a penny more than the estimated amount.
 
@@ -96,7 +96,7 @@ By using great reporting skills, it will never seem like there is any project un
 
 ## Masterful Project Reporting
 
-At the very start of the project, you express the project constraints (2 fixed and 1 estimate) and put them in writing:
+At the very start of the project, you express the project constraints (2 fixed and 1 estimated) and put them in writing:
 
 - The project will cost $240K, take 4 weeks, and deliver at least 5 out of these 10 desired features.
 
@@ -108,7 +108,7 @@ At regular intervals, you provide a progress summary along with a new estimate.
 
 - Week 3 Update. 5 features are now live, and we're halfway done with a sixth feature. We have spent $180K. Everything is on track for project completion in the 4 week timeline.
 
-Then, once the project reaches the end of it's timebox, you present the final summary.
+Then, once the project reaches the end of its timebox, you present the final summary.
 
 - Project Summary. Our initial estimate was that this project would cost $240K, take 4 weeks, and deliver at least 5 out of these 10 desired features. We have successfully delivered 7 out of the 10 desired features in 4 weeks for a total of $240K.
 

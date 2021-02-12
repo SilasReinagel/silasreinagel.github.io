@@ -87,9 +87,9 @@ What are the big takeaways from Kanban?
 
 ---
 
-### Chapter 8 - SCRUM: The Good & Bad
+### Chapter 8 - Scrum: The Good & Bad
 
-What are the big takeaways from SCRUM?
+What are the big takeaways from Scrum?
 1. Incorporate planning, demos and periods of reflection as you go
 2. Consider harnessing the incredible power of Sprints to get ahead
 3. Make sure the whole team is included and has a shared vision
@@ -101,11 +101,11 @@ What are the big takeaways from SCRUM?
 ### Chapter 9 - Assembling Your Team
 
 When you are assembling a team, you want to have a team that:
-1. Covers the Core Competencies
-2. Has Clearly Assigned Roles
-3. Communicates Crisply
-4. Distribution of Knowledge
-5. Is Highly Motivated
+1. Covers the core competencies
+2. Has clearly assigned roles
+3. Communicates crisply
+4. Has distribution of knowledge
+5. Is highly motivated
 
 ---
 
@@ -143,7 +143,7 @@ Who should you be communicating to?
 
 That's really everything that you need to know to become a master project manager.
 
-Apply your energies to completing projects successfully, efficiently, and predicably.
+Apply your energies to completing projects successfully, efficiently, and predictably.
 
 Accomplish this by building project momentum and mitigating project risks. Ensure that you have a good vision and a strong team before the project begins.
 
@@ -154,3 +154,5 @@ Learn the good techniques from the project management literature and teachers, b
 Provide regular and effective communications to the team, the stakeholders and your user commmunity. Celebrate your wins!
 
 If you practice and master those few elements, you will be a master project manager.
+
+Go forth, build up your experience with a few projects and then enjoy the infinite returns of successfully projects!

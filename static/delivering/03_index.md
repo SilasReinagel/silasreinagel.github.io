@@ -13,7 +13,7 @@
 ### Section 2 - Industry Practices - The Good & Bad
 * **6. Agile**
 * **7. Kanban**
-* **8. SCRUM**
+* **8. Scrum**
 
 ### Section 3 - Putting It Into Practice
 * **9. Assembling Your Team**

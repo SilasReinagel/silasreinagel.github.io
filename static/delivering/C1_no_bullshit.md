@@ -30,13 +30,13 @@ The key factors that impact a project's success are:
 
 If you've got those four factors covered for a project, it's a near certainty that the project will succeed.
 
-If any one of those are factors are missing, the success project may be at risk.
+If any one of those are factors are missing, the project's success may be at risk.
 
 If more than one factor is missing, it's highly unlikely the project will succeed.
 
 Never choose to manage a project that you know is unlikely to succeed. It's a poor use of your time, and may hurt your career. Either change the frame so that you can solve for the problemmatic factors, or go find a different project completely.
 
-Sometimes, the smartest decision is not to undertake a project that is setup to fail.
+Sometimes, the smartest decision is not to undertake a project that is set up to fail.
 
 On the other hand, a good manager is often able to change the circumstances of the project and help ensure that all the factors ARE covered before a project really gets underway.
 
@@ -44,7 +44,7 @@ On the other hand, a good manager is often able to change the circumstances of t
 
 ## 1. Great Project Manangement
 
-By the time you finish this book, and apply these lessons on a few successful projects, this will be you. You will be equipped with everything you need to manage a project of any size. The same core skills are required no matter what kind of project you are managing and no matter how big the scope.
+By the time you finish this book and apply these lessons on a few successful projects, this will be you. You will be equipped with everything you need to manage a project of any size. The same core skills are required no matter what kind of project you are managing and no matter how big the scope.
 
 Therefore, if you are managing the project, either explicitly or practically, this factor is covered.
 
@@ -52,7 +52,7 @@ What if you are on a project, and there is another designated project manager? T
 
 It doesn't matter what the titles are. It only matters if the project is managed well. Anyone with these skills can cause a project to be successfully delivered.
 
-If you have mastered the contents of this book, and you are on the team, this factor is covered.
+If you have mastered the contents of this book and you are on the team, this factor is covered.
 
 ---
 
@@ -62,7 +62,7 @@ Whether the team consists of 1 member or 20, you need a strong project team. Wit
 
 The stronger the team is, the more coordinated they are, and the more motivated they are, the better the project outcome will be.
 
-Having the right team for a project is so important, that I have dedicated two entire chapters to Assembling and Motivating your team.
+Having the right team for a project is so important that I have dedicated two entire chapters to assembling and motivating your team.
 
 ---
 
@@ -107,7 +107,7 @@ When you are managing a project, you are either a powerful leader, moving heaven
 
 This is true whether you are managing your own projects, or managing a project for a client or employer. If you aren't leading proactively with great initiative, then when the project doesn't come to fruition, you will have many feeble complaints about the project when it's over.
 
-I know, because I have experience both of these outcomes many times in my project management journey. I find that I am the most disappointed when one of my projects wasn't completed as successfully as I wanted.
+I know, because I have experienced both of these outcomes many times in my project management journey. I find that I am the most disappointed when one of my projects wasn't completed as successfully as I wanted.
 
 At every moment in a project, you are expected to be able to have a ready answer for the following questions:
 
@@ -128,7 +128,7 @@ We're going to be covering:
 - How to measure and build project momentum
 - How to provide perfect project predictability
 - What tools are need to manage projects
-- Good & Bad things about popular project management frameworks
+- Good and bad things about popular project management frameworks
 - How to assemble a strong project team
 - How to motivate your team
 - How to communicate project results and progress
