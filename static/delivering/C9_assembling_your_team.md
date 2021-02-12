@@ -48,7 +48,7 @@ For a team to work well, everyone needs to know exactly what they are doing.
 
 Roles are usually organized around competencies, but not always.
 
-From my experience, every key competency needs to have one dedicated lead role. So, you can have 4 environment artists and 1 lead enviroment artist. You can have 3 frontend engineers, as long as you have 1 lead frontend engineer to make the tough architectural decisions.
+From my experience, every key competency needs to have one dedicated lead role. So, you can have 4 environment artists and 1 lead environment artist. You can have 3 frontend engineers, as long as you have 1 lead frontend engineer to make the tough architectural decisions.
 
 If you are missing any lead roles, you will find that either wasteful conflict or directionlessness will occur.
 
@@ -58,7 +58,7 @@ People can also be assigned multiple roles. Sometimes different roles have a dif
 
 One thing to be careful with when assigning multiple roles is that you need to realize there are costs to assigning multiple roles. In addition to the obviously larger workload, there is also the cost of the context switching, of additional communication, and a potential cost to quality due to a split focus. A person with one role can polish something until it's really great. With multiple roles, usually only one area of focus will end up superb.
 
-If you do assign multiple roles to a single contributer, make sure you assign priorities to each role. If you have a UX Engineer who is also doing Sound Design and Music Composition, you need to set clear expectations for which role is most and least important of the three.
+If you do assign multiple roles to a single contributor, make sure you assign priorities to each role. If you have a UX Engineer who is also doing Sound Design and Music Composition, you need to set clear expectations for which role is most and least important of the three.
 
 ---
 
@@ -74,7 +74,7 @@ As a project manager, you want to ensure that the team is equipped to communicat
 
 - With directness and efficiency
 - When conversations would be beneficial
-- When there is a knowledge or requirepments gap
+- When there is a knowledge or requirements gap
 
 But, you also want to be sure that there aren't problems such as:
 
@@ -96,9 +96,9 @@ This is similar to core competencies, but there one other angle you want to cons
 
 Ideally, you should have knowledge spread around the team.
 
-You may have 1 superstar who knows about a LOT of areas of the project. However, if you have 1 superstar, and 9 members who aren't as knowledgable about many project dimensions, you will find that the superstar is spending all his time guiding and assisting the other team members. This is good for the team's growth, but very risky for the project. The superstar isn't able to focus on delivering on his core role. They, explicitly or not, will take on the role of Team Mentor or Domain Expert.
+You may have 1 superstar who knows about a LOT of areas of the project. However, if you have 1 superstar, and 9 members who aren't as knowledgeable about many project dimensions, you will find that the superstar is spending all his time guiding and assisting the other team members. This is good for the team's growth, but very risky for the project. The superstar isn't able to focus on delivering on his core role. They, explicitly or not, will take on the role of Team Mentor or Domain Expert.
 
-You might run into another version of this problem if you have 6 team members who are fantasic programmers, and each one has a little knowledge in another domain area. Perhaps, of your 6 coders, 1 has dabbled with graphic design. Perhaps, 1 has some experience with deployment. The downside of this spread, is that if your one coder with graphic design experience needs some graphic design feedback, nobody else on the team can offer good advice or guidance.
+You might run into another version of this problem if you have 6 team members who are fantastic programmers, and each one has a little knowledge in another domain area. Perhaps, of your 6 coders, 1 has dabbled with graphic design. Perhaps, 1 has some experience with deployment. The downside of this spread, is that if your one coder with graphic design experience needs some graphic design feedback, nobody else on the team can offer good advice or guidance.
 
 What you want is for at least 2 members to have some knowledge of every area of the project. If you have more knowledge spread, that's even better since it will be easier for people to collaborate with whoever is available.
 

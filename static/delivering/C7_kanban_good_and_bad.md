@@ -32,7 +32,7 @@ At a glance, I can see what progress has been made, what is currently being work
 
 This is a powerful visual metaphor! When done correctly, it enables anyone to see the state of a project at that moment in time and instantly grok it.
 
-People are visual creatures, and I have never found any simpler or clearer way to present a project snapshop that yields as much information with as few elements. This is one of the fantastic things about Kanban.
+People are visual creatures, and I have never found any simpler or clearer way to present a project snapshot that yields as much information with as few elements. This is one of the fantastic things about Kanban.
 
 If you are managing a project, even if you aren't using Kanban, you must ensure that there is some view you have that enables you to see the entire state of the project in a single glance. If one doesn't already exist, you should create one. The effort-to-value ratio is insane!
 
@@ -56,7 +56,7 @@ This way of working is fantastic for people and teams who value their time! This
 
 One of the potential dangers of the Kanban framework is that, given how fast it is to set up and how good it feels to deliver tasks, it's very easy to skip completely over a project planning phase.
 
-The reason for this is that Kanban was developed in a manufacturing environment, where the workflow steps were already pre-defined and mostly non-negotiable. In contrast, in most projects that you lead, there are many unknowns.
+The reason for this is that Kanban was developed in a manufacturing environment, where the workflow steps were already predefined and mostly non-negotiable. In contrast, in most projects that you lead, there are many unknowns.
 
 All well-managed projects do some planning and discovery up front. How much planning is the right amount varies with the type of project, the skill and comfort of the team, and the desired budget and timeframe. However, you should always have a planning phase before kicking a project into full gear.
 
@@ -66,7 +66,7 @@ Never skip planning!
 
 ---
 
-## Good Result - Very High Flexbility
+## Good Result - Very High Flexibility
 
 Another great feature of Kanban is just how incredibly flexible it is. It's not nearly as prescriptive as other Agile frameworks. It involves far less overhead and planning.
 

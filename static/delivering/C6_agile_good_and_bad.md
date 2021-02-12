@@ -83,7 +83,7 @@ How can you deliver progress regularly?
 - Frequent software deployments
 - Etc.
 
-It's better to deliver 10 tiny tasks a day than 1 task. It's bettter to have 5 2-week iteractions than a 10-week whole project.
+It's better to deliver 10 tiny tasks a day than 1 task. It's better to have 5 2-week iterations than a 10-week whole project.
 
 On enterprise projects, I have a standing rule that no ticket should take more than 1 workday to complete, from start to finish.
 

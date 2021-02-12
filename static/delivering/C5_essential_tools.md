@@ -36,7 +36,7 @@ You need to know how the team is doing. It can be a tool you already use.
 - Text messaging
 - Discord
 - Telegram
-- Any other communcation app
+- Any other communication app
 
 You don't need anything special. You definitely don't need anything that is marketed as a project management specific tool. Most of those are worse than using something basic.
 
@@ -128,6 +128,6 @@ Have you found a tool that works better than the simple ones I have described he
 ---
 
 ### Chapter Review Questions
-1. What two primary activites should PM tools help you accomplish?
+1. What two primary activities should PM tools help you accomplish?
 2. What three types of tools are essential for managing a project?
 3. How do you know if a PM tool is a good choice for you?

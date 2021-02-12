@@ -45,7 +45,7 @@ A health project has great momentum and no big factors at risk.
 
 ---
 
-### Chapter 4 - Project Predictabiity
+### Chapter 4 - Project Predictability
 
 How can you provide perfect project predictability?
 
@@ -151,7 +151,7 @@ Keep your tools and processes simple. Solve the management problems primarily th
 
 Learn the good techniques from the project management literature and teachers, but be very careful to avoid getting too academic. Always focus on the delivering the project as the key goal.
 
-Provide regular and effective communications to the team, the stakeholders and your user commmunity. Celebrate your wins!
+Provide regular and effective communications to the team, the stakeholders and your user community. Celebrate your wins!
 
 If you practice and master those few elements, you will be a master project manager.
 

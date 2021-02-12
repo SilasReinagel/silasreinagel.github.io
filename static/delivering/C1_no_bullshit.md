@@ -34,7 +34,7 @@ If any one of those are factors are missing, the project's success may be at ris
 
 If more than one factor is missing, it's highly unlikely the project will succeed.
 
-Never choose to manage a project that you know is unlikely to succeed. It's a poor use of your time, and may hurt your career. Either change the frame so that you can solve for the problemmatic factors, or go find a different project completely.
+Never choose to manage a project that you know is unlikely to succeed. It's a poor use of your time, and may hurt your career. Either change the frame so that you can solve for the problematic factors, or go find a different project completely.
 
 Sometimes, the smartest decision is not to undertake a project that is set up to fail.
 
@@ -42,7 +42,7 @@ On the other hand, a good manager is often able to change the circumstances of t
 
 ---
 
-## 1. Great Project Manangement
+## 1. Great Project Management
 
 By the time you finish this book and apply these lessons on a few successful projects, this will be you. You will be equipped with everything you need to manage a project of any size. The same core skills are required no matter what kind of project you are managing and no matter how big the scope.
 

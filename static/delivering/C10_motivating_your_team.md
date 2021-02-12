@@ -16,17 +16,17 @@ Let's talk briefly about the range of motivations, and then we'll see what's nee
 
 Psychologically, there are extrinsic motivations and intrinsic motivations.
 
-Intrinsic motivation is when the thing in itself is motivatng for a person. These are the things that a person naturally wants to do. For example, offering a kid candy. The kid wants the candy, because eating candy is pleasurable. The creator wants to create because he enjoys creating. The exploring mind wants to find things that are mentally novel, because they scratch that inner craving. These are all examples of intrinsic motivation.
+Intrinsic motivation is when the thing in itself is motivating for a person. These are the things that a person naturally wants to do. For example, offering a kid candy. The kid wants the candy, because eating candy is pleasurable. The creator wants to create because he enjoys creating. The exploring mind wants to find things that are mentally novel, because they scratch that inner craving. These are all examples of intrinsic motivation.
 
 Extrinsic motivation is when there is some artificially connected reward for doing a thing. If the kid eats his broccoli, then they can have dessert. If the worker shows up from 9-5 during each work day and delivers something, they get paid a regular paycheck. These are extrinsic motivations.
 
 There is a lot of research that shows that intrinsic motivations are far more powerful and reliable than extrinsic motivations. In fact, even the presence of extrinsic motivations can turn an activity from a joy into something that is undesirable.
 
-Furthermore, there are are positive motivators and negative motivators.
+Furthermore, there are positive motivators and negative motivators.
 
 A positive motivator is when a person does something to get some good outcome. For example, if the project is finished ahead of schedule, the team gets a bonus.
 
-A negative motivator is when a person does something to avoid a bad outcome. For example, if these tasks aren't finished by the end of the week, then the member will be publically shamed in the team meeting.
+A negative motivator is when a person does something to avoid a bad outcome. For example, if these tasks aren't finished by the end of the week, then the member will be publicly shamed in the team meeting.
 
 ---
 
@@ -54,7 +54,7 @@ For your project to be effectively managed, you need to eliminate or minimize an
 
 Those are the factors that you need to consider when you are looking at the team's motivations. To have a high-functioning team who is able to effectively deliver a project, the team needs to have aligned motivations.
 
-This is tricky, since almost no-one is transparent with their motivations. Your job as a project manager is to know know or learn what the key motivators are for each member, and ensure that they are maximally motivated to make the project a success.
+This is tricky, since almost no-one is transparent with their motivations. Your job as a project manager is to know or learn what the key motivators are for each member, and ensure that they are maximally motivated to make the project a success.
 
 - Some people are in it for money.
 - Some people want public acclaim.
