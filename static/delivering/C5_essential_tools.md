@@ -1,4 +1,4 @@
-## Chapter 5 - Essential Tools
+# Chapter 5 - Essential Tools
 
 What tools do you need to effectively manage projects?
 
