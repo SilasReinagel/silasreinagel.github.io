@@ -84,7 +84,7 @@ Even if you like Scrum, don't push your people to work fast all the time. You ca
 
 One of the big perks of Scrum is the focus on the whole team, which is very good and very closely aligned with the core tenets of Agile, as we discussed a few chapters ago.
 
-If you are working on a solo project, or with just a single client, or just with a buddy, then this isn't an important feature. But, if you are managing a project with more contributers, this is a good focus.
+If you are working on a solo project, or with just a single client, or just with a buddy, then this isn't an important feature. But, if you are managing a project with more contributors, this is a good focus.
 
 You want the entire to team to have a clear vision of what work needs to be done. You want everyone to see the things created by the other members of the team, so that the ideas can cross-pollinate and positively shape the project. You want everyone to be in the project together, with shared incentives.
 
@@ -96,13 +96,13 @@ What you want to avoid in a project are having people work on stuff in isolation
 
 ## Bad Result: Scrum Masters
 
-While it's good to have knowledgable members of the team who can help with managing the project, it's potentially dangerous to have someone whose key role is to ensure the team follows Scrum by the book.
+While it's good to have knowledgeable members of the team who can help with managing the project, it's potentially dangerous to have someone whose key role is to ensure the team follows Scrum by the book.
 
 Everyone on the team should understand how the project is being managed. Everyone on the team should have skin the game.
 
 It's dangerous to have someone who isn't involved in delivering the project on the project team, since, in practice, they are often more interested in making pretty reports than in helping the project succeed.
 
-Just as no middle-managers are really needed for a project to thrive, there is a fine line around dedicated project management roles and mentalities. Anyone who is a project manager whose #1 goal and responsbility isn't delivering the project is either deadweight or a threat to the project.
+Just as no middle-managers are really needed for a project to thrive, there is a fine line around dedicated project management roles and mentalities. Anyone who is a project manager whose #1 goal and responsibility isn't delivering the project is either deadweight or a threat to the project.
 
 It's a tough tension to resolve.
 

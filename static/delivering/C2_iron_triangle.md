@@ -8,7 +8,7 @@ The worst thing that can happen is for a project to get canned before it's finis
 
 This can easily happen if things take too long, if the core of the project isn't right, or if the costs have gotten out of control.
 
-How can you, as a project manager, help forsee and avoid these massive risks?
+How can you, as a project manager, help foresee and avoid these massive risks?
 
 **The best way to avoid project failure is by correctly conceptualizing your constraints using the Iron Triangle.**
 

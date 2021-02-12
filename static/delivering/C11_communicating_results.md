@@ -38,7 +38,7 @@ Also, keep your community informed. Share progress updates on social media, or i
 
 The next key moment to broadcast is when the project reaches any key milestones. Conceptually, you should issue a press release every time you hit one of these. If it's an internal project, just make sure you put a bit more work and broadcast it more widely than your regular updates.
 
-For a public project, this should probably be an actual press release. Send it out to some publiciations in your business domain, and try to get as much coverage on social media as possible. Build energy and excitement from your community.
+For a public project, this should probably be an actual press release. Send it out to some publications in your business domain, and try to get as much coverage on social media as possible. Build energy and excitement from your community.
 
 You should showcase the project roadmap, what was previously completed, and rich details on the newest completed milestones, preferably with a demo or a video showing the impact. You should also include basic information about the upcoming milestones to give people something to look forward to next.
 
@@ -82,7 +82,7 @@ If you do these three things well, you will be ahead of 80% of the professional 
 
 1. Successfully deliver your project
 2. Deliver your project efficiently and predictably
-3. Comprehensively communciate your project results
+3. Comprehensively communicate your project results
 
 ---
 

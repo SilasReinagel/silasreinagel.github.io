@@ -36,7 +36,7 @@ When you order a hamburger at a restaurant, they say, "That will be $8.99. We're
 
 You know how much the burger costs, how long it will take before you get your burger, and what the burger is made with, before you pay anything.
 
-Anproject is no different in concept than this estimate for a hamburger. The key difference is that your project is usually more complex than a hamburger, more unique than a hamburger, and you have less historical experience at this kind of project than the restaurant has at delivering burgers (unless you are some kind of insane rock star who effortlessly delivers hundreds of projects every day. If so, hats off to you!).
+A project is no different in concept than this estimate for a hamburger. The key difference is that your project is usually more complex than a hamburger, more unique than a hamburger, and you have less historical experience at this kind of project than the restaurant has at delivering burgers (unless you are some kind of insane rock star who effortlessly delivers hundreds of projects every day. If so, hats off to you!).
 
 A perfect estimate is one that is right 99+% of the time. There are no truly perfect estimates in our world.
 
