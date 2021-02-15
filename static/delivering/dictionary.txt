@@ -26,7 +26,6 @@ Standups
 LinkedIn
 lifecycle
 roadmap
-timezones
 rollout
 gameplay
 UX

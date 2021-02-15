@@ -27,7 +27,7 @@ The three dimensions of project inputs:
 3. Time
 
 The law of constraints:
-- You cannot constrain more than two input dimensions. One will always vary
+- You cannot constrain more than two input dimensions. One will always vary.
 
 ---
 
@@ -41,7 +41,7 @@ The twofold view of a project:
 - Risks are revealed if any input constraints are out of control
 - Health is revealed by the project momentum
 
-A health project has great momentum and no big factors at risk.
+A healthy project has great momentum and no big factors at risk.
 
 ---
 
@@ -149,10 +149,10 @@ Accomplish this by building project momentum and mitigating project risks. Ensur
 
 Keep your tools and processes simple. Solve the management problems primarily through healthy processes and teamwork, and not with rigid, expensive or complex processes and tools.
 
-Learn the good techniques from the project management literature and teachers, but be very careful to avoid getting too academic. Always focus on the delivering the project as the key goal.
+Learn the good techniques from the project management literature and teachers, but be careful to avoid getting too academic. Always focus on delivering the project as the key goal.
 
 Provide regular and effective communications to the team, the stakeholders and your user community. Celebrate your wins!
 
 If you practice and master those few elements, you will be a master project manager.
 
-Go forth, build up your experience with a few projects and then enjoy the infinite returns of successfully projects!
+Go forth, build up your experience with a few projects and then enjoy the infinite returns of successful projects!
