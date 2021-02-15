@@ -1,18 +1,18 @@
 # Chapter 5 - Essential Tools
 
-What tools do you need to effectively manage projects?
+**What tools do you need to effectively manage projects?**
 
-Do you need an expensive popular software suite?
+**Do you need an expensive popular software suite?**
 
-Do you need complex charting/graphing software?
+**Do you need complex charting/graphing software?**
 
 ---
 
-Before we answer those questions, let's take a quick glance at the three key things you need to do as a project manager.
+Before we answer those questions, let's take a quick glance back at the three key things you need to do as a project manager.
 
-1. Bring the project to successful completion
-2. Bring the project to completion efficiently
-3. Bring the project to completion predictably
+1. Bring the project to successful **completion**
+2. Bring the project to completion **efficiently**
+3. Bring the project to completion **predictably**
 
 Those are the three keys things you are doing.
 
@@ -32,15 +32,19 @@ What do you really need for tooling?
 You need to know how the team is doing. It can be a tool you already use.
 
 - Email
-- Slack
 - Text messaging
+- Slack
 - Discord
 - Telegram
 - Any other communication app
 
+Slack, Discord and Telegram are popular software communication applications. Slack is oriented more towards businesses. Discord is the communication tool of choice for many game developers and game development communities. Telegram is popular in privacy-oriented communities and in the open-source software world. If you don't use any of these already, don't worry about it.
+
 You don't need anything special. You definitely don't need anything that is marketed as a project management specific tool. Most of those are worse than using something basic.
 
 I know because I've used a ton of them. None of them offer any unique communication abilities.
+
+Just use one single communication tool for your project, and prefer one that is already used on a daily basis by the people you work with, or the people in your community.
 
 ## 2. An issue tracker
 
@@ -71,17 +75,17 @@ Non-Visual Reporting Tools:
 Visual Reporting Tools:
 - Google Spreadsheets
 
-You really don't need anything special. What matters is the project, and it getting delivered. You don't get extra point for cool graphs. Graphs don't make money unless you are in marketing, sales or graphic design.
+You really don't need anything special. What matters is the project, and it getting delivered. You don't get extra points for cool graphs. Graphs don't make money unless you are in marketing, sales or graphic design.
 
 As a project manager, you will have the best results if you keep your tools dead simple and put all your energy into getting the project delivered.
 
 ---
 
-## At Our Company We Have To Use X
+## At Our Company, We Have To Use X
 
 You may be working at a company or with a client who insists that you use their favorite project management software tool. What should you do then?
 
-Don't sweat it. Use their tool. Learn how they use their tool and use it correctly but minimally.
+Don't sweat it. Use their tool. Learn how they use their tool and use it correctly, but minimally.
 
 Your key job is to deliver a project. A problem isn't better solved because of fancier project tracking. Customer needs aren't better met because of fancier project tracking. Keep your usage of the tool as simple as possible. If it can auto-generate reports or charts for you, that may save you some reporting effort.
 
@@ -121,9 +125,9 @@ All you need are:
 2. An issue tracker
 3. A reporting tool
 
-Even if you are using a fancier or more complex project management software suite, those are the core functions it should provide. If it helps you communicate, track, and report better, then go for it.
+Even if you are using a fancier or more complex project management software suite, these are the core functions it should provide. If it helps you communicate, track, and report better, then go for it.
 
-Have you found a tool that works better than the simple ones I have described here? Tell me about your experience, either by email (silas@silasreinagel.com) or on Twitter (@SilasReinagel). I'm always open to evaluating new tools.
+Have you found a tool that works better than the simple ones I have described here? Tell me about your experience, either by email **(silas@silasreinagel.com)** or on Twitter **(@SilasReinagel)**. I'm always open to evaluating new tools.
 
 ---
 

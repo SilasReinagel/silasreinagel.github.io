@@ -1,8 +1,8 @@
 # Chapter 7 - Kanban: The Good and Bad
 
-Kanban is a system that predates Agile, but has since been adopted as one of the biggest methodological frameworks for implementing Agile at a company. There is a bit of overlap between the two, and also some differences.
+Kanban is a system that predates Agile, but has since been adopted as one of the biggest methodological frameworks for implementing Agile at a company. There is a bit of overlap between the two, but also some differences.
 
-I don't want to get into the academic details. Instead, I just want to introduce to the concepts that will be the most useful to you on a practical daily basis.
+I don't want to get into the academic details. Instead, I just want to introduce you to the concepts that will be the most useful to you on a practical daily basis.
 
 What are the key concepts of the Kanban methodology?
 
@@ -12,9 +12,9 @@ What are the key concepts of the Kanban methodology?
 4. Very high flexibility
 5. Minimal planning and preparation overhead
 
-This is my very favorite of all the Agile frameworks, since it empowers us to manage projects without a ton of ceremony, and allows us to quickly adapt to new ideas and changing scenarios without expensive rippling effects.
+This is my very favorite of all the Agile frameworks because it empowers us to manage projects without a ton of ceremony, and allows us to quickly adapt to new ideas and changing scenarios without expensive rippling effects.
 
-Whenever I manage a project, using a pure Kanban flow is my go-to. It's the fastest to set up. It's easy to teach people, and puts the focus on delivering the project, which is what project management is all about.
+Whenever I manage a project, using a pure Kanban flow is my go-to. It's the fastest to set up. It's easy to teach people, and it puts the focus on delivering the project, which is what project management is all about.
 
 The Kanban methodology is about managing the process workflow through visualizing tasks and ensuring that tasks are fully completed from start to finish, with the whole team focusing on observing and improving that task flow.
 
@@ -44,11 +44,11 @@ The project is healthy if tasks are regularly flowing from left to right. The ex
 
 In a healthy project, every time you look at the board, something should be different than the last time you looked at it.
 
-In the Kanban system, there is concept of a WIP limit. The rule is that only a certain number of tasks may be in any workflow step at time. If a task gets stuck and hasn't moved for some time, the team must come together and work together to get the task unstuck, as well as addressing any systemic issues that causes the work to stop.
+In the Kanban system, there is the concept of a WIP limit. The rule is that only a certain number of tasks may be in any workflow step at time. If a task gets stuck and hasn't moved for some time, the team must come together and work together to get the task unstuck, as well as address any systemic issues that caused the work to stop.
 
-While delivering a project, the team gets a good feeling every time a task makes it to the Done column. The team will feel troubled and step in to solve things if task aren't flowing through to completion.
+While delivering a project, the team gets a good feeling every time a task makes it to the Done column. The team will feel troubled and step in to solve things if tasks aren't flowing through to completion.
 
-This way of working is fantastic for people and teams who value their time! This is a huge perk. Optimizing for efficiency saves a ton of money, and helps projects to be very economical about how much time is spent on a project.
+This way of working is fantastic for people and teams who value their time! This is a huge perk. Optimizing for efficiency saves a ton of money, and helps projects to be economical about how much time is spent on a project.
 
 ---
 
@@ -58,9 +58,9 @@ One of the potential dangers of the Kanban framework is that, given how fast it 
 
 The reason for this is that Kanban was developed in a manufacturing environment, where the workflow steps were already predefined and mostly non-negotiable. In contrast, in most projects that you lead, there are many unknowns.
 
-All well-managed projects do some planning and discovery up front. How much planning is the right amount varies with the type of project, the skill and comfort of the team, and the desired budget and timeframe. However, you should always have a planning phase before kicking a project into full gear.
+All well-managed projects do some planning and discovery up front. How much planning is the right amount varies with the type of project, the team's skill, the comfort level of the team, the desired budget, and the desired timeframe. However, you should always have a planning phase before kicking a project into full gear.
 
-Failing to plan is the same as planning to fail.
+**Failing to plan is the same as planning to fail.**
 
 Never skip planning!
 
@@ -70,11 +70,11 @@ Never skip planning!
 
 Another great feature of Kanban is just how incredibly flexible it is. It's not nearly as prescriptive as other Agile frameworks. It involves far less overhead and planning.
 
-Suppose you want to have fixed costs and scope, and time is the flexible element? Perfect. Each week, just report on how many tasks are in Done compared with in Up Next.
+**Suppose you want to have fixed costs and scope, while time is the flexible element?** Perfect. Each week, just report on how many tasks are in Done compared with in Up Next.
 
-What if you have a fixed scope and timeline? You can bring in new team members, or allocate more focus on this project to the senior team members. It's easy to see precisely how much work is left before the project is finished, so you can see if you need to allocate more money/team members or if you can ease off.
+**What if you have a fixed scope and timeline?** You can bring in new team members, or allocate more focus on this project to the senior team members. It's easy to see precisely how much work is left before the project is finished, so you can see if you need to allocate more money/team members or if you can ease off.
 
-What if the timeline and costs are fixed? You can reorder the tasks based on their importance, remove the least important tasks, or add more task if you are ahead of schedule. Every day you can come in and tweak the Up Next column without impacting any other part of the project process.
+**What if the timeline and costs are fixed?** You can reorder the tasks based on their importance, remove the least important tasks, or add more tasks if you are ahead of schedule. Every day you can come in and tweak the Up Next column without impacting any other part of the project process.
 
 Does your project have a different set of process steps? That's great. Make whatever columns you need on your board. You don't have to hire a contractor to build you custom software plugins.
 
@@ -86,17 +86,17 @@ Being rigid and hard to change is one of the best ways to jeopardize a project's
 
 ## Kanban Takeaways
 
-Honestly, I love Kanban so much, I could probably write a whole book about how all the hidden benefits that I have discovered from using Kanban in my project management toolkit.
+Honestly, I love Kanban so much, I could probably write a whole book about all the hidden benefits that I have discovered from using Kanban in my project management toolkit.
 
-Whether you use Kanban or not, these are good things that you want to be part of your project management approach:
+Whether you use Kanban or not, these are the things that you want to be part of your project management approach:
 
 1. Visualize the entire project at a glance
 2. Make it easy and addicting to deliver tasks rapidly
 3. Enable high flexibility to handle changes and mid-project discoveries
 
-If you have a process that has those three features, you're going to be in a very good place, regardless of whether you use Kanban.
+If you have a process that has these three features, you're going to be in a very good place, regardless of whether you use Kanban.
 
-That said, what's my recommendation? Use Kanban unless you run into problems that it can't solve. Kanban has been around for 80 years and has stood the test of time. It's been around even longer than Agile. It incorporates a LOT of the human wisdom around workflow management. By using it, you will learn more and more about which problems it has effectively solved.
+That said, what's my recommendation? Use Kanban unless you run into problems that it can't solve. Kanban has been around for 80 years and has stood the test of time. It's been around even longer than Agile. It incorporates **A LOT** of the human wisdom around workflow management. By using it, you will learn more and more about which problems it has effectively solved.
 
 ---
 

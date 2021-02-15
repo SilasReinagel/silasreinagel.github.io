@@ -16,4 +16,4 @@ As a result, to meet our timeline, we had to cut about half of the planned (and 
 
 Make absolutely sure that you have the key required competencies covered at the start of a project, or as close to the start as possible.
 
-A weakness in one core area can negate a TON of progress and quality in any other areas.
+A weakness in one core area can negate a TON of progress and quality in all other areas.
