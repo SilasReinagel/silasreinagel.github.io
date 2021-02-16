@@ -122,7 +122,7 @@ At every moment in a project, you are expected to be able to have an answer read
 People will often come to you with other requests and questions mid-project. They may sound different, but they are really asking the same thing in different ways.
 - "Can we add this additional feature?"
 - "We need Bill for another project, will it be a problem if we borrow him for a few weeks?"
-- "We really need this feature to show a client, do we have somethign ready?"
+- "We really need this feature to show a client, do we have something ready?"
 
 If you know how the project is going and can communicate it effectively and visually, it will resolve a lot of the complexities of those questions. You can explain the exact tradeoffs that will be made for any change. You can show exactly how the project is progressing.
 
