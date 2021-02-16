@@ -1,0 +1,1 @@
+spellchecker *.md -d dictionary.txt

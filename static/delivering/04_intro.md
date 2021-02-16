@@ -45,7 +45,7 @@ Effective project management skills will improve your ability to organize teams,
 
 ----
 
-I know uour time is valuable!
+I know your time is valuable!
 
 That’s why I’ve written short chapters so that you can quickly absorb the key information.
 

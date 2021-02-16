@@ -96,7 +96,7 @@ By using great reporting skills, it will never seem like there is any project un
 
 ## Masterful Project Reporting
 
-Let's looks at a example of what masterful project reporting looks like, in practice. I'll go into more detail on reporting in Chapter 11. The key things to observe here is how reporting can make a project appear highly predictable.
+Let's looks at an example of what masterful project reporting looks like, in practice. I'll go into more detail on reporting in Chapter 11. The key things to observe here is how reporting can make a project appear highly predictable.
 
 First, at the very start of the project, you express the project constraints (2 fixed and 1 estimated) and put them in writing:
 
