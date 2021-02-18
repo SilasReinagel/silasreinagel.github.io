@@ -46,11 +46,11 @@ On the other hand, a good manager can often change the circumstances of a projec
 
 By the time you finish this book and apply these lessons to a few successful projects, this **will** be you. You will be equipped with everything you need to manage a project of any size. The same core skills are required no matter what kind of project you are managing and how big the scope.
 
-Therefore, if you are managing a project, either explicitly or practically,  the factor of being having great project management is covered.
+Therefore, if you are managing a project, either explicitly or practically, the factor of having great project management is covered.
 
 **What if you are on a project, and there is another designated project manager?** That's fine. If the PM is great, then everything is set. Even if you don't have a great PM, you can effectively perform nearly all of the project management duties without formally being the project manager. I have done this for years, and taught many PMs valuable techniques and mentalities for managing projects even as, formally, an individual contributor.
 
-It doesn't matter what your titles is. It only matters if the project is managed well. Anyone with these skills can cause a project to be successfully delivered.
+It doesn't matter what your title is. It only matters if the project is managed well. Anyone with these skills can cause a project to be successfully delivered.
 
 If you master this book's contents and you are on the team, you have this factor covered.
 

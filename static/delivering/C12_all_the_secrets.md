@@ -49,7 +49,7 @@ A healthy project has great momentum and no big factors at risk.
 
 How can you provide perfect project predictability?
 
-- Control two of the three constraints, and constantly update the estimate of the third constraint using the project's momentum as the predictor.
+- Control two of the three input dimensions and continuously update the third dimension's estimate using the project's momentum as the predictor.
 
 Doing this well requires that you have strong estimating skills, and that your reporting has a bit of psychological magic.
 

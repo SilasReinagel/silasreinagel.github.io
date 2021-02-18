@@ -1,6 +1,6 @@
 # Chapter 5 - Essential Tools
 
-**What tools do you need to effectively manage projects?**
+**What tools do you need to manage projects effectively?**
 
 **Do you need an expensive popular software suite?**
 
@@ -8,7 +8,7 @@
 
 ---
 
-Before we answer those questions, let's take a quick glance back at the three key things you need to do as a project manager.
+Before we answer those questions, let's take a glance back at the three key things you need to do as a project manager.
 
 1. Bring the project to successful **completion**
 2. Bring the project to completion **efficiently**
@@ -16,7 +16,7 @@ Before we answer those questions, let's take a quick glance back at the three ke
 
 Those are the three keys things you are doing.
 
-That makes it fairly easy to answer our tooling questions.
+That makes it easy to answer our tooling questions.
 
 - No. You don't need any expensive or popular software suites.
 - No. You don't need charting or graphing software.
@@ -58,11 +58,11 @@ You need to know how the project is progressing. What work is done? What work re
 
 Again, you don't need anything special. Do you need issue numbers? Story points? Custom tagging? Linked issues? Burndown charts? You don't actually need any of those.
 
-You may find that some features help you solve specific problems better. But, in my experience, usually the more features an issue tracker tool has, the more wasteful and inefficient it is to use on a daily basis. Simpler is better.
+You may find that some features help you solve specific problems better. But, in my experience, the more features an issue tracker tool has, the more wasteful and inefficient it is to use on a daily basis. Simpler is better.
 
 ## 3. A reporting tool
 
-You need to be able to communicate the project's progress. You can do this with words, or with a visual aid. Your stakeholders don't really care how they get updates if the project is healthy.
+You need to be able to communicate the project's progress. You can do this with words or with a visual aid. Your stakeholders don't care how they get updates if the project is healthy.
 
 If the project is unhealthy, then stakeholders want more complex reports because they are losing faith. If you never get to this point, then you don't need anything fancy.
 
@@ -75,7 +75,7 @@ Non-Visual Reporting Tools:
 Visual Reporting Tools:
 - Google Spreadsheets
 
-You really don't need anything special. What matters is the project, and it getting delivered. You don't get extra points for cool graphs. Graphs don't make money unless you are in marketing, sales or graphic design.
+You don't need anything special. What matters is the project and it getting delivered. You don't get extra points for cool graphs. Graphs don't make money unless you are in marketing, sales, or graphic design.
 
 As a project manager, you will have the best results if you keep your tools dead simple and put all your energy into getting the project delivered.
 
@@ -89,7 +89,7 @@ Don't sweat it. Use their tool. Learn how they use their tool and use it correct
 
 Your key job is to deliver a project. A problem isn't better solved because of fancier project tracking. Customer needs aren't better met because of fancier project tracking. Keep your usage of the tool as simple as possible. If it can auto-generate reports or charts for you, that may save you some reporting effort.
 
-Focus on mastering the fundamentals. Learn about delivering projects, about the three input dimensions, and about managing the variable dimensions for the project. Don't get caught up in tool wars.
+Focus on mastering the fundamentals. Learn about delivering projects, the three input dimensions, and managing the project's variable dimensions. Don't get caught up in tool wars.
 
 ---
 
@@ -100,24 +100,24 @@ For software projects, I typically use:
 - Github issues + Zube
 - Notepad++
 
-For non-software project, I typically use:
+For non-software projects, I typically use:
 - Team-specific messaging app
 - Trello
 - Notepad++
 
-The key difference is that Github is strongly integrated into my software development flow, and so managing issues automatically with code commits saves the team a LOT of time. Zube provides a Kanban board interface for visualizing the Github issues, which provides a much better visual experience.
+The important difference is that Github is strongly integrated into my software development flow, and so managing issues automatically with code commits saves the team a LOT of time. Zube provides a Kanban board interface for visualizing the Github issues, which provides a much better visual experience.
 
 What is a Kanban board? I'm glad you asked! I'll be covering that in Chapter 7.
 
-I use Trello, another Kanban board interface for non-software projects, since it's a simple tool. I don't need any of the code integration features that Github affords. Trello was recently acquired by Atlassian, and they are known for adding lots of bloat to their software tools. While Trello is still my tool of choice in early 2021, if it suffers from any "improvements", I will quickly switch to a simpler tool like Google Sheets.
+I use Trello, a Kanban board interface for non-software projects, since it's a simple tool. I don't need any of the code integration features that Github affords. Trello was recently acquired by Atlassian, and they are known for adding lots of bloat to their software tools. While Trello is still my tool of choice in early 2021, if it suffers from any "improvements," I will quickly switch to a simpler tool like Google Sheets.
 
 ---
 
 ## Simple Tooling Wins
 
-The key thing you need to be a successful project manager are strong fundamentals and a drive to succeed. You don't need fancy tools.
+The key things you need to be a successful project manager are strong fundamentals and a drive to succeed. You don't need fancy tools.
 
-Simple tools are your best friend, since they prevent you from getting distracted and spending time on things other than delivering the project.
+Simple tools are your best friend since they prevent you from getting distracted and spending time on things other than delivering the project.
 
 All you need are:
 
