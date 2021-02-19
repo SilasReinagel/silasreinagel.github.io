@@ -24,13 +24,13 @@ What does project momentum look like?
 
 A project has momentum when the project evolves and moves towards its goals at a predictable and consistent pace. People are excited about it! Tasks are being completed. Conversations are being sparked about the implementation details. New demos and screenshots are being released frequently.
 
-You can tell there is project momentum when there is measurable progress combined with good hype!
+You can tell there is project momentum when there is measurable progress combined with excitement!
 
-If a project is missing either of these two things, that's a very bad sign. Without progress, the project is not moving forward technically. It doesn't matter how excited people are, if the project isn't closer to a reality today than it was yesterday. Without hype, it doesn't matter how fast it gets built because the stakeholders or customers aren't mentally feeling it.
+If a project is missing either of these two things, that's a very bad sign. Without progress, the project is not moving forward technically. It doesn't matter how excited people are, if the project isn't closer to a reality today than it was yesterday. Without excitement, it doesn't matter how fast it gets built because the stakeholders or customers aren't mentally feeling it.
 
 These are the two components of this momentum you are looking for:
 
-1. Hype - Social Momentum
+1. Excitement - Social Momentum
 2. Measurable Progress - Technical Momentum
 
 ---
@@ -67,9 +67,9 @@ Teams who have a shared understanding of the project and a shared vision for how
 
 Someone must be the project cheerleader! They must be excited about it!
 
-This is both outward-facing (marketing) and inward-facing (motivation). Stakeholders need to be hyped about the project as it is in motion, so that it maintains or increases its momentum.
+This is both outward-facing (marketing) and inward-facing (motivation). Stakeholders need to be excited about the project as it is in motion, so that it maintains or increases its momentum.
 
-Team members need to stay excited about what they are building. If you don't have someone generating this hype, it's very easy for a project to lose momentum.
+Team members need to stay excited about what they are building. If you don't have someone generating this excitement, it's very easy for a project to lose momentum.
 
 ### 4. Measurable Deliverables
 
@@ -89,9 +89,9 @@ You can see if the project is unhealthy by determining if any of its constraints
 
 You can see if the project is healthy by looking at the project's momentum, both socially and technically.
 
-If you can see those two things about a project at any point in time, then you know EXACTLY how successful the project is doing, and, as a powerful bonus, you can accurately predict how the project will finish. Nothing is left to chance.
+If you can see those two things about a project at any point in time, then you know EXACTLY how project is doing, and, as a powerful bonus, you can accurately predict how the project will finish. Nothing is left to chance.
 
-If you master this paradigm of mentally visualizing the project's health, people will think you are FORTUNE TELLER. They will give you better projects, a nicer office, and more money.
+If you master this paradigm of mentally visualizing the project's health, people will think you are a FORTUNE TELLER. This gives you a great track record which will open up fantastic new business opportunities!
 
 ---
 

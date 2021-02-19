@@ -101,6 +101,18 @@ If you've done good planning and initial research, then you set yourself and the
 
 Sure, you can successfully complete projects with less planning, but you will be giving yourself an uphill battle.
 
+---
+
+## What about communication?
+
+Why isn't communication on the list of key project factors?
+
+Communication is an essential skill for all group endeavors. It's as essential for group efforts as breathing is for living. However, it doesn't have any project-specific requirements.
+
+You can't manage well, have a strong team, allocate proper resources, or have good planning/research/design without good communication, unless you're working solo.
+
+In the chapters on each of these factors, we will look at the most important communication elements that directly impact project success.
+
 ----
 
 ## What is expected of you?

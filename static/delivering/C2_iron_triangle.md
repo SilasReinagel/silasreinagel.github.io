@@ -6,7 +6,7 @@ What's the most significant risk that you face as a project manager?
 
 The worst thing that can happen is for a project to get canceled before it's finished.
 
-This can easily happen if things take too long, if the core of the project isn't right, or if the costs have gotten out of control.
+This can easily happen if things take too long, if the key features of the project aren't correctly designed, or if the costs have gotten out of control.
 
 How can you, as a project manager, help foresee and avoid these enormous risks?
 
