@@ -71,7 +71,7 @@ How well you handle the Iron Triangle is one of the most important things determ
 
 ## How This Looks In Practice
 
-**Gary:** "We're looking to create a software tool that allows users to provide their stock tradesto calculate their tax liability for a specific tax year. You'll be managing this project."
+**Gary:** "We're looking to create a software tool that allows users to provide their stock trades to calculate their tax liability for a specific tax year. You'll be managing this project."
 
 **You:** "That sounds fantastic. How fast would you be hoping to have this project rolled out to our users?"
 

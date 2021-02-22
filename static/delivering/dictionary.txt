@@ -29,6 +29,7 @@ roadmap
 rollout
 gameplay
 UX
+UI
 impactful
 Deliverables
 timebox
@@ -47,3 +48,5 @@ Team-Centric
 deadweight
 overreliance
 WIP
+unbillable
+timeframes

@@ -95,7 +95,7 @@ Just a few of the many benefits of short iterations:
 - They yield frequent progress, which gives the incredible feeling of flow
 - They ensure that the changes can't be disastrous since the project is known to have been in a good state very recently
 
-The focus on short iterations and rapid feedback is one of the the Agile revolution's very best results.
+The focus on short iterations and rapid feedback is one of the Agile revolution's very best results.
 
 ---
 

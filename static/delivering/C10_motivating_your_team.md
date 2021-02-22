@@ -2,7 +2,7 @@
 
 For a project to be successful, you need a motivated team. It's absolutely essential.
 
-If your team isn't sufficiently motivated to deliver the project, then the project either isn't going to be delivered, or it will end up over budget, behind schedule, or below the quality targets.
+Suppose your team isn't sufficiently motivated to deliver the project. In that case, the project either isn't going to be delivered or it will end up over budget, behind schedule, or below the quality targets.
 
 If you have a highly motivated team, the opposite is likely. You may easily find the project ahead of schedule, under budget, or with extra features and sparkle.
 
@@ -16,17 +16,17 @@ Let's talk briefly about the range of motivations, and then we'll see what's nee
 
 Psychologically, there are extrinsic motivations and intrinsic motivations.
 
-Intrinsic motivation is when the thing in itself is motivating for a person. These are the things that a person naturally wants to do. For example, consider a kid and candy. The kid wants the candy, because eating candy is pleasurable. The creator wants to create because he enjoys creating. The exploring mind wants to find things that are mentally novel, because they scratch that inner craving. These are all examples of intrinsic motivation.
+Intrinsic motivation is when the thing in itself is motivating for a person. These are the things that a person naturally wants to do. For example, consider a kid and candy. The kid wants the candy because eating candy is pleasurable. The creator wants to create because he enjoys creating. The exploring mind wants to find things that are mentally novel because they scratch that inner craving. These are all examples of intrinsic motivation.
 
-Extrinsic motivation is when there is some artificially connected reward for doing a thing. If the kid eats his broccoli, then they can have dessert. If the worker shows up from 9-5 during each work day and delivers something, they get paid a regular paycheck. These are extrinsic motivations.
+Extrinsic motivation is when there is some artificially connected reward for doing a thing. If the kid eats his broccoli, then they can have dessert. If the worker shows up from 9-5 during each workday and delivers something, they get paid a regular paycheck. These are extrinsic motivations.
 
-There is a lot of research that shows that intrinsic motivations are far more powerful and reliable than extrinsic motivations. In fact, even the presence of extrinsic motivations can turn an activity from a joy into something that is undesirable.
+A lot of research shows that intrinsic motivations are far more powerful and reliable than extrinsic motivations. In fact, even the presence of extrinsic motivations can turn an activity from a joy into something undesirable.
 
 Furthermore, there are positive motivators and negative motivators.
 
-A positive motivator is when a person does something to get some good outcome. For example, if the project is finished ahead of schedule, the team gets a bonus.
+A positive motivator is when a person does something to get a good outcome. For example, if the project is finished ahead of schedule, the team gets a bonus.
 
-A negative motivator is when a person does something to avoid a bad outcome. For example, if a member's tasks aren't finished by the end of the week, then that member will be publicly shamed in the team meeting.
+A negative motivator is when a person does something to avoid a bad outcome. For example, if a member's tasks aren't finished by the end of the week, they will be publicly shamed in the team meeting.
 
 ---
 
@@ -40,11 +40,11 @@ The agency problem is a conflict of interest inherent in any relationship where 
 
 Let's consider a simplified example.
 
-Suppose that you are leading a corporate project and you have an outsource graphic designer who is paid by the hour. Suppose the graphic designer isn't excited about the art style and project direction and is really only motivated by the money.
+Suppose you are leading a corporate project and have a freelance graphic designer paid by the hour. Suppose the graphic designer isn't excited about the art style and project direction and is only motivated by the money.
 
-As the project manager, you want the art you need to be delivered promptly and with minimal required revisions. The graphic designer, if they don't have other work lined up, wants to get as many billable hours on the project as possible. Perhaps the designer does a LOT more sketches than needed. Maybe the early drafts are intentionally hasty so that more revisions will be needed.
+As the project manager, you want the art you need to be delivered promptly and with minimal required revisions. If they don't have other work lined up, the graphic designer wants to get as many billable hours on the project as possible. Perhaps the designer does a LOT more sketches than needed. Maybe the early drafts are intentionally hasty, so that more revisions will be needed.
 
-Since the graphic designer gets paid for putting in hours of work, and not for getting the project delivered, they may act in a way that hurts the project timeline and budget for their own benefit. It might not be the most ethical, and it might not be fully conscious, but this is one of the possible effects when you have competing motivations.
+Since the graphic designer gets paid for putting in hours of work and not for getting the project delivered, they may act in a way that hurts the project timeline and budget for their own benefit. It might not be the most ethical, and it might not be fully conscious, but this is one of the possible effects when you have competing motivations.
 
 For your project to be effectively managed, you need to eliminate or minimize any agency problems.
 
@@ -52,9 +52,9 @@ For your project to be effectively managed, you need to eliminate or minimize an
 
 ## Your Team's Motivations
 
-These are the factors that you need to consider when you are looking at the team's motivations. To have a high-functioning team who is able to effectively deliver a project, the team needs to have aligned motivations.
+These are the factors that you need to consider when you are looking at the team's motivations. To have a high-functioning team that can effectively deliver a project, the team needs to have aligned motivations.
 
-This is tricky, since almost no-one is transparent with their motivations. Your job as a project manager is to know or learn what the key motivators are for each member, and ensure that they are maximally motivated to make the project a success.
+This is tricky since almost no-one is transparent with their motivations. Your job as a project manager is to know or learn what the key motivators are for each member and ensure that they are maximally motivated to make the project a success.
 
 - Some people are in it for money.
 - Some people want public acclaim.
@@ -77,13 +77,13 @@ For each team member whose motivations are misaligned, the project is at risk by
 
 The deeper everyone's vested interests are, the better the project will go.
 
-Ideally, you want to know and align the motivations of your team even before the project begins. They should factor into the team you assemble. But, as long as the motivations are aligned, it doesn't matter as much if that happens during team formation, or during the project.
+Ideally, you want to know and align the motivations of your team even before the project begins. They should factor into the team you assemble. But, as long as the motivations are aligned, it doesn't matter as much if that happens during team formation or during the project.
 
 ---
 
 ## Your Motivation Tools
 
-As the project manager, it's your job to understand the team's motivations and to work with the key stakeholders to ensure they are aligned.
+As the project manager, it's your job to understand the team's motivations and work with the key stakeholders to ensure they are aligned.
 
 If you don't hold these levers, you need to ensure that there are people who do. . And they need to understand where they need to be applied.
 
@@ -91,13 +91,13 @@ What are some practical ways to motivate people on your projects?
 - Project equity
 - Social media praise
 - Business testimonials
-- Money rewards for meeting certain metrics
-- Money penalties for falling short of certain metrics
+- Money rewards for meeting specific metrics
+- Money penalties for falling short of specific metrics
 - Future work and working relationship
 - Autonomy over design decisions
 - Autonomy over choice of future projects
 
-Many of these motivators work best if they are explicit and well-understood. A few of them work better if they are surprises. A surprise bonus for a job well done can work wonders. Giving someone unexpected public praise for doing well can give a huge motivation and morale boost.
+Many of these motivators work best if they are explicit and well-understood. A few of them work better if they are surprises. A surprise bonus for a job well done can work wonders. Giving someone unexpected public praise for doing well can give a considerable motivation and morale boost.
 
 ---
 

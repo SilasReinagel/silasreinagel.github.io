@@ -1,6 +1,6 @@
 # Chapter 12 - All The Secrets
 
-In this final chapter, we'll quickly review all the key techniques you need to be a fantastic project manager. This chapter is a synopsis of everything we have covered. If you want to refer to specific points, this chapter is your one stop place.
+In this final chapter, we'll quickly review all the essential techniques you need to be a fantastic project manager. This chapter is a synopsis of everything we have covered. If you want to refer to specific points, this chapter is your one-stop place.
 
 ---
 
@@ -41,7 +41,7 @@ The twofold view of a project:
 - Risks are revealed if any input constraints are out of control
 - Health is revealed by the project momentum
 
-A healthy project has great momentum and no big factors at risk.
+A healthy project has great momentum and no significant factors at risk.
 
 ---
 
@@ -51,7 +51,7 @@ How can you provide perfect project predictability?
 
 - Control two of the three input dimensions and continuously update the third dimension's estimate using the project's momentum as the predictor.
 
-Doing this well requires that you have strong estimating skills, and that your reporting has a bit of psychological magic.
+Doing this well requires strong estimating skills and that your reporting has a bit of psychological magic.
 
 ---
 
@@ -90,10 +90,10 @@ What are the big takeaways from Kanban?
 ### Chapter 8 - Scrum: The Good & Bad
 
 What are the big takeaways from Scrum?
-1. Incorporate planning, demos and periods of reflection as you go
+1. Incorporate planning, demos, and periods of reflection as you go
 2. Consider harnessing the incredible power of Sprints to get ahead
 3. Make sure the whole team is included and has a shared vision
-4. Avoid daily standup meetings, they are wasteful
+4. Avoid daily standup meetings; they are wasteful
 5. Don't try to maintain an unsustainable pace of work
 
 ---
@@ -115,8 +115,8 @@ What are some practical ways to motivate people on your projects?
 - Project equity
 - Social media praise
 - Business testimonials
-- Money rewards for meeting certain metrics
-- Money penalties for falling short of certain metrics
+- Money rewards for meeting specific metrics
+- Money penalties for falling short of specific metrics
 - Future work and working relationship
 - Autonomy over design decisions
 - Autonomy over choice of future projects
@@ -141,17 +141,17 @@ Who should you be communicating to?
 
 ### All The Secrets
 
-That's really everything that you need to know to become a master project manager.
+That's everything that you need to know to become a master project manager.
 
 Apply your energies to completing projects successfully, efficiently, and predictably.
 
 Accomplish this by building project momentum and mitigating project risks. Ensure that you have a good vision and a strong team before the project begins.
 
-Keep your tools and processes simple. Solve the management problems primarily through healthy processes and teamwork, and not with rigid, expensive or complex processes and tools.
+Keep your tools and processes simple. Solve the management problems primarily through healthy processes and teamwork, not with rigid, expensive, or complex processes and tools.
 
 Learn the good techniques from the project management literature and teachers, but be careful to avoid getting too academic. Always focus on delivering the project as the key goal.
 
-Provide regular and effective communications to the team, the stakeholders and your user community. Celebrate your wins!
+Provide regular and effective communications to the team, the stakeholders, and your user community. Celebrate your wins!
 
 If you practice and master those few elements, you will be a master project manager.
 
