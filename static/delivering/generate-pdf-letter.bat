@@ -1,10 +1,13 @@
 @echo off
 set dest=%1
 call xcopy cover.pdf %dest%/000.pdf /y
-call mdpdf 01_version.md %dest%/001.pdf --format=Letter
-call mdpdf 02_dedication.md %dest%/002.pdf --format=Letter
-call mdpdf 03_index.md %dest%/003.pdf --format=Letter
-call mdpdf 04_intro.md %dest%/004.pdf --format=Letter
+call mdpdf 01_title.md %dest%/001.pdf --format=Letter
+call mdpdf 02_copyright.md %dest%/002.pdf --format=Letter
+call mdpdf 03_epigraph.md %dest%/003.pdf --format=Letter
+call mdpdf 04_dedication.md %dest%/004.pdf --format=Letter
+call mdpdf 05_index.md %dest%/005.pdf --format=Letter
+call mdpdf 06_acknowledgments.md %dest%/006.pdf --format=Letter
+call mdpdf 07_intro.md %dest%/007.pdf --format=Letter
 call mdpdf C1_no_fluff.md %dest%/010.pdf --format=Letter
 call mdpdf C2_iron_triangle.md %dest%/020.pdf --format=Letter
 call mdpdf C3_project_momentum.md %dest%/030.pdf --format=Letter

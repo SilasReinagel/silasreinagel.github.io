@@ -1,7 +1,7 @@
 # Project Management Secrets
 
 ### Table Of Contents
-* **Acknowledgements**
+* **Acknowledgments**
 * **Intro**
 
 ### Section 1 - Simple Project Management

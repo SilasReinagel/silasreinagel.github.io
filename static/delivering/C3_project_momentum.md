@@ -35,6 +35,24 @@ These are the two components of this momentum you are looking for:
 
 ---
 
+## Story Time: Project Watchdog
+
+A couple of years ago, I was brought in as an Engineering Contributor for an enterprise software project. Project Watchdog was the pet project of one of the Senior Directors of Engineering. The project had been planned and prioritized for 9 months and had an action squad actively assigned to it for 3 months.
+
+We held weekly cross-team meetings to discuss the project and track it's progress. Every week, on Thursday morning, we assembled in a conference room with representatives from 3 different teams. Our dedicated Project Manager pulled up the project board in Jira and we looked at all the work items remaining.
+
+For the first two weeks, people on each team were reporting significant progress. Work tickets had been finished during the week, and we were closer to project completion. After those first two weeks, progress trickled to a halt. We assembled on Thursday morning, and as the team members gave their project progress updates, everyone gave reasons why no Watchdog work had been accomplished.
+
+Since my engineering tasks were finished in the initial two weeks, I volunteered to help with the remaining non-Engineering tasks. The representatives from the other two teams declined the offer, saying that they were on top of things and they didn't need any help.
+
+The exact same things happened, every Thursday for the next eight weeks. We all assembled to sync on Watchdog progress. All the participants went around the room explaining why no work had happened in the past week.
+
+On the ninth week, the Senior Director of Engineering himself attended the meeting to find out why the project wasn't progressing. Next Monday, we all received an email explaining the Project Watchdog had been canceled. It came as no surprise to any of us. We had sat in the same room and watched as eight weeks went by with literally no progress made.
+
+There is more than one root cause for why Watchdog failed so spectacularly, but the clearest indicator of the project's health was its momentum. We watched as the project went from making significant progress to being completely stopped. We watched as people went from excited about it, to dreading the weekly excuse-giving ceremony. The project lost its technical momentum and its social momentum, and so it died.
+
+---
+
 ## How To Get Momentum?
 
 To have momentum, you only need a few elements.

@@ -72,7 +72,7 @@ Many project management books and programs define resource management as the cri
 
 You need the right resources, certainly. But having a strong project team and a great project manager are more important. Having a strong project team could be considered a resource issue. However, in my mind, treating people just as a resource issue misses how impactful people are and the magic they bring, both individually and as a team.
 
-Since resources are the simplest and most traditional project management factor, we will cover it in the next chapter. You need to ensure that a project has enough time and funding, with a properly-sized scope to match.
+Since resources are the simplest and most traditional project management factor, we will explore this angle in the next chapter. You need to ensure that a project has enough time and funding, with a properly-sized scope to match.
 
 If you don't have enough resources to complete a project, it won't be completed. It's as simple as that.
 

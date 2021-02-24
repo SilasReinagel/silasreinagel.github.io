@@ -50,3 +50,6 @@ overreliance
 WIP
 unbillable
 timeframes
+Spaulding
+D'Agostino
+Jira

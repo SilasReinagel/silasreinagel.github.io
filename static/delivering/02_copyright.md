@@ -2,7 +2,7 @@
 
 Copyright © 2021 by Silas Reinagel
 
-All rights reserved. No part of the contents of this book may be reproduced or transmitted in any form or aby any means without the written permission of the publisher.
+All rights reserved. No part of the contents of this book may be reproduced or transmitted in any form or any means without the written permission of the publisher.
 
 Email: silas@silasreinagel.com
 
