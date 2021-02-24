@@ -4,7 +4,7 @@ In this final chapter, we'll quickly review all the essential techniques you nee
 
 ---
 
-### Chapter 1 - No Bullshit Project Management
+### Chapter 1 - No Fluff Project Management
 
 Your goal as a project manager is:
 1. Bring the project to successful completion

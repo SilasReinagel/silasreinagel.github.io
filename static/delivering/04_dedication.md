@@ -1,6 +1,6 @@
-# Dedication
+<br><br><br><br><br><br>
 
-----
+# Dedication
 
 This book is dedicated to people like you, who wish to deliver things. People of action.
 

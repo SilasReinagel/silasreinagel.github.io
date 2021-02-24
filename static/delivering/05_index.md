@@ -1,10 +1,11 @@
 # Project Management Secrets
 
 ### Table Of Contents
+* **Acknowledgements**
 * **Intro**
 
 ### Section 1 - Simple Project Management
-* **1. No Bullshit Project Management**
+* **1. No Fluff Project Management**
 * **2. Constraints and the Iron Triangle**
 * **3. Project Momentum**
 * **4. Project Predictability**

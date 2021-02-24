@@ -1,4 +1,4 @@
-# Chapter 1 - No Bullshit Project Management
+# Chapter 1 - No Fluff Project Management
 
 Project Management, at its core, is very simple.
 
