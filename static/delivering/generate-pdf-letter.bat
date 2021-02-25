@@ -22,6 +22,7 @@ call mdpdf C11_communicating_results.md %dest%/110.pdf --format=Letter
 call mdpdf C12_all_the_secrets.md %dest%/120.pdf --format=Letter
 call mdpdf X_A1_story_core_competencies.md %dest%/130.pdf --format=Letter
 call mdpdf X_Z1_bio.md %dest%/140.pdf --format=Letter
+call xcopy cover_back.pdf %dest%/999.pdf /y
 
 cd %dest%
 mkdir book
