@@ -26,7 +26,9 @@ The primary tool required to do Kanban is a Kanban board. It consists of vertica
 
 Here is a look at my Kanban board for this book-writing project.
 
-<img src="./kanban-board.jpg" style="max-width: 70%; margin-left: auto; margin-right: auto;">
+<p align="center" width="100%">
+  <img src="./kanban-board.jpg">
+</p>
 
 At a glance, I can see what progress has been made, what is currently being worked on, who has been delivering the project's work, and roughly how much work remains.
 

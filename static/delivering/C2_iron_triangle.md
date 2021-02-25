@@ -16,8 +16,9 @@ How can you, as a project manager, help foresee and avoid these enormous risks?
 
 ## What is the Iron Triangle?
 
-
-<img src="./project-management-triangle.png" alt="Project Management Iron Triangle" style="max-width: 70%; margin-left: auto; margin-right: auto;">
+<p align="center" width="100%">
+  <img src="./project-management-triangle.png" alt="Project Management Iron Triangle" style="max-width: 60%">
+</p>
 
 Three inputs determine the final output.
 
@@ -99,7 +100,9 @@ This isn't necessarily the same as project success. You can have a very small pr
 
 You may have seen this vivid illustration of the same artist drawing a picture of Spiderman using different time constraints.
 
-<img src="./project-management-varied-time-spiderman-drawing.png" style="max-width: 70%; margin-left: auto; margin-right: auto;">
+<p align="center" width="100%">
+  <img src="./project-management-varied-time-spiderman-drawing.png">
+</p>
 
 This is an example of possible outcomes with fixed resources and a fixed scope, varying the project timeline.
 
