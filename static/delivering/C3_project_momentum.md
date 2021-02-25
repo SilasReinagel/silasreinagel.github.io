@@ -107,7 +107,7 @@ You can see if the project is unhealthy by determining if any of its constraints
 
 You can see if the project is healthy by looking at the project's momentum, both socially and technically.
 
-If you can see those two things about a project at any point in time, then you know EXACTLY how project is doing, and, as a powerful bonus, you can accurately predict how the project will finish. Nothing is left to chance.
+If you can see those two things about a project at any point in time, then you know EXACTLY how the project is going, and, as a powerful bonus, you can accurately predict how the project will finish. Nothing is left to chance.
 
 If you master this paradigm of mentally visualizing the project's health, people will think you are a FORTUNE TELLER. This gives you a great track record which will open up fantastic new business opportunities!
 
