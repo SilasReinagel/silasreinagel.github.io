@@ -12,13 +12,15 @@ The answers to these two questions leave us with a good picture of ways for a pr
 
 ---
 
-## The #1 Best Project Health Metric
+## The #1 Best Project Health Signal
 
 What is the best way to measure the health of a project?
 
 ### **Momentum**
 
-When a project has momentum, it is very healthy.
+When a project has momentum, it is very healthy!
+
+Momentum is the very best health metric, since it's directly linked to the progress made on the project, and the rate of change of that velocity. There are many other metrics that people use, but nothing else is as directly linked to delivering the project as momentum.
 
 What does project momentum look like?
 
@@ -93,6 +95,10 @@ Team members need to stay excited about what they are building. If you don't hav
 
 The human brain is not very well equipped to deal with uncertainty. Because of this, people absolutely must have a way to know how much of the project has been delivered and how close it is to being done.
 
+How do you measure the work? Choose your project-relevant KPI. If you are writing a book, look at words/chapters written. If you are creating tooling software, look at number of delivered usable features/options/content. If you are creating usage-oriented products, measure number of engaged users, usage time per period, or something similar. Your specific product may have different KPIs than other projects, so you'll have to pick one that makes sense. Choose a KPI that best aligns with your strategic goals.
+
+There may be busy-work that doesn't help move the project forward. If a piece of work doesn't help the project's goals, then it's pure waste. Only delivered work that brings the project closer to completion should be counted. Definitionally, that's the only progress that brings the project closer to completion.
+
 There is nothing more exciting than seeing shots from a couple of weeks ago compared to what the project looks like now. That's a momentum builder!
 
 Seeing a thermometer fill a bit every day, or a bunch of sticky notes move across a board, or a number of items get crossed off of a finite checklist feels exciting! Everyone can **feel** how close the project is getting to completion, even if it still remains a long way off.
@@ -101,13 +107,15 @@ Seeing a thermometer fill a bit every day, or a bunch of sticky notes move acros
 
 ## Project Health Diagnostic
 
-Together, with the Iron Triangle, you have a full picture of both aspects of project health.
+Together, with the Iron Triangle, you have a full picture of both aspects of project health. Take a weekly look at time, cost, completed work scope, and remaining work scope.
 
 You can see if the project is unhealthy by determining if any of its constraints have gone off the rails.
 
 You can see if the project is healthy by looking at the project's momentum, both socially and technically.
 
-If you can see those two things about a project at any point in time, then you know EXACTLY how the project is going, and, as a powerful bonus, you can accurately predict how the project will finish. Nothing is left to chance.
+If people are more excited about the project, then you have gained social momentum. If people are less excited about the project, then you have lost social momentum. If more work was completed than in previous periods, then you have gained momentum. If less work was completed than in previous periods, then you have lost momentum. You don't need to apply complex algorithms. It's very simple.
+
+If you can see the constraints and the momentum for a project at any point in time, then you know EXACTLY how the project is going, and, as a powerful bonus, you can accurately predict how the project will finish. Nothing is left to chance.
 
 If you master this paradigm of mentally visualizing the project's health, people will think you are a FORTUNE TELLER. This gives you a great track record which will open up fantastic new business opportunities!
 

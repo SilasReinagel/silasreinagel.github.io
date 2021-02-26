@@ -10,6 +10,16 @@ I will teach you how to perfectly pull this trick off every time!
 
 ---
 
+## Do Not Pass Go, Do Not Collect $200
+
+Before we go any further, it's essential to note that it's impossible to provide project predictability if the project objectives aren't already known!
+
+If you don't know the project requirements, you cannot provide project predictability nor meaningful estimates. In my initial draft of this chapter, I didn't include this section, since I felt that it was obvious that one can't predict a project with unknown requirements. However, I have since learned that there are many companies who undertake projects without known requirements. Optimistic developers provide estimates such as "This will take about 12 weeks to build" without having a clue about what it going to be built.
+
+This is a recipe for failure! To provide project predictability, the project goals must be known. If that hasn't happened, go back and use the techniques in Chapter 2 to discover the project's fixed two dimensions. You don't have to know what the final project scope will be, but you and your team must know the project target scope.
+
+---
+
 ## Seeing The Future Through Synthesis
 
 Remember how, in the first chapter, I said that your job as a project manager is to **bring a project to completion successfully**?
@@ -56,7 +66,7 @@ Most of us haven't done a large enough number of similar projects to be able to 
 
 Statistical knowledge is its own deep rabbit hole. I wanted to mention it, but we're not going to explore this one more deeply. In short, the more you track your team's project costs, scopes, and timeframes for similar projects, the more perfect your estimates will be.
 
-**2. The second type of trick is to provide an estimate after the work is finished.**
+**2. The second type of trick is to provide an estimate after work is finished.**
 
 It’s very easy to estimate how long something will take and what it will cost when the final costs and work duration have already been measured.
 
@@ -71,6 +81,8 @@ But, it’s also possible that you may be able to carry over pieces of work from
 If you provide an estimate in the form of a range (9-12 weeks), it sounds to most people like a concrete answer; even though, obviously, it is not. The tighter the range, the more it sounds like a perfect estimate.
 
 If you provide an estimate for the worst-case scenario, then you can't be wrong. Suppose you know that a task will typically take 2 weeks and that if things go wrong, maybe it will take 4. Suppose you know that no matter how badly things go, it will be finished in 8 weeks. Then, by providing a bounded estimate, you provide certainty. Say, "This project will be finished in 8 weeks." In the best case scenario, you end up looking like a rock star when you deliver significantly ahead of the estimate.
+
+For this trick to work, you have to be right about the worst-case scenario actually being the worst-case scenario. If you say that the worst-case scenario is an 8-week project duration and the project takes 12 weeks, clearly you were wrong about the worst-case scenario. When you're trying to figure out the worst-case scenario, be as pessimistic as you can! If you aren't sure what the worst-case scenario really is, assume that it's worse than you think it will be. Add another 30% to the estimate.
 
 ---
 
