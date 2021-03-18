@@ -40,7 +40,7 @@ It is often the case that the project stakeholders wish to have all three fully 
 
 ## Determine the Variable Constraint
 
-Consider an example project of building a stock trading tax calculation software. It may be that Gary, the CEO, wants the project finished within one year, on a budget of $200K.
+Consider an example project of building a stock trading tax calculation software. It may be that Jingfei, the CEO, wants the project finished within one year, on a budget of $200K.
 
 **Your job as a project manager is to determine which constraint must be the flexible one.**
 
@@ -72,19 +72,19 @@ How well you handle the Iron Triangle is one of the most important things determ
 
 ## How This Looks In Practice
 
-**Gary:** "We're looking to create a software tool that allows users to provide their stock trades to calculate their tax liability for a specific tax year. You'll be managing this project."
+**Jingfei:** "We're looking to create a software tool that allows users to provide their stock trades to calculate their tax liability for a specific tax year. You'll be managing this project."
 
 **You:** "That sounds fantastic. How fast would you be hoping to have this project rolled out to our users?"
 
-**Gary:** "With the new tax laws, if we could be first to market incorporating the changes, we would have a huge advantage over our competitors. That gives us 9 months to finish this."
+**Jingfei:** "With the new tax laws, if we could be first to market incorporating the changes, we would have a huge advantage over our competitors. That gives us 9 months to finish this."
 
 **You:** "Makes sense. What are your thoughts on how many members we could assign to this project?"
 
-**Gary:** "This will be our company's number two priority for this year. As long as you don't take anyone off of Project Ocelot, it can be as many as the project needs."
+**Jingfei:** "This will be our company's number two priority for this year. As long as you don't take anyone off of Project Ocelot, it can be as many as the project needs."
 
 **You:** "Great. How flexible are the project requirements? What are the absolute essentials that we have to have in the first public rollout?"
 
-**Gary:** "All the tax laws need to be accounted for. Users need to be able to connect their stock trading accounts from at least the biggest 20 online brokerages. All the calculations must be correct."
+**Jingfei:** "All the tax laws need to be accounted for. Users need to be able to connect their stock trading accounts from at least the biggest 20 online brokerages. All the calculations must be correct."
 
 By explicitly putting out feelers towards each of the three dimensions, you have learned that the minimum Scope is fixed and the Timeline is critical. This means that mentally, you know the only dimension you want to be flexible is Resourcing. In many real-world projects, the cost isn't represented with simple currency amounts. It's often represented by manpower, materials, outsourcing, required tools, and so forth.
 

@@ -34,7 +34,7 @@ The law of constraints:
 ### Chapter 3 - Project Momentum
 
 The best indicators of the health of a project are:
-1. Hype - Social Momentum
+1. Excitement - Social Momentum
 2. Measurable Progress - Technical Momentum
 
 The twofold view of a project:

@@ -34,11 +34,11 @@ If any one of those factors is missing, the project's success may be at risk.
 
 If **more** than one factor is missing, it's highly unlikely the project will succeed.
 
-I cannot emphasize this enough! **Never choose to manage a project that you know is unlikely to succeed.** It's a poor use of your time and may hurt your career. Either change the frame to solve the problematic factors or find a different project completely.
+I cannot emphasize this enough! **Never choose to manage a project that you know is unlikely to succeed.** It's a poor use of your time and may hurt your career. Either change the frame to solve the problematic factors or find a different project completely. To be clear, I'm not saying you should reject every project. What I am saying is that you should be assertive, selective, and proactive.
 
-Sometimes, the smartest decision is not to undertake a project that is set up to fail.
+Filter out projects that aren't going to work. Ensure that you feel confident that you have the tools needed to succeed. Sometimes, the smartest decision is not to undertake a project that is set up to fail.
 
-On the other hand, a good manager can often change the circumstances of a project and help ensure that all the factors ARE covered before a project really gets underway.
+On the other hand, a good project manager can often change the circumstances of a project and help ensure that all the factors ARE covered before a project really gets underway. Most elements are in your control, even more than you realize.
 
 ---
 
@@ -117,11 +117,15 @@ In the chapters on each of these factors, we will look at the most important com
 
 ## What is expected of you?
 
-When you are managing a project, you are either a powerful leader, moving heaven and earth to deliver the project, or you are a powerless scapegoat at the whims of a cruel and chaotic environment.
+When you are managing a project, you are either a powerful leader, moving heaven and earth to deliver the project, or you are a powerless scapegoat at the whims of a cruel and chaotic environment. These is a spectrum of places between these two poles, but most of your clients, stakeholders and bosses will secretly lean strongly towards one side of that perceptual scale. It may not be fair, but that's how you will be perceived. One way or the other.
 
 This is true whether you are managing your own projects or managing client/employer projects. If you aren't leading proactively with great initiative, then when the project doesn't come to fruition, you will have many feeble complaints about the project when it's over.
 
+This will even be true in your own mind. If you are working on a solo project, either you will be feeling confident and capable, with everything proceeding according to plan, or you will feel like the project has a chaotic will of its own. You may feel like time is slipping away. You may watch your project money vanish more rapidly than expected with less to show.
+
 I know because I have experienced both of these outcomes many times in my project management journey. I am the most disappointed when one of my projects isn't completed as successfully as I wanted.
+
+However, this isn't something that left to chance or the universe. You can be that powerful project leader when you know how to mentally handle the natural variance of projects and adapt effectively. The project may be a bucking-bronco, trying wildly to throw its rider into chaos. You want to be the experienced cowboy, riding the bronco and bending it to your will effectively, letting its strength take you where you want to go. The experience you need to do that effectively is covered in this book.
 
 At every moment in a project, you are expected to be able to have an answer ready for the following questions:
 
@@ -136,7 +140,7 @@ People will often come to you with other requests and questions mid-project. The
 - "We need Bill for another project, will it be a problem if we borrow him for a few weeks?"
 - "We really need this feature to show a client, do we have something ready?"
 
-If you know how the project is going and can communicate it effectively and visually, it will resolve a lot of the complexities of those questions. You can explain the exact tradeoffs that will be made for any change. You can show exactly how the project is progressing.
+If you know how the project is going and can communicate it effectively and visually, it will resolve a lot of the complexities of those questions. You can explain the exact tradeoffs that will be made for any change. You can show exactly how the project is progressing. That's what enables you to be the powerful leader, who effectively manages the project, and insightfully communicates the status of the project.
 
 ---
 
