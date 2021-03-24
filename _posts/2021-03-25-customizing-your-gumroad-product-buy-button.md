@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Customizing Your Gumroad Buy Button Using Svelte
-date: 2021-03-18 10:00
+date: 2021-03-25 10:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
@@ -36,7 +36,11 @@ To get the starting code, we
   <script src="https://gumroad.com/js/gumroad.js"></script>
 </svelte:head>
 
-<a class="gumroad-button" href="https://gum.co/{productId}?wanted=true" data-gumroad-single-product="true">{text}</a>
+<a class="gumroad-button"
+  href="https://gum.co/{productId}?wanted=true"
+  data-gumroad-single-product="true">
+    {text}
+</a>
 ```
 
 <img src="/images/gumroad-buy-button-basic.jpg" alt="Gumroad - Basic Overlay Buy Button"/>
@@ -47,7 +51,11 @@ Next, we ensure that element positioning is always centered and will flow nicely
 
 ```
 <div class="cta">
-  <a class="gumroad-button" href="https://gum.co/{productId}?wanted=true" data-gumroad-single-product="true">{text}</a>
+  <a class="gumroad-button"
+    href="https://gum.co/{productId}?wanted=true"
+    data-gumroad-single-product="true">
+      {text}
+  </a>
 </div>
 
 <style>
@@ -72,8 +80,11 @@ To begin customizing the styling, we strip off the `gumroad-button` class, and t
 
 ```
 <div class="cta">
-  <a class="buy-button" href="https://gum.co/{productId}?wanted=true" target="_blank" data-gumroad-single-product="true">
-    <h3>{text}</h3>
+  <a class="buy-button"
+    href="https://gum.co/{productId}?wanted=true"
+    target="_blank"
+    data-gumroad-single-product="true">
+      <h3>{text}</h3>
   </a>
 </div>
 
@@ -111,14 +122,14 @@ You can use this in your Svelte app like this:
   import GumroadBuyButton from './Elements/GumroadBuyButton.svelte';
 </script>
 
-<GumroadBuyButton productId="yourProductId" 
-  text="Yes! Reserve my free copy now!" 
+<GumroadBuyButton productId="yourProductId"
+  text="Yes! Reserve my free copy now!"
   offerDetails="You only pay $9.95 for shipping and handling in US ($19.95 intl)"/>
 ```
 
 That's it!
 
---- 
+---
 
 This makes it dead simple to embed Gumroad Checkout directly on your website, with a high-converting button that can look exactly the way you want it to.
 

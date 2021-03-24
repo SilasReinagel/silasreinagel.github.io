@@ -41,13 +41,10 @@ pre {
 
 pre a {
     background-image: none;
+    text-decoration: none !important;
 }
 
 pre a::before {
-  content: counter(line-numbering);
-  counter-increment: line-numbering;
-  padding-right: 1em; /* space after numbers */
-  width: 25px;
   text-align: right;
   opacity: 0.7;
   display: inline-block;
@@ -60,16 +57,4 @@ pre a::before {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-}
-
-pre a:first-of-type::before {
-  padding-top: 10px;
-}
-
-pre a:last-of-type::before {
-  padding-bottom: 10px;
-}
-
-pre a:only-of-type::before {
-  padding: 10px;
 }
