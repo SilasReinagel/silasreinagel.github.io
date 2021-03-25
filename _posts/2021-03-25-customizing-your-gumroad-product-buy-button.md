@@ -111,9 +111,9 @@ To begin customizing the styling, we strip off the `gumroad-button` class, and t
 
 Finally, we'll add the shopping cart icon, and an optional offer details line.
 
-<img src="/images/gumroad-buy-button-final.jpg" alt="Gumroad - Final Overlay Product Buy Button"/>
+<img src="/images/gumroad-buy-button-finished.jpg" alt="Gumroad - Final Overlay Product Buy Button"/>
 
-Final Code with all CSS Styling is available here: https://github.com/SilasReinagel/svelte-gumroad-buy-button/blob/master/src/Component.svelte
+Final Code with all CSS Styling is available here: [Source Code](https://github.com/SilasReinagel/svelte-gumroad-buy-button/blob/master/src/Component.svelte)
 
 You can use this in your Svelte app like this:
 
