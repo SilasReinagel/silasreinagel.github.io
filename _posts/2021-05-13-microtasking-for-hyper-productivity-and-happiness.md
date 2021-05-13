@@ -20,7 +20,7 @@ Microtasking is the process of breaking work items into very small tasks.
 
 Microtasking is a way of a working that supercharges your entire creative process. It not only helps your individual creative process, but makes working as a team much more fluid, transparent, and effortless.
 
-Microtasking is the opposite of the convential large-story based workflow. It is one of the very best practical ways to arrive at a healthy [high-flow software development process](https://www.silasreinagel.com/blog/2020/06/26/software-development-principle-of-flow/).
+Microtasking is the opposite of the conventional large-story based workflow. It is one of the very best practical ways to arrive at a healthy [high-flow software development process](https://www.silasreinagel.com/blog/2020/06/26/software-development-principle-of-flow/).
 
 ---
 
