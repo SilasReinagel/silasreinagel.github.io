@@ -52,7 +52,7 @@ This is the approach where, as a business stance, you simply don't care about th
 
 ## Level 1 - Manually Help Customers Solve Their Problems
 
-Your company cares about your customers. Your processes and product aren't perfect, but you ensure that you have people available to help your customers with their problems, and that you have plenty of availability. You respond to messages and requests are prompty as possible.
+Your company cares about your customers. Your processes and product aren't perfect, but you ensure that you have people available to help your customers with their problems, and that you have plenty of availability. You respond to messages and requests as promptly as possible.
 
 **Common Traits:**
 - Highly available employees
