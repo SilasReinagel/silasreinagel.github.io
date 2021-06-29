@@ -66,7 +66,7 @@ Either the project is a poor idea, or the project isn't aligned with the company
 
 ## Why do people at X company still assign tasks?
 
-There are only real reason that anyone would assign a task. Either there is a boss on a ego kick who gets a thrill for forcing their little lackeys to do their bidding, or the boss simply hasn't learned that modern management is about managing work, not people. 
+There are only a couple real reasons that anyone would assign a task. Either there is a boss on a ego kick who gets a thrill out of forcing their little lackeys to do their bidding, or the boss simply hasn't learned that modern management is about managing work, not people. 
 
 Motivated people don't need to be managed and unmotivated people can't be managed.
 
