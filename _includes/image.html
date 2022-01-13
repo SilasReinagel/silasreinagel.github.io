@@ -1,5 +1,5 @@
 {% assign src = include.src | replace: '/images/', '' %}
 {% assign local = '/images/' | append: src %}
 {% assign cdn = 'N/A' | append: src %}
- <img class="{{ include.class | default: '' }}" src="{{ local }}" alt="{{ include.alt }}" onerror="this.onerror=null; this.src='{{ local }}';"/>
+ <img class="{{ include.class | default: '' }}" src="{{ local }}" alt="{{ include.alt }}"  onerror="this.onerror=null; this.src='{{ local }}';"/>
  
