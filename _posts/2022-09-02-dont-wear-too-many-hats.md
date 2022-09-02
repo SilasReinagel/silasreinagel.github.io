@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Wear Too Many Hats
-date: 2022-09-02 10:00
+date: 2022-09-02 09:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [blog]
