@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "title": "Cliffwatcher",
+      "date": "June 2024",
+      "appType": "Background Agent",
+      "description": "Stock symbol watcher bot that notifies users when the price of a stock drops below an algorithmic threshold.",
+      "url": "https://github.com/SilasReinagel/CliffWatcher",
+      "status": "Operating"
+    },
+    {
+      "title": "First Impression AI",
+      "date": "May 2024",
+      "appType": "AI Web App",
+      "description": "AI that analyzes a person's photo and generates a report on the first impression it conveys.",
+      "url": "https://firstimpressionai.com/",
+      "status": "Initial Demo"
+    },
+    {
+      "title": "Thalassa's Grand Heist",
+      "date": "April 2024",
+      "appType": "Video Game",
+      "description": "Embark on an epic underwater heist in Thalatta's Grand Heist, a thrilling adventure game set in the depths of the ocean. You play as Thalatta, a cunning thief on a mission to steal back the legendary Crown of the Tides from the clutches of the evil goddess Ceto.",
+      "url": "https://enigmadragons.itch.io/thalattasgrandheist",
+      "status": "Completed"
+    },
+    {
+      "title": "Tax Orca USA",
+      "date": "March 2024",
+      "appType": "AI Web App",
+      "description": "Web app that allows US Business Owners to find deductions and expenses they are missing in their tax return.",
+      "url": "https://taxorcausa.com/",
+      "status": "Operating"
+    },
+    {
+      "title": "HVAC Business - Daily AI Recommendations",
+      "date": "March 2024",
+      "appType": "Web App Integrated Feature - AI",
+      "description": "AI that provides action recommendations for HVAC business owners based on their customer base and business metrics.",
+      "url": "https://www.getbreezyapp.com/",
+      "status": "Operating"
+    },
+    {
+      "title": "Integrated Lending w/ Wisetack",
+      "date": "February 2024",
+      "appType": "Web App Integrated Feature",
+      "description": "Integrated feature that enables seamless lending options for HVAC homeowners directly within the payment portal.",
+      "url": "https://www.getbreezyapp.com/",
+      "status": "Operating"
+    }
+  ]
+}
