@@ -33,7 +33,7 @@ The introduction of Structured Outputs by OpenAI is more than just a technical u
 
 By enforcing a strict schema on model outputs, OpenAI has effectively removed a layer of complexity from the development process. This not only speeds up the development cycle but also enhances the reliability and stability of AI-powered applications.
 
-```python
+```
 # Example of specifying structured output format
 response = openai.Completion.create(
   model="gpt-4o-mini",
