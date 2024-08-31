@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "title": "HVAC Maintenance Plans V3",
+      "date": "July 2024",
+      "appType": "Web App Integrated Feature",
+      "description": "Comprehensive maintenance plan management system for HVAC businesses, enabling efficient scheduling, tracking, and billing of recurring maintenance services.",
+      "url": "https://www.getbreezyapp.com/",
+      "status": "Operating"
+    },
+    {
       "title": "Cliffwatcher",
       "date": "June 2024",
       "appType": "Background Agent",
