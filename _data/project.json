@@ -55,6 +55,22 @@
       "description": "Integrated feature that enables seamless lending options for HVAC homeowners directly within the payment portal.",
       "url": "https://www.getbreezyapp.com/",
       "status": "Operating"
+    },
+    {
+      "title": "EZ Balance Sheet",
+      "date": "May 2021",
+      "appType": "Web App",
+      "description": "Quickly visualize your financial summary. See your Cashflow and Net Worth by entering in your Monthly Incomes, Expenses, Assets, and Liabilities.",
+      "url": "https://ezbalancesheet.app/",
+      "status": "Operating"
+    },
+    {
+      "title": "Lite Html 5 Audio Player",
+      "date": "August 2019",
+      "appType": "Web Component",
+      "description": "Simple HTML5 audio player that allows users to play and control audio files.",
+      "url": "http://www.litehtml5audioplayer.com/",
+      "status": "Operating"
     }
   ]
 }
