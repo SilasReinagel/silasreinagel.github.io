@@ -12,6 +12,8 @@ As an AI-powered VSCode fork, Cursor has revolutionized the way developers inter
 
 ---
 
+**Note: This article is outdated. For the latest information on using Claude with Cursor, please see the [updated article](/2024/09/03/claude-with-cursor-update/).**
+
 Enter Claude 3 Opus, Anthropic's latest offering that has been making waves in the AI community for its impressive code generation capabilities. While Cursor hasn't officially integrated Claude 3 Opus yet, there's a way for users to access it (and a wide range of other models) through OpenRouter.ai.
 
 <img src="/images/ai-using-claude-3-with-cursor.jpg" alt="AI - Using Claude 3 with Cursor IDE"/>
