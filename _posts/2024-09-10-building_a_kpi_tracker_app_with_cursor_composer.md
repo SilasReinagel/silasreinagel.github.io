@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a FullstackKPI Tracker App with Cursor Composer
+title: Building a Fullstack KPI Tracker App with Cursor Composer
 date: 2024-09-10 11:00
 author: silas.reinagel@gmail.com
 comments: true
@@ -21,22 +21,19 @@ To see this process in action, check out [this video demonstration](https://www.
 
 <img src="/images/building-fullstack-kpi-tracker-app-with-cursor-composer.jpg" alt="Building a KPI Tracker App with Cursor Composer"/>
 
-## Project Setup
+## Tech Stack
 
 For this project, I used a Node.js backend with SQLite for the database. This setup allows for easy deployment to a server without complex database hosting requirements. I built the frontend using React with Tailwind CSS for styling.
 
-## Key Development Steps
+---
+
+## Key Development Moments
 
 1. **Authentication**: I implemented basic authentication to secure the API. For simplicity, I used a configurable user system rather than a full login flow.
-
 2. **API Centralization**: I centralized all API calls into a single file for consistency and easier management of headers.
-
 3. **Error Handling**: I set up a toast notification system to display errors in the user interface.
-
 4. **CORS Configuration**: I addressed Cross-Origin Resource Sharing (CORS) issues to enable frontend-backend communication.
-
 5. **Database Schema Updates**: I added utility functions to recreate the database when schema changes were made, which is particularly useful for SQLite in development.
-
 6. **KPI and Event Management**: I built features to create and view KPIs, as well as record and view events associated with these KPIs.
 
 ---
