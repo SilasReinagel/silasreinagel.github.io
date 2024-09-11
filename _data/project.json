@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "title": "CRM - Integrated Phones",
+      "date": "August 2024",
+      "appType":"Web App Integrated Feature",
+      "description": "Advanced CRM feature integrating phone systems, enabling seamless communication tracking, call logging, and customer interaction management directly within the CRM interface.",
+      "url": "https://www.getbreezyapp.com/",
+      "status": "Operating"
+    },
+    {
       "title": "HVAC Maintenance Plans V3",
       "date": "July 2024",
       "appType": "Web App Integrated Feature",
