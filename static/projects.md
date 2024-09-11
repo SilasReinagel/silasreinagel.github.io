@@ -4,7 +4,6 @@ title: "Projects"
 permalink: projects.html
 ---
 
-
 <div class="projects-container">
   These are some of the non-NDA software projects I've built recently:
   {% for project in site.data.project.projects %}
@@ -29,6 +28,7 @@ permalink: projects.html
   flex-direction: column;
   gap: 20px;
   align-items: center;
+  padding: 0 15px;
 }
 
 .project-card {
@@ -37,8 +37,8 @@ permalink: projects.html
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   padding: 20px;
-  width: 600px;
-  min-width: 300px;
+  width: 100%;
+  max-width: 600px;
   text-align: left;
 }
 
@@ -69,7 +69,23 @@ permalink: projects.html
   background-color: #0056b3;
   color: #fff;
 }
+
+@media (max-width: 768px) {
+  .project-card {
+    padding: 15px;
+  }
+
+  .project-card h2 {
+    font-size: 1.3em;
+  }
+
+  .description {
+    font-size: 0.8em;
+  }
+
+  .project-link {
+    padding: 8px 16px;
+    font-size: 0.9em;
+  }
+}
 </style>
-
-
-
