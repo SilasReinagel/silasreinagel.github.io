@@ -5,7 +5,7 @@ date: 2024-09-19 09:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [ai, agent-systems, concepts]
-featured-img: /images/agent-system-core-loop.jpg
+featured-img: /images/agentic-systems-core-loop.jpg
 ---
 
 In the realm of agent systems, whether powered by human intelligence or artificial intelligence, there exists a fundamental concept that drives task accomplishment: the Core Value Loop. This simple yet powerful cycle forms the backbone of how agents operate to achieve their missions.
@@ -13,8 +13,6 @@ In the realm of agent systems, whether powered by human intelligence or artifici
 ---
 
 <img src="/images/agentic-systems-core-loop.jpg" alt="Agentic Systems Core Value Loop"/>
-
-This diagram illustrates the Core Value Loop in agent systems, showing the cyclical nature of Planning, Executing, and Evaluating in pursuit of a mission goal.
 
 ## The Core Value Loop
 
