@@ -2,6 +2,8 @@
 
 Silas Reinagel - Extreme Software Engineering Blog
 
+I love learning and writing about software engineering, AI, and project management.
+
 ----
 
 ### Bug Report Policy
