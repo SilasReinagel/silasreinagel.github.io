@@ -1,5 +1,13 @@
 {
   "projects": [
+    { 
+      "title": "Christmas Wishlist App",
+      "date": "September 2024",
+      "appType": "Web App",
+      "description": "Web app for creating, managing, and sharing Christmas wishlists with friends and family. Ideal for large families, it helps organize wishes, claim gifts, and simplifies the gift-giving experience. Features include item details, prices, and purchase status tracking.",
+      "url": "https://christmaswishlist.app/",
+      "status": "Operating"
+    },
     {
       "title": "CRM - Integrated Phones",
       "date": "August 2024",
