@@ -1,5 +1,29 @@
 {
   "projects": [
+    {
+      "title": "The Spy's The Limit",
+      "date": "November 2024",
+      "appType": "Video Game",
+      "description": "A first-person parkour chase game set in a 1960s airport. As a pursuit agent, catch a spy through procedurally-generated levels using fluid movement mechanics. Features story, voice acting, and period atmosphere. Created for Github Game Off 2024.",
+      "url": "https://silasreinagel.itch.io/the-spys-the-limit",
+      "status": "Completed"
+    },
+    {
+      "title": "Maintenance Plans V3",
+      "date": "October 2024", 
+      "appType": "Web App",
+      "description": "A sleek, modern module for selling and configuring HVAC maintenance plans. Features visual plan builders, automated pricing, and mobile-friendly on-site app experience with one-time payments or recurring billing.",
+      "url": "https://www.getbreezyapp.com/",
+      "status": "Operating"
+    },
+    {
+      "title": "OctoCascade",
+      "date": "October 2024",
+      "appType": "Casual Video Game",
+      "description": "A word puzzle game where you transform short words into longer ones by adding or replacing letters. Features underwater visuals and strategic vocabulary-based gameplay.",
+      "url": "https://octocascade.com/",
+      "status": "Operating"
+    },
     { 
       "title": "Christmas Wishlist App",
       "date": "September 2024",
