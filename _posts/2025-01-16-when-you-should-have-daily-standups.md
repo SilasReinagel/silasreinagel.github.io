@@ -39,19 +39,19 @@ This ritual originated from Scrum methodology but has been widely adopted (and a
 
 For all of these Daily Standup purposes, it's best to conduct them in this format for a limited duration, and regularly re-evaluate the effectiveness and need for the meetings. When they are serving your primary purposes, keep them on the schedule. When they are not, discontinue them.
 
-1. Team Reconfiguration
+## 1. Team Reconfiguration
 
 For a new, or a newly reconfigured team, daily standups can be a good way to acclimate the team to the current norms and social dynamics. It's a higher bandwidth form of interaction than pure work-tracking tools, and so it can be helpful in helping the team to learn the personalities of the team members, and the general team ethos. 
 
 When you are conducting standup meetings for this purpose, the highest value bit is the social interactions and discussions. The actual work-tracking is secondary. Encourage some level of technical discussion, but still encourage deep dives to happen outside of the meeting, to keep things tight and focused.
 
-2. Highly Non-Linear Projects
+## 2. Highly Non-Linear Projects
 
 With linear projects, the work should be treated more like a simple factory pipeline. However, when the team is working on novel types of projects, or research projects, the work is usually highly complex, highly unpredictable, and largely exploratory. This type of work is difficult to quantify, and difficult to track. Additionally, since it's not known-quantity work, even the techniques, requirements, and processes are in flux. This is where discussion and collaborations are massively useful.
 
 When you are conducting standup meetings for this purpose, the most important thing is knowledge sharing and collaboration. The goal is to distribute knowledge across the team, to share techniques, concerns, ideas, and working approaches. 
 
-3. Extremely Short Projects
+## 3. Extremely Short Projects
 
 For extremely short projects, these types of status meetings are useful for high-levels of synchronization. Many short-project teams have not worked together before, and so having shared meetings bridges the variety of assumptions and previous project contexts all the contributors are used to. It also is a highly effective way to keep everyone on task, and making clear and consistent progress.
 
