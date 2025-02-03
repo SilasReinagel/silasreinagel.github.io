@@ -147,7 +147,7 @@ What are some examples of low-power UI?
 
 UI Revamps that don't improve the product are rightly mocked by those who see the waste of valuable creative resources. Creative energies can and ought to be primarily applied to genuine utility improvements. We recently saw Google experience a lot of criticism for their [login page redesign](https://www.reddit.com/r/UXDesign/comments/1awpdu8/what_are_your_thoughts_on_googles_new_signin_page/). If you can improve the product and also the aesthetics at the same time, that can be a win. But it's essential to NEVER lose sight of the key company mandate and mission to improve life and work for your users.
 
-<img src="/images/google-login-page-redesign.jpg" alt="Google Login Page Redesign" />
+<img src="/images/google-login-redesign-compare.jpg" alt="Google Login Page Redesign" />
 
 Counterintuitively, some of the most powerful interfaces in history have been text-based. The UNIX command line can reshape entire systems with a single command. The lesson? Power isn't about flashy graphics - it's about leverage.
 
