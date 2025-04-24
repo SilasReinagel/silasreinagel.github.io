@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Power of the 2-Minute Rule"
-date: 2024-04-02 06:00
+date: 2025-04-02 06:00
 author: silas.reinagel@gmail.com
 comments: true
 categories: [Productivity, Time Management, Personal Development, GTD Methodology]
