@@ -1,8 +1,8 @@
 # Site settings
-title:       Silas Reinagel
+title:       AI Automation Consultant & Master Engineer – Silas Reinagel
 email:       silas.reinagel@gmail.com
 author:      Silas Reinagel
-description: "Extreme Software Engineering Blog"
+description: "AI Automation Consultant & Master Engineer specializing in production-ready AI systems that transform manual workflows into autonomous, revenue-generating operations."
 baseurl:     ""
 url:         "https://www.silasreinagel.com"
 date_format: "%b %-d, %Y"

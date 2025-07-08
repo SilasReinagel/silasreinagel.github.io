@@ -23,6 +23,79 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
 
+    <!-- Schema.org markup for Person and Services -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Silas Reinagel",
+        "jobTitle": "AI Automation Consultant & Master Engineer",
+        "description": "AI Automation Consultant & Master Engineer specializing in production-ready AI systems that transform manual workflows into autonomous, revenue-generating operations.",
+        "url": "{{ site.url }}",
+        "sameAs": [
+            "https://www.linkedin.com/in/{{ site.linkedin_username }}",
+            "https://github.com/{{ site.github_username }}",
+            "https://twitter.com/{{ site.twitter_username }}"
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Independent Consulting"
+        },
+        "expertise": [
+            "AI Automation",
+            "Software Engineering",
+            "Production AI Systems",
+            "Workflow Automation",
+            "Enterprise Software"
+        ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "AI Automation Consulting",
+        "description": "Production-ready AI systems that transform manual workflows into autonomous, revenue-generating operations",
+        "provider": {
+            "@type": "Person",
+            "name": "Silas Reinagel"
+        },
+        "serviceType": "AI Automation Consulting",
+        "areaServed": "Worldwide",
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "AI Automation Services",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Automation Roadmap Sprint",
+                        "description": "2-week strategic planning for AI automation implementation"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Build & Integration",
+                        "description": "Custom AI system development and integration"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Advisory Retainer",
+                        "description": "Ongoing AI automation strategy and implementation support"
+                    }
+                }
+            ]
+        }
+    }
+    </script>
+
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" type="text/css">
 
