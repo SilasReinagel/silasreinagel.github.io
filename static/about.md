@@ -5,7 +5,7 @@ permalink: about.html
 ---
 
 <div class="about post">
-  <h2 class="post-title center">About Me</h2>  
+  <h1 class="post-title center">About Me</h1>  
   <div class="container py1 mb1"><div><img class="post-featured-img" src="/images/silas-live-presentation.jpg" alt="Silas Reinagel Giving a Live Software Talk"></div></div>
 
   <p>I'm Silas Reinagel, a software engineer, project manager, writer, and software mentor.</p>

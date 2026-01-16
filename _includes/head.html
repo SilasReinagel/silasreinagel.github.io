@@ -14,7 +14,7 @@
     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
+    <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
     {% if page.meta_robots %}<meta name="robots" content="{{ page.meta_robots }}">
     {% else %}<meta name="robots" content="all">{% endif %}
     <meta name="author" content="{{ site.author }}">
@@ -116,11 +116,16 @@
     <!-- Open Graph -->
     <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
     <meta property="og:locale" content="{{ site.text.og_locale }}">
-    <meta property="og:type" content="article">
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
     <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
-    <meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | truncate: 200 | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title | xml_escape }}">
+    {% if page.featured-img %}
+    <meta property="og:image" content="{{ site.url }}{{ page.featured-img }}">
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}/images/logo.png">
+    {% endif %}
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -129,9 +134,13 @@
         <meta name="twitter:site" content="@{{ site.twitter_username }}" />
     {% endif %}
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | truncate: 200 }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+    {% if page.featured-img %}
     <meta name="twitter:image" content="{{ site.url }}{{ page.featured-img }}">
+    {% else %}
+    <meta name="twitter:image" content="{{ site.url }}/images/logo.png">
+    {% endif %}
 
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-touch-icon-57x57.png">

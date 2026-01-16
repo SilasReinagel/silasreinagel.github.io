@@ -15,6 +15,9 @@ layout: null
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% if post.featured-img %}
+        <enclosure url="{{ site.url }}{{ post.featured-img }}" type="image/jpeg" length="0" />
+        {% endif %}
       </item>
     {% endfor %}
   </channel>
